@@ -1,0 +1,16 @@
+=> RMC / Nextradio : pas de retour de la part de Julien Chazotte. j'ai envoyé les infos pour la solution sur les encodages avec "use streaming mode". En attente de leur retour.
+
+=> Deluxe : les test plans sont finalisés. Ils sont sur le NAS dans le dossier \\10.0.0.233\technique\Bureau_Fabien\dossiers clients en cours\Deluxe sous le nom TestPlansExport_Deluxe_2019-10-21_10-44-53.zip
+
+=> BCE : J'essaye de me connecter sur la ferme  Cambria de BCE mais avec Teamviewer  il y a des problèmes car la machine en RDP se connecte sur un écran noir. Ok j'ai pu récupérer les infos. J'ai demandé à David Dong de faire une extension de la license temporaire car il faut vérifier dans les réglages de leur presets s'ils ne se sont pas trompés dans les résolutions sur le preste XAVC300
+
+=> M6: il faut un fichier lmdb. voir pour leur faire une procédure avec un reconcile et un save
+
+=> Videomenthe : Devis de 1000 euros pour la license Windows 2016 standard. est ce qu'on l'achete ? 
+
+=> Capella Systems: demande Ikuyo pour passer leur fichiers dans Baton. EN attente du retour de Muriel pour commencer à faire le test plan
+
+=> NRJ: les relancer sur les problèmes de transcodages avec Watermarking qui ne marchent pas. 
+
+=> ARTE France  : La licence temporaire va jusqu'au 31 Octobre, ils demandent un extension de licence. En attente de leur fichier de licence pour demander une extension auprès de Interra
+

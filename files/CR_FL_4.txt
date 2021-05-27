@@ -1,0 +1,26 @@
+=> Cablenet : connection IP machine , installation RDP et installation pré-requis. en attente de version de node pour installer WFS node
+
+=> Tandem : déchargement des cartes Jeudi et Vendredi
+
+=> NRJ : réalisation bench et dimensionnement ferme Cambria
+
+=> Radio France : réalisation bench et dimensionnement ferme Cambria
+
+=> Eolementhe: travail sur intégration plugin Grafana mongo et résolution problème DNS sur Prometheus et Alertmanager
+
+=> IAM : point sur problèmes encodages en cours. Capella propose un nouveau build pour résoudre le problèmes de barre noir en bas de l'image. Voir aussi les presets WFS pour les encodages SD ( mapping audio)
+
+=> TF1 : demande support sur mesure loudness. En attente du retour de Victorien
+
+=> Videomenthe: mettre à jour le fichier AMC avec les onglets Cambria. En cours
+
+=> TF1: reprise des infos sur un problème de mesure Loudness avec Baton sur des fichiers courts. En attente des fichiers de TF1
+
+=> Eolementhe : Uniformisation du fichier de workflow de Contitnous Delivery pour toutes les branches
+
+=> FTV Corse : question sur la verification md5 dans Baton. Ok
+
+=> IAM : Mise à jour du cluster Cambria FTC et des 2 nodes en version 4.6.0.52764
+
+=> Cyta : préparation des machines pour installation. Les pots reseaus sont en SFP et il n'y a pas d'adaptateur SFP - RJ45. En attente de retour Devensys
+

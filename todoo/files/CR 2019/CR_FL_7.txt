@@ -1,0 +1,16 @@
+=> Pixagility : problème sur certains transcodages qui ne se terminent pas. ticket ouvert chez Harmonic. En attente de leur retour. A suivre la semaine prochaine
+
+=> RMC / Nextradio : problème de requêts soumises par Louise sur des fichiers .mov. A voir semaine prochaine selon les retours de Harmonic
+
+=> NoA : rendez-vous pour prise en main Eolementhe. Formation Cambria FTV à faire
+
+=> FTV Antibes : machine reçue et presque terminée. Voir pour S2Sp qui ne se lance pas
+
+=> FTV Ponant : Configuration Cambria FTC faite. Journée Formation reportée pour avoir plus de monde.
+
+=> Baton Siège : etude de leur fichiers faites, les résultats des rapports Baton sont assez similaires. Il reste à avoir le retour précis de Interra sur les modifications de balises XML
+
+=> Vincent Charley : Essais des 3 fichiers sur Cambria ok. A essayer aussi sur WFS
+
+=> ONU : Fichier real media possibles à encoder avec mencoder
+

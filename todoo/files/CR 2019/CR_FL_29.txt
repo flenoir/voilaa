@@ -1,0 +1,40 @@
+=> NRJ : dongles RMA à faire sur ferme replay. Envoyer demande à Harmonic. Tous les fichiers envoyés correspondent déjà à un RMA sauf WFS01 qui corespond à une license temporaire. En attente du retour de Jeremie Jouanny
+
+=> IAM : Le stitch sur plusieurs frame rate ne fonctionne pas ,en attente du retour de David Dong
+
+=> M6 : voir Retour de Yohann et Alexis sur la possibilité de modifier leur test-plan. Ok Yohann modifie le test plan AS10 en fonction des mes retours. je préviens Frederic Guiot
+
+=> ARTE: revoir pour recevoir les fichiers Op1b de la part de Kevin. Déployer  la version de Eolementhe via Anyconnect Mardi avant d'y aller. Ok déployé. Il reste à vérifier les points bloquant pour Kévin sur le Poc Eolementhe. en attente de son retour. 
+
+=> France24 : suivre le problème de disque dur à changer. Harmonic renvoi une machine complète, ce qui suppose de ré-installer  la machine. En attente du retour de France24 pour savoir si la machine est un controller ou un node, et des infos du support Harmonic pour avoir une procédure pour le remplacement de la machine. 
+
+=> Zayo : rehosting Baton en cours sur Azure. voir pour problème sur date de SLA. WFS en cours, il faut remonter les licences WFS dans le portail (se mettre sur le Nodelock en 127.0.0.1). Ok fait
+
+=> Radio France : renvoyer dongle qui permet d'ouvrir aussi Carbon Coder admin. Envoi en cours
+
+=>  Digital Post Prod : machine préparée et à nouveau essai d'envoi fait sur machine tandem. Il faudra ré-affecter le serveur sur Tandem car le gars sur place ne sera pas là à partir de Mardi soir. 
+
+=> Nextradio : finaliser avec Muriel les documents sur les fermes WFS, en particulier sur les plugin Xdream
+
+=> France24 : ils veulent faire l'upgrade de leur ferme WFS. Il faut prévoir un moment pour faire des essais de connection à distance avec eux. A mettre en parallèle du remplacement de la machine.
+
+=> IAM : Le stitch sur plusieurs frame rate ne fonctionne pas ,en attente du retour de David Dong
+
+=> France24 : suivre remplacement de machine et upgrade. La machine sera un node à reconfigurer. En attente de savoir s'ils ont reçu la machine. 
+
+=> Radio France : renvoyer dongle. Ok 
+
+=> Digital Post Prod : machine préparée et à nouveau essai d'envoi fait sur machine tandem. Il faudra ré-affecter le serveur sur Tandem car le gars sur place ne sera pas là à partir de Mardi soir.
+
+=> Nextradio : finaliser avec Muriel les documents sur les fermes WFS, en particulier sur les plugin Xdream. Ok tableau envoyé en précisant que pour Xdream cela passe par Harrmonic. Mettre les 5 licences sur la ferme WFS de nextradio. En attente de leur retour sur les licences additionnelles à acheter
+
+=> MAPA / Maroc : reçu fichier de Sébastien Tardy et renvoyé à Amit. La license permanente est bien appliquée.
+
+=> France3 Antibes : machine remplacée. envoyer bon de prestation à faire signer.Relancer pour avoir le bon de prestation
+
+=> Radio France : Prerequis Cambria FTC et Eolementhe envoyés
+
+=> Luxe TV : encodage de fichiers pour comparer les encodages CBR de Cambria. En attente du retour de David Dong sur une question sur l'encodage CBR
+
+=> INA : recherche pour répondre à leurs demandes
+

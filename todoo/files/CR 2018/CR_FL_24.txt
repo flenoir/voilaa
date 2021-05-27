@@ -1,0 +1,9 @@
+=> Répondre à Eric sur question Dolby. fait
+=> BCE: Baton après ré-installation le Checker server se lancer bien. Baton fonctionne.
+=> Hiventy : Test plan modifié pour utiliser  les réglages de la ferme sur les "duplicate frames", envoyé à Eric Lemaire
+=> Hiventy : Elements envoyés à Interra pour les "blocky dropouts" qui sont détectés par erreur. Interra à répondu, j'ai transmis ls infos à Eric de Hiventy
+=> GOTV: retours de Gilbert sur la pixelisation en fonction des débits. En attente du retour de Alex. Proposition d'Alex envoyées à Gilbert
+=> NRJ: Ils ont pu relancer WFS correctment, un des chemins de louise n'était pas bien configuré. ils demandent combien de licences ils ont pour WFS. Selon nos documents, ils ont 3 fermes WFS (AVID, REPLAY et LABO) avec 2 nodes chacuns mais il y a d'autres Carbon qui doivent être associés à ces nodes. en attente de leur retour. 
+=> M6: ok pour encoder les fichiers selon le format demandés. J'ai créé un script qui permet aussi de bruler le TC sur les fichiers de destinations (seulement sur le MXF comme demandé). Les scripts sont corrigés pour sortir la définition demandée, croper seulement les lignes utiles sur les fichiers SD et faire un resize du PAR, extraire le TC des fichiers WMV et les brûler dessus. Selon la dernière demande, le Timecode est affiché et haut à droite sur un fond semi opaque et les pistes audios mono sont remappées en stéréo. les fichiers ne se lisent pas bien avec le player MBT de M6, plusieurs fichiers on été fait avec des changements de GOP. Un ticket est ausi ouvert chez MBT par M6.
+=> TANDEM: déchargement des cartes Lundi / Mardi
+=> Benchmark MAPA, Eutelsat, M6: faits sur FTC de la .top. Les encodages M6 sont tous fait selon la demande du client. les benchmarks pour MAPA FTV ont été fait sur Cambia FTC sur la machine azure 8 cores.

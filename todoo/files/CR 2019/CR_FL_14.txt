@@ -1,0 +1,26 @@
+=> FTV Ponant : renvoyer fichier 3 audio avec waterking mediametrie à FranceTV. OK
+
+=> BNF : RDV Lundi matin pour montrer Eolementhe. leur projet se rapproche plus des Archives de Monaco. Faire un focus sur Wowza mais ils ont été très intéressé par Eolementhe. Voir aussi pour transcodage
+
+=> AB Group: POC mis en place, ils doivent passer sur des machines plus puissantes. attention au prêt de la carte AJA. Ils ont 2 dongles pour faire fonctionner Cambria FTC et Cambria Live. En attente de leur retour pour les aider si besoin avec les nouvelles machines.
+
+=> Pixagility : remettre licences sur leur ferme Jeudi. Vérifier les licences dans le portail auparavant. Problème de "regional settings" et de configuration profils/level. Ok. Nous n'avons toujours pas eu le RMA fait par Harmonic. je les ai relancé Jeudi mais n'ai toujours pas de réponse.
+
+=> Tandem : déchargement des cartes Mardi, Mercredi, Jeudi et Vendredi
+
+=> Equipe TV:  configuration du dongle Cambria et estimation bench  sur 800 To. Benchs envoyés et call fait ensuite avec Eric. Il est plutôt content de la vitesse de transcodage. Dongle envoyé ce Vendredi
+
+=> NoA : problème sur gain après normalisation audio sur loudness Cambria. Configuration donnée par David a essayer chez nous. Le volume au début est toujours plus bas. J'ai envoyé d'autres infos à David Dong pour voir s'ils peuvent modifier cela dans leurs réglages de normalisation. En attente du retour de David Dong.
+
+=> Level : problème de détection sur bandes noir différentes suivant certains codecs. Il y a des réglages différents dans les "related settings", je lui ai demandé de les changer. En attente de son retour pour fermer le ticket.
+
+=> FTV Mpeg4 : Ajaccio n'a toujours pas fait la mise à jour de S2SP pour qu'on puisse appliquer  les 3 audios
+
+=> Videomenthe : Phishing sur les accès de Muriel et Eric. Mots de passe modifiés, mise en place authentification 2 facteurs sur Office 365 et Dashlane. Information faite à la Cnil
+
+=> Nextradio : Demande de créer un test plan Baton selon leur specifications. En attente de la validation du devis. Ils ont aussi eu des problèmes avec Baton après changement de l'adresse IP. Le redémarrage des services du serveur Zeo ont permis de relancer le VM et le CS.
+
+=> LyloTV : demande d'aide sur le FTP retreival sur Carbon Coder qui ne fonctionne pas. Infos envoyées. en attente du retour de Pascal Bourgeois pour fermer le ticket.
+
+=> NoA : Jean-luc Hachon m'a demandé si on pouvait lui fournir une interface web pour Cambria FTC. On peut lui proposer ONE GUI ou la petite application que j'ai faite, ou demander aux dev de l'integrer dans eolementhe. Dans tous les cas, il voudrais l'avoir assez vite car il a commencé à déployer Cambria FTC dans son workflow NoA
+

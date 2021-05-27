@@ -1,0 +1,36 @@
+=> Arte Paris: voir avec Guillaume pour relancer leur WFS en remote. Remote à faire mardi après-midi. Ils doivent me donner un accès Wallix sur le controlleur pour voir leurs presets afin de pouvoir lancer un workflow eolementhe. Il veulent aussi pouvoir soumettre des fichiers avec des essence séparées et faire du burn de sous-titre (à faire peut-être directement de eolementhe en fonction de ce qu'ils ont pris). Il faut aussi voir pour du watermarking. Ils doivent envoyer des fichiers source. 
+
+=> Eolementhe : la version HA tourne sur la .top, il manque la communication entre les fermes et Eolementhe, ce sera fait cette semaine.
+
+=> Eolementhe Cloud : vérifier la tarification sur Azure (estimation actuelle à 1500 euros)
+
+=> Pixagility : relancer Rohan et répondre à Jean-Jacques Castelotti. Mettre les licences sur leur machine dès qu'on les reçoit Jeudi et les renseigner sur le fichier AMC. faire le point avec les mais précédents sur ce qui devrait être migré et mettre à jour leur tableau. On aurait dû recevoir les licences Jeudi mais , elles ne sont pas dans le portail. J'ai encore relancé Jeudi soir et Vendredi
+
+=> GOTV : Caler horaire de la remote Mardi matin, pas possible pour Gilbert, à recaler Mercredi matin 10h. Rohan a fait le remote, il y vait des credentials qui n'étaient pas bon mais le problème est surtout sur Xpress car les mêmes fichiers passent sous Carbon. Ces fichiers sont "trimés" par une application VideoRedo et ensuite Xpress n'arrive pas à les encoder. Rohan a créé un FTP et demande à Gilbert d'uploader un fichier Raw et un fichier trimé afin de voir chez Harmonic. Gilbert a uploadé les fichiers sur le FTP, j'ai prévenu Rohan
+
+=> Digital PostProd : voir avec Thierry Seux s'il a pu envoyer les informations de connexion à la Guyane. Vérification ce jeudi, pour le moment personne n'a envoyé de fichier, j'ai renvoyé l'info à Thierry Seux pour qu'il demande à la Guyane d'envoyer un fichier.  Toujours aucun fichier envoyé ce Vendredi
+
+=> France24 : relance pour savoir quand est ce qu'il font l'upgrade. Ils doivent le faire après les élections européennes.  Je ferme le ticket
+
+=> LuxeTV : refaire une encodage 4K H264 en 15 Mbits et leur envoyer. Ok. la qualité est trop juste, ils veulent à nouveau un fichier 4K en 30 Mbits H264, à refaire et à envoyer. Envoi de nouveaux fichiers sur presets H264 6 Mbits et 20 Mbits. En attente de leur retour
+
+=> FTV OM : question de clément Abeillé afin de voir pourquoi il ya des fichiers qui ne sont pas purgés dans le dossier Temp. Je demande de licenses temporaires. J'e demande confirmation qu'il s'agit bien de migration de machines, en attente de son retour.
+
+=> NoA : relancer Capella sur le problème  FTP et rappeller Philippe Mutelet Jeudi en début d'après-midi. License permanente reçue et envoyée à Philippe Mutelet. Sur le question FTP, Jay est en train de faire des essais pour reproduire le problème chez NoA
+
+=> Nextradio : vérification de leur fichier qui a une detection de tramage progressive et entrelacée. Ok répondu.
+
+=> FTV Ponant : Larbi demande si on est revendeur de AMB Nugen. Il nous faut le coode d'un compte ilok que je n'ai pas trouvé. Voir avec Bertrand
+
+=> FDI : envoyer à Nicols Fleury des schémas de configuration Baton entreprise. Ok
+
+=> Appel d'offre RFI / Harmonic : faire comparatif WFS et Cambria FTC  pour répondre à appel d'offre France24 sur transcodage. OK
+
+=> PE : demande de Delphine qu'on lui récupère un fichier pour lancer une burn de sous-titre. ok je l'ai fait et renvoyé à sa demande sur wetranfer
+
+=> Hiventy : demande d'informations sur les réglages PSE dans Baton. Infos envoyées. ok. Jeudi soir, ils ont mis à jour la licence support Baton mais cela ne marchait plus, je les ai assisté le soir et Vendredi matin Viktor a renvoyé un license. OK
+
+=> Capella Systems : Une nouvelle version de Cambria_FTC est sortie. J'ai essayé le monitoring Grafana et Prometheus, cela marche en local mais pas sur notre Grafana, j'ai demandé à Junko les modifications à faire
+
+=> Credit Agricole : demande d'encodage de vidéos en VR. Possible pour les video équirectangulaires avec ffmpeg. Voir pour le son 360 et les VR sbs
+

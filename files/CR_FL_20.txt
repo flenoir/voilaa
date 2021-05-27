@@ -1,0 +1,12 @@
+=> Videofutur: Installation Cambria et prestation formation. Je les ai contacté pour savoir s'ils avaient besoin d'aide pour l'installation. Pas encore de retour
+
+=> Pixagility: Cambria installation + 1j de prestation. A caler avec eux
+
+=> Eolementhe : spike outils de traduction et transcription quel est l'outils qui fait comme Speechmatics et SDL. j'ai dait des recherches, je vais voir pour faire un résumé et l'envoyer la semaine prochaine
+
+=> Eolementhe: mise en place de nouveaux tests "End to end" et ajout dans repo github dedié sur Eolementhe. mise en place des variables d'environnement et premiers tests de déploiement sur .top
+
+=> Secom : preparation formation de jeudi sur configuration audio . A terminer
+
+=> Eolementhe: recherche sur possibilités évolutions des services de transcription et traduction sur Microsoft et Google
+

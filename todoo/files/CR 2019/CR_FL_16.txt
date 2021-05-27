@@ -1,0 +1,20 @@
+=> Euronews : Revoir avec Laurent de Rodez s'il a pu télécharger ses fichiers.  Voir le problème de téléchargement standard et le workflow simple de burn. Le burn ffmpeg avec les mxf produit des .mxf en progressif (solution trouvée et ajoutée dans eolementhe en nouvelle issue). Il faut aussi décaler le sous-titre de Euronews pour passer leur bandeau en dessous (un réglage vertical à 40 pixel est ok). Fix mis sur la .top pour l'entrelacement sur le burn des fichiers MXF. Workflow Euronews essayé et documenté. Tous les réglages sont dans le fichier "Workflow Eolementhe.xlsx" sur le NAS 10.0.0.233 dans le dossier "\\10.0.0.233\technique\Bureau_Fabien\dossiers clients en cours\Euronews"
+
+=> FTVOM : Clément Abeille remonte des problèmes de vitesse. Proposition de passer sur version 3.26 pour voir si la vitesse est meilleure. La vitesse reste aussi lente en version 3.26 alors qu'en version 3.20 c'est plus rapide. Je lui ai demande de vérifier la clé de registre XDCAM
+
+=> France24 : suivi du ticket suivant les retours de France 24. Infos transmise au support Harmonic. Harmonic n'arrive pas à reproduire le probleme et nous non plus depuis le passage de WFS en 2.3.2. Demande à France 24 d'essayer avec le fichier source de Harmonic et aussi de vérifier les codecs installés sur la machine. j'ai essayé sur WFS de la .net et il y avait une désynchro aussi, j'ai désinstallé en remis une version 2.3.2.34 et plus de désynchro. J'ai envoyé les instructions au client pour faire un essais sur une node. A suivre la semaine prochaine.
+
+=> Eolementhe : les fichiers .mxf avec burn ressortent en progressif. Voir pour changer le mode de burn sur les videos. il faut faire une detection ffprobe pour vérifier l'entrelacement (ffprobe -v error -select_streams v:0  -show_entries "frame=interlaced_frame" -read_intervals "%+#1" -of default=noprint_wrappers=1 "C:\Users\Fabien\Desktop\Sleep-Over_Ep1 Winemaker.mxf") et si c'est entrelacé, il faut ajouter un paramètre au burn de sous-titres ffmpeg (-flags:v +ildct). Ok fix déployé sur toutes les plateformes. 
+
+=> EquipeTV : envoi de Cambria FTC pour qu'ils essaient le logiciel. Ils sont dubitatifs sur la vitesse, je leur demande de passe réglage "fast" sur le preset. Ils veulent aussi une précisions sur les types de "growing files" pris en charge. actuellement TS et MXF.
+
+=> Pixagility : Après les retours de Matthieu Rocca, essayer de modifier les paramètres VBV et PCR pour éviter le buffer underflow. Pas réussi à reproduire l'erreur pour le moment pour faire varier ces réglages. 
+
+=> Pixagility : faire le point avec Bertrand sur les licences. Jean-Jacques Castellotti a envoyé des fichiers .c2v des nouvelles machines au lieu des anciennes. Lui redemander d'exporter les bons fichiers. Bertrand leur a renvoyé un tableau avec les informations. En attente de leur retour.
+
+=> EPC : problème de Burn sur fichier. Après avoir essayé un nouveau fichier video, le burn ne se fait pas non plus. Erreur "Exited with 1 - 29727.955 [aac @ 0x5836860] 2 frames left in the queue on closing Conversion failed!". J'ai récupéré le .srt et le fichier .mp4 et l'ai brulé localement et renvoyé au client, en attendant de voir  pourquoi ce fichier ne marche pas. Voirr si cela refait le même erreur avec une autre fichier
+
+=> Nextradio : demande d'infos sur le lien entre le test plan et le rapport sur Baton. Infos envoyées et KB mise à jour
+
+=> IAM : Atelier fait jeudi. Il faudra fairre des essais avec Cambria avec eux car ils veulent vérifier les transcodages avec changement de framerate et aussi le comportment des times codes dans ces transcodages. Voir aussi s'ils veulent 2 fichiers pivots lesquels choisir notamment pour le jpeg2000
+

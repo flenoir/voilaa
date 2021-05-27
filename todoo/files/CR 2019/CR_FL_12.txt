@@ -1,0 +1,20 @@
+=> Red Bee Media : probleme de preset surr un watchfodler. OK le preset n'était plus rattaché au workflow.
+
+=> FTV Siège : Thierry Brochard a envoyé ses fichiers .c2v, ils ont été renvoyés à Harmonic pour générer la license SL. Harmonic a renvoyé une info pour récupérer le fichier manquant, les infos ont été envoyées à Thierry Brochard. En attente de ses fichiers pour que Harmonic puisse les régénérer. 
+
+=> Titra TVS : aide pour verification frame rate Baton. Relancer Jozsef
+
+=> NoA : vérification du serveur de licence et envoi des infos à Capella. Aide à la configuration sur mapping audio et watchfolders. Ajouter une partie sur la configuration du mapping audio et de la normalisation de Loudness dans la formation Cambria FTC
+
+=> FTV Antibes : la machine WFS Mpeg4 ne fonctionne plus, problème d'alimentation. Un ticket chez HP a été ouvert.   Un technicien HP a changé, à nouveau la carte mère. Antibes nous envoi la machine spare qu'ils avaient conservé afin que nous la paramétrions   pour remplacer la machine actuelle de production de Antibes. 
+
+=> M6 : problème de création de rapport pdf qui prennent trop de temps et qui font planter le plugin Vantage. Il y avait un réglage de content layout qui faisait durer la création du rapport. Ok
+
+=> LTS Networks : envoi des prerequis WFS Node
+
+=> FTV Ponant : demande de faire des benchmarks sur les temps d'encodage avec watermarking Mediamétrie. En cours pour voir la vitesse avec et sans le watermarking mediametrie.
+
+=> Eolementhe : vu avec rémi les possibilités actuelles de creation IMF. Il faut pouvoir ajouter le fait d'avoir plusieurs pistes son simultanées  et  wrapper des fichiers de sous-titres (TTML en ISMC1) en MXF
+
+=> FTV Mpeg4 : Reception machine Spare2 , en cours de reconfiguration pour remplacer la machine de Antibes.
+

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Voilaa</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+
+    <style type="text/css">
+        @font-face {
+          font-family: "Questa Slab Black";
+          src: url("The Questa Project - QuestaSlab-BlackItalic_0.otf") format("truetype");
+        }
+        h1,a, .custom_font {
+          font-family: "Questa Slab Black";
+        }
+    </style>
+       <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+       <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+       <style>
+           .ui-state-highlight {
+           background-color:lightblue;
+           height: 80px;
+           margin-bottom: 20px;
+           border-radius: 10px;
+           }
+           .items{
+             margin-bottom: 20px;
+           }
+           .priority_1{
+            border: 3px solid lightgreen;
+           }
+           .priority_2{
+            border: 3px solid orange;
+           }
+           .priority_3{
+            border: 3px solid crimson;
+           }
+       </style>
+       <script>
+           $( function() {
+            $( ".sortable" ).sortable({
+            //    placeholder: "ui-state-highlight"
+               update: function( event, ui ) {
+                var ordem = $( ".sortable" ).sortable('serialize')
+                 $.ajax({
+                        type: 'POST',
+                        contentType: 'application/json',
+                        data: JSON.stringify(ordem),
+                        dataType: 'json',
+                        url: '/'
+                  });
+               }
+               });
+               $( ".sortable" ).disableSelection();
+           } );
+       </script>
+
+</head>
+<body class="">
+        {% include 'layouts/partials/_nav.html' %}
+        <div class="container is-fluid ">
+
+            {% block body %}
+
+
+            {% endblock %}
+         </div>
+
+</body>
+</html>

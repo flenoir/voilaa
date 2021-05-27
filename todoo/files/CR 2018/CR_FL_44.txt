@@ -1,0 +1,22 @@
+=> Ln & Cie : installer un Carbon coder pour essayer un workflow 4K. Par le bias de "quicktime plugin" on arrive à créer un preset 4K mais sur un fichier long, Carbon coder ressort le fichier morcelé. Refaire quelques essais.
+
+=> FTV Caen : debrief fait à Red Bee
+
+=> Trace TV : retour sur les encodages avec frame rate différents. Tout est ok pour eux.
+
+=> FTV Toulouse : problème de qualité. Alex Lopez a envoyé son filtre mais le résultat est toujours différent du sien. Alex avait dû se tromper de filtre car celui qui fonctionne est "adaptive -deinterlace". les infos ont été envoyés à FTV. En attente de leur retour.
+
+=> FTV Antibes : Disque DATA IN non accessible sur ESXI. le disque semble HS. Ticket ouvert chez HPE pour ecevoir un autre disque SSD. j'ai demandé aussi à Julien Thore de faire des vérification avec les outils HP. Jean-Christophe Denninger doit aussi envoyer un SSD de la machine de spare. Il faudra reconfigurer une partie de l'ESXI de la machine WFS de Antibes. Le support HPE dit qu'il est éventuellement possible de réparer la partie logicielle du disque SSD. ils ont besoins de logs supplémentaires. je les ai demandé à Antibes. je suis en attente de leur retour.
+
+=> FTV Ponant : Larbi et Jean-Christophe Denninger demandent de vérifier une des machines du ponant car la configuration des datastores n'est pas bonne. Il faut effectivement refaire la VM Node de la machine ponant. J'ai corrigé un problème de licence sur une autre machine (magasin technique) et ils vont utiliser cette machine en attendant. RDV a caler la semaine prochaine. pas de retour de leur part pour le moment.
+
+=> FTV Mpeg4 : remontée de Bordeaux de problèmes de qualité image comme à Toulouse. J'ai rempli le ticket Jira avec les mêmes informations que pour Toulouse avec l'ajout d'un filtre "adaptive-deinterlace". J'ai fait une TMA ce Vendredi avec Philippe Mutelet pour l'aider à mettre en place le filtre mais cela ne semble pas corriger le problème chez eux. Il m'envoi le fichier et on fait un point la semaine prochaine.
+
+=> ARTE : il n'arrive pas à démarrer sa ferme. Ils ont eu un problème sur une "tête" ESXI. depuis le contrôleur ne se connecte plus. C'est un problème identique à M6, l'ID machine n'est plus le m^me la licence ne peut pas se reconnecter. J'ai effacé les licences et la ferme est en "grace period". J'ai ouvert un ticket chez Harmonic pour qu'ils refournissent les licences dans le licportal. Les licences sont dans le portail, il faut convenir d'un moment avec Arte pour les remettre.
+
+=> Videomenthe : nettoyage salle de pause. (detartrage cafetière, vidage poubelle et nettoyage micro ondes)
+
+=> Eolementhe : Licence Baton sur Eolementhe.cloud renouvelée
+
+=> Chaine de News Belge : point fait avec Oliver et Fabien Musty. Schéma de workflow ajouté au powerpoint. On a fait le point avec Olivier et j'ai mis à jour son document excel de chiffrage. Il reste à voir la partie dev avec Eolementhe et avoir un retour sur l'intégration de inception.cloud
+

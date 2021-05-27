@@ -1,0 +1,22 @@
+=> BCE: relancer Joe pour savoir comment ils font sur le fichier 2000k. En attente de leur retour
+=> Adstream : modifier test plan pour prendre en compte l'erreur de Gamut. Le réglage était à 2% du total des pixels, avec 1%, les erreurs sont détectées. En attente du retour de Adtsream pour modifier leur test plan sur la plateforme. Ok pour eux, je l'ai changé sur leur preset, en attente de leur retour pour savoir si c'est ok.
+=> GOTV: suivre le ticket sur la pixelisation. Le support Harmonic propose de passer les presets en progressif, je pense que cela ne correspond pas à l'attente de Gilbert. En attente du retour de Gilbert
+=> Hiventy: demande d'aide sur une réglage de trou de son. Une modification du test plan lui permet de détecter les silences au lieu des dropout
+=> BCE: fournir la license permanente à BCE. Sandrine a demandé la licence permanente à BCE, en attente du retour de Viktor ou Jozsef. ok license envoyées à Thomas de BCE. ticket fermé
+=> Monaco Archives : vérifier qualité fichier HD 16/9 et corriger l'encodage. Visuellmeent, pas de différence mais le score SSIM est moins bons avec Cambria que WFS. la commande FFmpeg est : ffmpeg -i "C:\Users\Fabien\Documents\Monaco Archives\IMX 50-43_CP6564-2006-11_Pivot_FTC_SD_43.mxf"  -i "C:\Users\Fabien\Documents\Monaco Archives\IMX 50-43_CP6564-2006-11.mov"  -lavfi "ssim;[0:v][1:v]psnr" -f null –
+
+Les scores sont : 
+Cambria => [Parsed_ssim_0 @ 04bb8ac0] SSIM Y:0.988657 U:0.990606 V:0.990166 All:0.989521 (19.796864)
+[Parsed_psnr_1 @ 04bb8c40] PSNR y:35.92 u:42.18 v:40.99 average:37.81 min:34.73 max:41.12
+
+ WFS => [Parsed_ssim_0 @ 05ed8d60] SSIM Y:0.996980 U:0.997135 V:0.996980 All:0.997019 (25.255863)
+[Parsed_psnr_1 @ 05ed9ac0] PSNR y:52.76 u:55.28 v:54.98 average:53.71 min:52.20 max:64.27
+
+Pas de réponse de Vladimir pour le moment.
+
+En ce qui concerne les audios, on a bien reçu les fichiers et j'ai fait des encodages avec ffmpeg et Sox. j'ai aussi fait un rewrap des fichiers WAV en BWF en ajoutant des métadonnées. Les fichiers ont été envoyés à Eric à Monaco
+
+=> M6 : finaliser script encodage pour avoir tous les audios et ajouter silence sur une piste WMV. Un script python (app2.py) a été fait afin de prendre en charge tous les types de fichiers en une seule fois. voir pour faire un task manager avec Piper(https://medium.com/@arik.cohen/transcoding-video-at-scale-with-piper-dca23eb26fd2) et faire des dossier monitorés (https://www.michaelcho.me/article/using-pythons-watchdog-to-monitor-changes-to-a-directory)
+=> NRJ: vérifier leurs test plans ( ok pas de vérification video et audio). Revoir la formation (ok complètée selon le plan de formation qui leur a été envoyé). voir les noms des participants (ok). ajout d'un quiz Kahoot (https://create.kahoot.it/l/#user/7926098f-a25a-45c1-9cf9-af1b9de01499/kahoots/created) 
+=> Label Cloud : revoir docs pour réunion semaine prochaine. réunion téléphonique Mercredi matin.
+=> RGPD: finir les analyses d'impact sur chaque traitement du registre

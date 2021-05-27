@@ -1,0 +1,26 @@
+=> FTV Antibes : La machine est prête au départ ce lundi. En attente de la récupération de leur part, le colis est parti Mercredi.
+
+=> FTV Mpeg4 Nantes : demande d'aide pour mise en place Spare. TMA faite Lundi. Envoyer presets. OK
+
+=> FTV Siege : WFS en licence "partially activated" en attente de leur fichier pour ouvrir ticket chez Harmonic
+
+=> FTV Ponant : voir pour le SCTE 35 avec Cambria. Ok infos envoyées. Il y avait un problème de durée sur leur fichier, attente de leur retour. Pour le  watermarking, cela doit fonctionner, j'attend le retour de David dong qui doit chnager la licience de Cambria FTC de Videomenthe pour pouvoir valider le fonctionnement dans le preset. 
+
+=> Nextradio : WFS : demande de licence temporaire sur la version 1.7. en attente de retour de Harmonic. Ok livrée, Licence valable jusqu'au 20 Mars
+
+=> Nextradio Baton : demande d'aide sur detection Prores mais ils ne sont plus sous support
+
+=> Ninsight : envoi de release note de Carbon coder 3.28. Ok
+
+=> GOTV : demande sur un watchfolder qui n'est pas reconnu par WFS. Je lui ai demandé de vérifier les droits sur le compte de service qui fait tourner WFS. En ce qui concerne la demande de licence Dash pour Xpress, il demande une licence temporaire. j'ai vérifié, nous n'en avons pas sur le portail.
+
+=> France24 : problème de désynchronisation. Harmonic demande le preset et le workflow. demandé à France24, et fichier envoyés à Harmonic
+
+=> Pixagility : on a refait le point sur leur ferme. En attente de leur confirmation pour lancer le RMA. Lundi voir avec Muriel pour valider le fait de garder la ferme WFS 1.7 en fonctionnement encore 6 mois en // de la ferme WFS version 2 + devis nouvelle licence.
+
+=> Deluxe : valider les formats Asf en source et le rewrapping. En attente de leurs fichiers.
+
+=> Le Labo Paris : envoi à Eric du formulaire de rehosting Baton
+
+=> AB : J'ai ré-installé Cambria Live sur notre machine. apporter une webcam pour refaire des essais
+

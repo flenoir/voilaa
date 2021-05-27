@@ -1,0 +1,24 @@
+=> Trace TV : ils ne savent pas comment vérifier les numéro de licence. Minnetonka a renvoyé une procédure, si cela ne corrige pas le problème, il faut que Minnetonka fasse une remote. 
+
+=> Trace TV : envoyer dongle pour Cambria FTC. Ok envoyé Mardi
+
+=> AB : demande d'information et premiers retours sur Cambria FTC. Je les ai eu au téléphone et ils avaient des question sur la possibilité de muxer, le nombre de slots et la correction de loudness. J'ai répondu par mail. OK
+
+=> Equipe TV : TMA pour mettre en place l'encodage XAVC avec Carbon Coder 3.28. j'ai modifié une clé de registre et lancé des jobs. Il demande de l'aider à affiner leur encodage car c'est trop long. J'attende d'avoir leur preste pour leur proposer quelque chose. Ils veulent aussi des infos sur la conversion d'aspect ratio qui ne se fait pas bien. Ce Vendredi matin, les réglages du filtre d'aspect ratio ont été envoyé à l'equipeTV.
+
+=> FTV Montpellier : les aider en TMA pour la mise en place de la licence de spare. J'ai ré-initialisé WFS et il faut encore vérifier les licences Nextracker. Il y avait une erreur dans le fichier de licence kantar. Après échanges avec Marion Kaces, c'est ok. Le spare est donc fonctionnel avec Server2Splicer à Montpellier
+
+=> FTV Antibes : Houcine n'a pas les numéro de licence Windows. J'ouvre un ticket auprès de Compufirst. Il doit m'envoyer les licences Kantar ce Mardi. J'ai appellé Julien Thore à Antibes pour vérifier s'il n'a pas les licences mediametrie et les numéro de série Windows. Il me dit que non car tout a été fait par Houcine sans informer les équipes sur site. Il y avait aussi un problème sur les licences Kantar. J'ai pu échanger plusieurs fois avec Marion Floury de Kantar et au final j'ai pu relancer les licence Mediametrie (problème de versions entre le plugin du controlleur et du node et reboot de la ferme). j'ai aussi remis les licences permanentes WFS. Ce Vendredi TMA avec Julien Thore pour finaliser le fonctionnement de Server2Splicer. et en attente de HPE pour les licences Windows.
+
+=> FTV Mpeg4 : Mise à jour du document de déploiement de la solution secours. mailing aux centres pour vérifier qui l'a mis en place ou non avant la réunion de la semaine prochaine avec FTV.
+
+=> FTV Siège : réunion calée la semaine prochaine pour faire un point sur Cambria.
+
+=> FTV Ponant : J'ai reconfiguré, en TMA, les bons datastores sur la machine Ponant1. OK
+
+=> Eolementhe : modifier script Speech to text Speechmatics. Rémi l'a modifié. Ok
+
+=> Tandem : déchargement des cartes Lundi, Mercredi, Jeudi et Vendredi
+
+=> RGPD : retrait des mails dans le document AMC. OK
+

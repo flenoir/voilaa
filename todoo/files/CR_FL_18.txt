@@ -1,0 +1,16 @@
+=> PE : terminé correction en français du webinaire PE pour anna  puis correction en français et burn de la video. 4 videos à refaire et répondre sur ces questions la semaine prochaine
+
+=> Euronews : reponse sur la façon de soumettre un fichier avec un fichier .srt et sur la racine de nom. Ils ont aussi une problématique sur les MXF généré par le burn qui ne sont pas identiques à la source. Il faut soit ajouter une brique, soit modifier le code ffmpeg qui génère les mxf. J'ai regardé le code actuel ( si on ne veut pas toucher au code, on peut proposer d'ajouter une brique WFS ou Cambria pour refaire en sortie de Burn un MXF XDCAM HD, sinon, il faut modifier le fait de faire le burn des MXF avec ffmpeg
+
+=> Videomenthe: Note de frais et Heures supplémentaires
+
+=> Eolementhe : tests sur la .top
+
+=> Eolementhe : serie de tests et encodages avec ffmpeg pour vérifier les ralentissements évoqués par PE et Euronews. suite à discussion avec Muriel et Baptist il s'avoir que cela doit pouvoir être corrigé avec des composants react
+
+=> Pixagility : demande sur preset mpeg avec plusieurs pistes audio. Il n'est pas possible de faire ce preste avec WFS. je les ai redirigé vers Cambria FTC.
+
+=> M6 : questions sur Cambria. En attente d'une information sur l'API à propos du  timeout sur les growing files
+
+=> Globbz : reprise de contact, caler une réunion avec eux la semaine prochaine
+

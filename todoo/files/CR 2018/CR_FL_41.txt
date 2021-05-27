@@ -1,0 +1,37 @@
+=> sqdqsdsqd
+
+=> dsfsdfsd
+
+=> Videomenthe : mise à jour des entitlement NRJ sur RMA WFS dans le document AMC. OK
+
+=> GOTV : Gilbert demande des réponses de la part du support. Harmonic travaille toujours sur un workaround. J'ai relancé à nouveau le support Harmonic en leur expliquant que GOTV attend rapidement des informations sur ces erreurs de fichiers afin soit de demander à son client une autre version soir de voir  si c"est WFS qui bloque. 
+
+=> FTV Mpeg 4 : probleme de lenteur sur Caen. j'ai échangé avec eux car leur configuration n'est pas correcte sur le nombre de slots et l'aggrégation des ports réseaux n'est pas faite. je dois faire une TMA avec eux lundi.
+
+=> Francetelevisions : relance sur la demande de transcodage de WFS dans la RAM. il faut repréciser la demande au support Harmonic
+
+=> AFP : demande à Teletrax du plugin pour tester sur WFS. en atttente de la part de 4C pour avoir le plugin. J'ai récupéré le plugin mais il reste à le configurer. Après plusieurs échanges avec 4C, la configuration fonctionne bien. J'ai pu encoder un fichier sur WFS , le watermarker et vérifier qu'il est bien watermarké. Info transmise à Eric pour que le client valide la commande.
+
+=> LTS : assistance en remote pour mettre en service Carbon coder. En langue arabe, l'encodage ne marche pas mais je pense qu'il faut simplement installer la langue arabe sur la machine. Alain sur place est prévenu. Je me suis connecté ce vendredi pour crééer un preset H264 selon leur demande et un watchfolder. Je n'ai pas pu definir les dossier du Mediagrid car ils n'avaient pas le driver FSD, le dossier sont locaux mais je leur ai expliqué comment changer le watchfolder. Cela fonctionne avec des medias dont le titre est en français mais pas an arabe même en ajoutant les langues su windows.
+
+=> FTV Siège : relance pour savoir quelle configuration ils retiennent pour l'installation de Cambria. Ils ont répondu qu'ils reviennent vers nous dès qu'ils ont configuré leur ESXI.
+
+=> TF1 : Victorien remonte un problème de mesure de Loudness sur des fichiers de moins de 3 secondes. Ils ont repris l'extrait et boucle sur 1 minutes. sur la version 1 minutes, la mesure est ok (-23,4) alors que sur la version 3 secondes, la mesure est de -22,8.
+
+Avec ffmpeg, la mesure correcte est => ffmpeg -i "C:\bin\BOUCLE 1MN PHA3KDS1 PB LOUDNESS.mxf" -af loudnorm=I=-23:dual_mono=true:TP=-1:LRA=15:print_f
+ormat=summary -f null -
+
+Selon google => https://developers.google.com/actions/tools/audio-loudness#using_ffmpeg
+
+Question abordée en détails avec Jozsef lors de notre visite. Victorien commence à tomber d'accord avec Jozsef.
+
+=> Visite Interra TF1 : Victorien constate des side effects (silent, freeze, blank depuis le passage en version 7.3) qu'il ne nous a pas remonté   depuis 1 mois ... Il demande si Baton sait traiter les messages Scte35 ( pas encore, ils doivent l'intégrer).  TF1 utilise les fonctionnalités VAST. Sur la problématique de la mesure Loudness sur les fichiers de 3 secondes, long débat avec Jozsef, il se peut que la boucle sur 1 minutes n'ait pas le même résultat car les hauteurs de peaks ne sont pas traités de la même façon si la crête reboucle ou non. 
+
+=> Visite Interra Titra : Titra demande comment améliorer la performance de Baton qui n'utilise sur les checks que 25% du CPU sur le traitement des fichiers UHD. Jozsef dit  que, si les fichiers sont sur le réseau, c'est plus un problème de Random IO plus que de bande  passante. il propose qu'il utilisent un disque SSD localement en faisant un rapatriement temporaire. Pour l'UHD, il est recommandé d'utiliser 8 cores. et utiliser "copy files locally for verification",   sur un disque dur SSD local. Il y a aussi  un ticket en cours dolby metdata : mail envoyé à Jozsef donc c'est envoyé en R&D.  Ils demandent aussi de faire un compteur sur le nombre d'erreur. si on fait plus de 10 fois une erreur de   Gamut, on arrête le test plan.
+
+=> Visite Interra Eclair : intéressés pour faire de l'UHD. ils ont Vidcheck en interne et vont l'essayer ( mais ils  ne vont certainement pas pouvoir faire de l'UHD) Intéressé aussi par STT et OCR. On a fait une démo eolementhe.net
+
+=> Visite Interra M6 :   Ils n'utilisent pas encore VAST.  Ils demandent d'ajouter Kantar media watermark recognition dans les checks audio. Comme TF1, il faut leur proposer du professionnal services. Il faut optimiser l'utilisation des   tests plans en fonctions des contenus. Gagner en efficacité.  Pour l'instant la conformité c'est ok, cela leur convient mais maintenant pour la quality check, ce   n'est pas assez satisfaisant. Des fois, il y a trop de faux positifs.  Ils veulent aussi avoir le rapport XMl en français (Baton va l'ajouter). Comme pour TF1, il faut propsoer une base de tests plans sur le DPP
+
+=> Visite Interra VDM : Question sur la Flashiness pour HDR ( Interra va regarder cela). Ils veulent utilsier Flashiness 2 fois par an, Interra proopose de passer par Eolementhe.  GAMUT /HDR /SDR => BT2020 et en fait c'est surtout du P3, on ne vas pas jusque dans l'espace   colorimétrique BT2020. Il faut pouvoir avoir un check qui dit qu'on est que dans du P3 ou du 709 et   qu'on est pas vraiment en BT2020. Une sorte de gamut misma  . et aussi une comparaison entre les   métadonnées BT20200 et la réalité du Gamut.  En HDR, il faut pourvoir exclude les black bars des Maxfall, etc...
+

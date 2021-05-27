@@ -1,0 +1,11 @@
+=> NRJ : retirer license VM Node. OK
+=> PMU : Probleme de 0 dans les workflow. repondu qu'il faut vérifier que tout est en anglais. Ok, cela a résolu le problème chez eux
+=> Videomenthe : renouvellement license temporaire Baton et WFS. Ok fait
+=> Nextradio : mise à jour de l'accès VPN. A faire Mercredi matin à 10h30. Ok fait et vérifié, les informations sont modifiées sur Dashlane.
+=> MDN DGET Algerie : Demande d'envoi des licences permanentes. Rohan relancé Mardi. Le support Harmonic n'arrive pas à lire les données dans 2 des 4 fichiers .c2v. CTM est informé, ils demandent aux équipes sur place de régénérer ces fichiers et doivent nous les envoyer. 
+=> Hiventy : a nouveau demande de support pour regler son test plan sur la pixelisation et black bars. J'ai fait quelques essais sans pouvoir faire la détection demandée, je renvoi vers Interra
+=> Deluxe : lire le CDC de Bertrand et faire tests plans MXF et ProRes en fonction des specs demandées par TF1 et Canal Plus. 2 test plans de QC IN fait ( MXF et ProRes), et tous les test plan des chaines ont été fait. Tester ces test plans avec les fichiers de Deluxe. Ok fait avec détection d'erreurs, il reste des erreurs pas encore trouvées pour le moment. Certains checks ont été remonté à interra qui les a fait suivre à sa R&D.
+=> Videomenthe : mettre Ansible dans un docker sur la machine 121. ok fait, il reste à tester le fichier yml 02 car il semble y avoir une erreur de syntaxe yaml. tester avec un "ping all" sur toutes les vm azure.
+=> Videomenthe: Mise en place du monitoring sur Eolementhe.cloud avec Grafana. OK
+=> AFP : benchmarks fait pour AFP sur Cambria FTC. infos envoyées à Eric
+=> BCE: demande de docs de présentation Baton pour répondre à un appel d'offre. en attente de l'accord pour leur communiquer.

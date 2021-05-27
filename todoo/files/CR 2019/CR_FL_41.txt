@@ -1,0 +1,22 @@
+=> Arte: Configuration et formation Baton Mardi et Mercredi. Informations sur serveur LDAP envoyées. Relancer lundi pour savoir s'ils ont des questions.
+
+=> Tandem : déchargement des cartes Lundi, Jeudi et Vendredi
+
+=> Orange : vu pour créer un preset 2 passes, il faut absolument faire le dev pour faire l'encodage 2 passes, checker l'élasticité sur la .net et valider les benchmarks 
+
+=> FTV Mistral : ils peuvent faire un remote webex pour résoudre le problème d'encodage sur leur machine WFS 150. en attente de caler la remote avec Harmonic
+
+=> RMC : mise à jour de leur license temporaire 1.7 pour aller jusqu'au 8 décembre en attendant de résoudre leur problème d'encodage h264 sur leur nouvelle ferme. Le support Harmonic a refait une remote mais pour le moment, ils n'ont pas résolu le problème sur les encodages h264 avec "use streaming mode"
+
+=> FTV CDE : réunion de préparation pour test plan calée au 29/10 à 10h
+
+=> SAV : encodages pour Scénarist avec Cambria FTC, en attente des specs
+
+=> Luxe TV : demande si Cambria FTC peut sortir des audio en CBR. Après retour  de Capella System, non ce n'est pas possible pour le moment car pas dans la norme.
+
+=> Videomenthe: désactivation du compte de Remi et ajout du compte de Antoine sur Videomenthe
+
+=> INA : Aider pour Rita qui n'arrive pas à evoyer un ficheir sur son portail. j'ai effacé des fichiers pour que l'espace de stockage soit moins occupé et relancé le service Siginit.
+
+=> BCE : demande de précisions sur la possibilité de Cambria FTC de faire du loudness en accord avec la norme R128. ok répondu 
+

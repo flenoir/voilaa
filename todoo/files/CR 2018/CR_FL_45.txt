@@ -1,0 +1,22 @@
+=> Arte : caler intervention pour re-affectation des licences. Fait ce lundi matin. AMC mis à jour avec les numeros d'entitlment. ok
+
+=> FTV Mpeg4 Bordeaux : essayer le fichier de Philippe Mutelet avec le preset anti-aliasing. Le fichier source est déjà très aliasé. En attente de vérification avec Philippe Mutelet. J'ai récupéré le fichier source original qui est un DV en .mxf. l'encodage avec le filtre "de-interlace" donne un meilleur résultat. Après TMA, c'est ok sur leur station car il fallait bien l'associer. Par contre, dans Server2Splicer cela ne fonctionne pas car c'est un mécanisme différent. l'implementation de ce filtre doit être faite par Christophe Tournoud.
+
+=> FTV Mpeg4 Antibes : ils n'arrivent à récupérer les logs demandés par HPE. J'ai envoyés les infos à HPE. En attente de leur retour. HPE dit que la carte mère doit être changée. ils prévoient de faire intervenir un technicien sur place. Je propose d'envoyer une machine de spare sur place en attendant. Après le passage du technicien, le soir, on arrivait a accéder à VSpehre et on voyait que les datastores avaient disparus. Il est prévu que Bertrand les refasse Jeudi matin. Jeudi matin, il n'est plus possible d'accéder à VSphere. Bertrand tente de refaire toute la machine. Entre temps, ils ont remis la machine de Spare en place sans remettre un des disques envoyés la semaine d'avant par Jean-Christophe Denninger ( cela devrait marcher quand même) mais cela ne marche pas, impossible d'accéder aussi à VSphere. Pour le moment, ils ont 2 machines en rade... 
+
+=> FTV Mpeg4 Montpellier : BC m'informe que le scripte de ré-initialisation de la licence sur la machine spare n'a pas fonctionné. il n'a pas su comment faire... Il faut que je fasse une TMA la semaine prochaine  pour vérifier.
+
+=> FTV Siege : ils ont reçu la licence ESXI et installent Cambria FTC. A suivre avec eux la semaine prochaine
+
+=> FTV Ponant : remise en place de toutes les bonnes licences ESXI sur les machines Ponant et Ponant2 . La modification  des datastores de la machine Ponant est programmée pour Mercredi après-midi prochain.
+
+=> Equipe TV : demande vérifier que les fichiers XAVC sont bien pris en entrée avec Carbon coder. j'ai récupéré les fichiers de l'équipe TV. Ok ils sont bien encodés dans WFS.
+
+=> Meteo Consult : ils ont le service nexus qui ne démarre plus. Après remote, il apparaît que le service est bloqué par l'antivirus Trend Micro. l’exception n'est pas suffisante, il y a d'autres services associés. J'ouvre un ticket auprès de Harmonic à ce sujet.
+
+=> Pixagility : se connecter pour faire une remote et ré-initaliser leur licence temporaire, et leur expliquer les différences dans l'API WFS version 2. Ok licence remise pour 45 jours et mail envoyé pour préciser comment soumettre les jobs en version 2
+
+=> Label Cloud : refaire le point sur les documents de présentation. Suite à la journée de formation collective. il a été décidé que nous passerions au Catlab mi-Février 2019. En attendant, il faut réaliser quelques réunions courant Novembre et Décembre pour finaliser le dossier avant un dépôt en janvier.  
+
+=> Chaîne News Belge : point fait avec Carole Pigeard sur Inception.cloud. Je lui ai envoyé la presentaion Eolementhe en anglais et ai renvoyé les informations de workflow demandées par Shawn.
+

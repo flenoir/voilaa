@@ -1,0 +1,30 @@
+=> AO Cyta: continuer de remplir le document pour le filage de Jeudi. Réalisation des benchmarks et des vérifications de qualités PSNR, essais du fichier LXF et demande à Capella s'ils peuvent le faire fonctionner dans Cambria FTC. Ok suite à la réunion, j'ai mis à jour le document avec les infos de Bertrand et les miennes. En attente des réponses au questions. 
+
+=> AO TV5: commencer de remplir le document et continuer la semaine prochaine
+
+=> FTV CDE: Réserver billets de trains et hôtel pour les dates du 7/8(ok) et 14/15 Janvier
+
+=> FTV Ajacccio : mise en place de l'upgrade de Server2splicer 1.7.2. Ok ils ont répondu qu'ils avaient bien le 3 audio.
+
+=> BCE: Suivi du problème Baton avec Interra. Joe confirme que les dernières actions demandées par Interra ont résolu le problème. Ok
+
+=> Anaphi : envoi de la license Capella et relance pou les aider dans la pris en main. En attende de retour. Il n'avait pas compris comment appliquer la license. Je lui ai proposé 3 fois de faire une remote teamviewer, il ne veut pas. 
+
+=> RMC / Nextradio : Xdream a envoyé une dll pour pouvoir prendre en charge les fichiers Aviwest. j'ai essayé chez nous , cela fonctionne. Ils doivent faire une version patchée avec ce dll
+
+=> RMC / Nextradio : application des licences permanentes, de la license de backup sur la ferme 2 et déplacement d'une license node de leur ferme 1 vers leur ferme 2
+
+=> RMC / Nextradio : Leur deuxième ferme en version 2 a des problèmes avec les watchfolders qui ne prennent parfois plus les jobs et le CPU du controlleur qui reste bloqué à 90%.  Le ticket a été ré-acttivé auprès de Harmonic pour qu'ils se connectent. J'ai renvoyés des infos de configurations à corriger. ils dooivent le faire la semaine prochaine.  En attendant, leur ferme en version 1.7 possède une license jusqu'au 10 janvier. 
+
+=> INA: Demande de Rita pour effacer des fichiers. Ok
+
+=> NRJ : demande de support pour la ferme WFS en version 1.7 de NRJ. Rappeler Jeremie Lundi
+
+=> NRJ : demande de retours sur le POC Cambria FTC avec Nutanix. En attente de retour de la part de Frédéric Silence
+
+=> Groupe Secom : demande de Vincent Charley de vérifier un fichier qu'ils n'arrivent pas à encoder. Cela semble être un problème d'encodage
+
+=> CSC Media : Une demande ce Vendredi soir pour les dépanner sur un fichie qui ne se transcode pas sous rhozet. Ils ne sont plus sous support. A voir lundi car ils veulent aussi changer de solution de transcodage.
+
+=> NRJ : Franck a fait un sous-titrage avec burn sur une video sous Eolementhe.cloud mais n'arrive pas à la lire dans le streamer, ni en la téléchargeant. L'apeller Lundi pour faire une remote
+

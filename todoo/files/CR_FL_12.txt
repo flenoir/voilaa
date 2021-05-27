@@ -1,0 +1,16 @@
+=> PE: revoir la partie sécurité et finir notre document powerpoint avec Baptist, OK et traduit en EN. Traduire le document d'évaluation de conformité RGPD, Ok. La partie sécurité est déjà ajoutée dans le DRAFT, à vérifier. La PSSI Videomenthe est en français, voir pour la repasser en anglais et voir si on l'ajoute à la réponse du PE. Voir aussi le document "Eolementhe PE Security compliancy.xlsx" sur le NAS "\\10.0.0.233\technique\Bureau_Fabien\Projets en cours\Parlement Européen\New AO". reprise et modification des documents RGPD et sécurité
+
+=> Videomenthe : commencer le code sur le Video Builder. Ok j'ai pu commencer à lancer des commandes ffmpeg pour générer des videos sans inputfile
+
+=> Eolementhe : faire une session de vérification des workflows de 2 heures sur la .top. Ok ticket Github à ouvrir pour Mediashuttle
+
+=> NRJ : relancer sur upgrade WFS et sur essais Cambria avec Benjamin Rucart et Stéphanie Litran. remote à faire sur license Cambria et presets de sous-titrage
+
+=> Eolementhe: nouveau ticket ouvert (#3754) pour problème d'affichage des sous-titres et du player video
+
+=> ARCserve : Caler session de formation la semaine prochaine
+
+=> Eolementhe: demander une extension des quotas d'upload youtube
+
+=> Red Bee Media  : probleme de High CPU sur WFS. en attente de son retour sur la mise en place de nouveaux watchfodlers. ouvrir ticket
+

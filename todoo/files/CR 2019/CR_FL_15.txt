@@ -1,0 +1,24 @@
+=> France24 : Reproduire le problème d'encodage desynchronisé et suivre ticket auprès de  Harmonic. Harmonic demande que les fichiers que je leur ai envoyés soient avec le TC. Cela n'est pas possible et pas la meilleur solution pour comprendre le problème. Harmonic demande si le plugin Xdream n'a pas été installé sur la ferme car ils n'arrivent pas à reproduire de leur côté. France24 confirme que non. Je ferais un point avec Bertrand Lundi
+
+=> Level : comparer test plans et résultats. Le bottom bar sur le fichier .mov n'est pas bien detecté. Il y avait des réglages différents sur les 2 test plans. Ok ticket fermé
+
+=> NoA  : les fichiers ne sont plus récupérés par le FTP retreival. Après TMA, il semble que ce soit le serveur FTP du Qnap qui ne permette pas de récupérer les fichiers. Sans reboot du serveur Qnap, dans la soirée, les fichiers ont pu s'envoyer correctement (fichier de 3BG, 6GB, ...) par contre, il y a eu une erreur de transfert FTP qui n'est pas passée en rouge. Le fichier a été transféré en intégralité  automatiquement après une seconde tentative.
+
+=> IAM : Réunion faite sur les développements API à faire. Fin juin, on doit recevoir toutes les machines et il faudra les configurer avec Devensys
+
+=> Videomenthe : Mise en place de Muvi sur un site dedié videomenthe.muvi.com
+
+=> Pixagilty : après plusieurs relances, Rohan a répondu.  fichiers .c2v envoyés à Rohan pour RMA (case 25114025). Faire le point avec Bertrand Lundi
+
+=> Euronews : Modification formation PE pour présentation.  pour les traductions russes etc, voir lequel est le plus performant entre google et microsoft.  formation sur sous-titrage eolementhe. cf mail de debrief
+
+=> Videomenthe : Phishing. Orange demande de vérifier des addresses. OK
+
+=> Deluxe : perte de mot de passe sur le compte "Samuel.domingues@bydeluxe.com " , demande de re-créer leur mot de passe.  Ok
+
+=> NRJ : problème lors de l'application des licences WFS version 2 avec le le nodelock. TMA faite avec James Magor car les licences ont été perdues. Keith les as remises. Demande pour les ré-appliquer avec le contrôleur directement lié à internet pour ne pas avoir à  utiliser des fichiers. NRJ a aussi un problème de "license partially activated" sur la ferme 1.6. J'ai demandé à harmonic de régénérer le fichier .c2v. Licences re-provisionnées dans le portail et appliquées Jeudi.
+
+=> Deluxe : modifier test plan turner pour avoir les 2 canaux en loudness. Voir lundi matin.
+
+=> FDI : Envoi du fichier de rehosting. en attente de la confirmation de Nicolas Fleury que tout fonctionne
+

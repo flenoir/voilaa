@@ -1,0 +1,24 @@
+=> POC UEFA  :  revoir les demandes suite à la conf call. J'ai fait des essais avec Google car  le STT s'est amélioré et il est meilleur que Speechmatics. Voir si on ouvre un compte google cloud pour continuer les essais sur cette plateforme.  Finalisation doc ppt Ok
+
+=> Cinekita: les relancer la semaine prochaine pour suivre la prise en main de Cambria FTC
+
+=> NRJ : les assister Vendredi matin pour installer une ferme Cambria FTC. Ok problème sur installation base de données Postgres et en attente des licences de la pt de Capella
+
+=> M141: vérifier les retour de Gaurav sur les demandes de M141 sur 2 fichiers et renvoyer les informations à Patrice Goessant. Ok Patrice commande l'extension de la ferme en version standard de Baton
+
+=> RMC/Nextradio : appliquer les licences permanentes sur leur nouvelle ferme WFS. Problème avec Nodelock. En cours avec Keith Crow
+
+=> FTV NoA : Faire TMA avec Philippe Mutelet pour les problèmes de mapping audio même après la mise à jour de leur version de Cambria FTC. Il doit revérifier l'upgrade de sa version ce week-end
+
+=> Dubbing Brother: envoyer le release note de Baton 7.5 à David Witczanski. Ok
+
+=> PE : problème sur un sous-titre validé par erreur. Ils se sont débrouillés mais il faudra leur ré-expliquer comment faire le workaround
+
+=> NRJ : un client ne recevait plus les mail. il faut aller voir dans le KB pour relancer un script
+
+=> Studio Post'n Prod : Ils n'arrivaien plus à se connecter sur Eolementhe.cloud. A priori cela venait d'une securité réseau de leur côté.
+
+=> Prestation FTV CDE: J'ai pris mes billets de train et l'hôtel pour les 10 et 11 décembre
+
+=> Videomenthe : la batterie de mon PC ne tient plus du tout la charge. Il faudrait en racheter une autre pour une 60 euros environs  je crois
+

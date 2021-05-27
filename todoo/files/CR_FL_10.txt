@@ -1,0 +1,22 @@
+=> Orange: finalisation des slides pour rendez-vous Mardi. Ok
+
+=> RMC / Nextradio : réponse à Matthieu sur Controlleur backup. Jeudi reset CTRL22. J'ai essayé d'utiliser le Nodellock pour récupérer les licences mais cela ne semble pas avoir fonctionné. Il faut que je demande à Keith mais comme Nextradio n'est plus sous support cela risque de poser problème
+
+=> M6 : répondre à Simon sur la machine AMD. J'ai relancé Capella, en attente de leur retour. Ok répondu avec les infos envoyées par David
+
+=> NRJ : récupérer numero license pour envoi EZ title à Dimcho. Infos envoyées en attente du retour de EZ Title. Infos envoyées à Benjamin Rucart
+
+=> INA: relancer Marc Leger. Fait, en attente de son retour. Il n'a pas eu le temps de regarder, il s'en occupe la semaine prochaine
+
+=> Hiventy: voir question Eric Lemaire sur Baton. Ok répondu,  le problème de visualisation doit venir de sa carte video
+
+=> UEFA: relancé, en attente de son retour
+
+=> Videomenthe : RDV Mardi et Mercredi avec Orange et Renault
+
+=> Orange: création en envoi d'un fichier Dash à Franck Demeaux. Ok
+
+=> NRJ : aide avec Jeremie pour mise en place controlleur WFS en version 2
+
+=> Cyta: réponse aux 2 questions posées. Ok à valider
+

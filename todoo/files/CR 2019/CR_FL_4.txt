@@ -1,0 +1,22 @@
+=> ADStream : suivre bucket S3 pour envois avec Eolementhe. Apparemment l'envoi FTP ne fonctionne que avec Cyberduck. re vérifier avec Bertrand
+
+=> FTV : demande de renouvellement de licence temporaire WFS. Harmonic ne veut plus en générer à la demande mais ils veulent que ça passe par une demande commerciale. 
+
+=> Euronews : réunion sur Eolementhe et workflow PE. Ils doivent nous communiquer des accès FTP pour commencer à  faire des essais sur le workflow. il faut utiliser une license Mediashuttle et surtout voir pour le déclenchement des workflows en fonction des managers. Il faut verifier comment les désactiver. Faire une conf call la semaine prochaine pour valider avec Euronews comment nous récupérons ces fichiers. 
+
+=> GOTV : demande si WFS avec Xpress sait générer une fichier SMIL. A priori, non. je demande confirmation au support Harmonic. Ils vont le faire en interne.
+
+=> VDM : fichier UHD ne fonctionne pas dans Baton. Interra System me dit que ce fichier  a une piste de timecode qui a une taille d'échantillon de seulement 4 octets. La lecture de ces 4 octets pour l'analyse de la discontinuité des pistes de timecode prend beaucoup de temps. Il semble que l'analyse soit interrompue pour un si gros dossier. Si on désactive le  contrôle de discontinuité des pistes timecode dans MP4, l'analyse des pistes audio et vidéo se fait correctement.
+
+=> Nextradio : License temporaire expirée sur WS 1.7. Ils sont repassé sur le controlleur de la machine 7. Demande de license temporaire reçue pour 1 mois.
+
+=> FTV Siège : demande de license pour WFS en version 1.7. renvoyée par Bertrand
+
+=> FTV Dijon : faire une TMA pour remettre la license de spare. Il s'agissait de la license WFS qu'il fallait reseter. Tout est ok désormais avec aussi Server2splicer. Il faut quand même voir pour faire un bash qui ferme le EclCleaner.exe et et qui relance le service Rhozet Workflow engine. Après qu'il ai ajouté Besonçon au spare (Application.conf), il y a un problème de licence Snap ID lors de la partie Mediametrie de Server2Splicer. Après une longue remote Jeudi matin, on a  pu relancer le fonctionnement de Server2Splicer en Spare. 
+
+=> FTV Siège Baton : Olivier Mallard demande de caler à nouveau une intervention pour l'upgrade de le ferme Baton. Ok prévu Jeudi prochain à 8h du matin
+
+=> Lylo : demande d'informations sur un résultat Baton. Ok
+
+=> NoA : Demo faite sur Cambria FTC et Eolementhe. Ils sont intéressé et ont demandé la visualisation des audio avec Vu-metre. ils sont intéressés aussi pour les journalistes mobiles. Ils veulent pouvoir essayer une demo Cambria et Eolementhe rapidement pendant au moins 15 jours.
+

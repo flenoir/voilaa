@@ -1,0 +1,20 @@
+=> Lylo : demande d'information sur la mesure "Short Term" dans Baton. En attente de recevoir un fichier. Relance Vendredi pour avoir le fichier. elle doit me l'envoyer la semaine prochaine
+
+=> FTV  CDE : relance Jozsef ce matin et demande à FTV de fournir les fichiers de license de la ferme à upgrader Mercredi. Suite a reproduction de son côté, reçu les informations de la part de Jozsef et envoyées Mardi  matin à Olivier Mallard. Mercredi matin à 8h j'ai commencé l'upgrade de la ferme Baton de Varet en version 7. Il y a eu des problèmes qui ont demandés l'assistance de Interra. La ferme est installé et fonctionnelle sans un des 2 checkers. Informations transmises à Intera qui doit voir pourquoi un des 2 checkers ne peut pas s'installer correctement. L'upgrade de la 3e ferme doit se faire Mercredi prochain
+
+=> FTV Ajaccio : envoyer la dernière version de Server2Splicer. Fichier renvoyé sur le serveur FTP de Red Bee et mail envoyé à Ajaccio
+
+=> FTV Ponant : decaler la remote de vendredi et rappeler qu'il y a 2 jours de prestation à acheter. Ok recontacter FTV Ponant en janvier pour caler 1 jourr de configuration et 1 jour de formation sur Cambria FTC
+
+=> GOTV : ils n'arrivent à encoder qu'un job à la fois avec Xpress. Je leur demande de vérifier le nombre de slots dediés à Xpress.  Ok
+
+=> Pixagility : demande de renouveller la licence d'un node en version 1.6.1. Demande faite auprès de Rohan 
+
+=> Hiventy : 2 drops non détectés par Baton, à voir sur notre ferme et éventuellement faire suivre à Interra
+
+=> Formation Baton Hiventy : Faite. Envoyer le support de formation aux participants. Ok . Rediger compte-rendu de formation. Ok fait
+
+=> Label Cloud : suite à la journée d'accompagnement, revoir le catalogue des services et préparer les 5 slides de la présentation Catlab
+
+=> Videomenthe : mise à jour de la licence Cisco Meraki. Ok
+

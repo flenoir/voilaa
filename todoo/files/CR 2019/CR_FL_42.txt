@@ -1,0 +1,26 @@
+=> RMC/ Nextradio : Envoi du ticket à Julien Chazotte pour suivre le support Harmonic. Pas de retour de leur part, relance ce Vendredi.
+
+=> Deluxe: le PO a été signé , en attente de leurs fichiers pour finaliser les test plans. Fichiers reçu, à passer dans nos test plans. Premières vérifications faites sur leurs fichiers, en attente de leur retour
+
+=> M6 : adresse perso de Alexis Bureau, vérifier les licences (3 fermes WFS, 2 fermes en 1.51 avec dongles et une ferme en version 2). Ils ont commencé à installer leur ferme en version 1.7. Je n'ai pas encore eu de retour de ma demande de licences à Keith Crow.
+
+=> Pixagility : en attente de leurs fichiers et les passer dans un test plan TF1. Il a fallu refaire un test plan spécifique. rapports envoyé avec mail
+
+=> FTV Caen : problème de connexion S2SP. Un ftp ne semble plus accessible. TMA faite. le fichier de configuration a été corrigé. Ok
+
+=> NoA Bordeaux : problème de mapping audio sur watchfolders. Faire une conf call avec David Dong pour voir les possibilités sur le mapping audio.
+
+=> BCE : ils veulent télécharger Baton 7.5 mais le FTP de Interra ne fonctionne pas. En attente de retour de la part de Interra. Interra a renvoyé les bonnes infos du FTP. Ok
+
+=> Radio France : demande de support pour incruster un logo avec Carbon Coder. information envoyées, en attente de leur retour.
+
+=> Orange: toujours des problèmes sur la création de fichiers 2pass avec Eolementhe. 
+
+=> Videomenthe: demande de devis sur Windows 2016 pour notre machine Cambria. En attente du retour de Devensys. devis reçu, la license Windows 2016 est en fonction du nombre de cores (1 license pour 2 cores), on arrive à une devis d'environs 1000 euros. 
+
+=> NRJ: demande de  support sur WFS car certains encodages avec watermarking ne marchent pas. Je leur ai demandé des précisions, en attente de leur retour. 
+
+=> Capella: Ikuyo demande qu'on passe certains de leur fichiers MXF dans Baton pour valider un Plugfest. Il faut leur faire un devis de prestation pour 1 jour.
+
+=> Tandem : déchargement des cartes Mercredi, Jeudi et Vendredi
+

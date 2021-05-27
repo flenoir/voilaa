@@ -1,0 +1,20 @@
+=> Videomenthe: rédiger un document explicatif sur le stitch. Faire mail à Muriel pour résumer l'idée avec une copie écran puis faire un ticket github. Ok
+
+=> UEFA : vérifier si leur traduction est meilleur que celle de speechmatics. Voir aussi produit Audimus et le fait d'ajouter les speakers dans Eolementhe. Ok
+
+=> AO FTV : répondre à Muriel sur la possibilité pour nous de répondre ou non à l'appel d'offre. Ok
+
+=> RMC / Nextradio : relancer Xdream pour le fichier Aviwest. En attente du retour de Harmonic pour la license VM. Harmonic et X-Dream relancés
+
+=> PE : problème de lecture de fichiers .mkv après mise à jour de Firefox. J'ai ré-encodé le fichier en .mp4 et l'ai renvoyé sur le workflow de Delphine. Ok
+
+=> Pixagility : donner les infos aux devs sur la nouvelle version de Go-astisub. Ok par Slack
+
+=> Le Labo Paris : problème de license après upgrade en version 7.5 de Baton. Renvoi de la license. Ok
+
+=> INA : problème sur Watchfolders qui ne détectent plus les jobs. ils doivent faire l'upgrade en version 7.5 et éventuellement on fera une remote avec eux si les watchfolders ne détectent toujours pas les fichiers. après l'upgrade, les watchfolders fonctionnent. Ok
+
+=> INA: disque DDCAOLSET presque plein. A la demande  de Rita, j'ai effacé des fichiers. Ok
+
+=> M141: Mail détaillé sur les erreurs de dropout et de barres noires on détectées par Baton envoyé à Interra. Jozsef renvoi ces infos à la R&D pour améliorer les détections dans les futur versions.
+

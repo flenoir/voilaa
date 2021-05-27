@@ -1,0 +1,41 @@
+=> AO Cyta : Vérifier les benchmarks. En fait, ils sont bons, c'est juste que mon derniers tableau posée sur le NAS n'avait pas la mise à jour de ces calculs qui restent bons pour seulement 2 nodes de 16 cores. Sur ce genre de documents, il faudrait qu'on travaille sur des documents excel partagé sur Office 365 pour éviter de multiples copies et versions.
+
+=> INA : appel au sujet d'un déplacement "move" en postQC filter que ne se fait plus comme avant depuis le passage en version 7.6. En attente de leur retour
+
+=> FTV CDE : prestation BATON 2 jours. Ce qui a été fait :
+
+- transfert de compétences sur Baton (=> Henri Gouttard) Désormais autonome pour créer des testplans et les modifier en fonction des résultats des rapports Baton, créer des smartfolders, administration simple de la ferme, association de testplans dans MBT)
+- mise en place test plan Métadonnées et essais sur fichiers
+- mise en place test plan qualité vidéo et essais sur fichiers (à affiner avec test plans sur base M6 => renommer base partial / full Videomenthe )
+- mise en place Inbox associée à un test plan de Metadonnées (gestion des filtres pré et post-QC)
+- creation des tests plans spécifiques pour usages via MBT (notion de copy checks)
+- découverte interface Baton Media Player et interactions possibles avec MBT (modification .bvr ou content mapping => Omneaon acquisistion / vérification)
+- sensibilisation équipe vérificateurs sur outil Baton
+- retours sur questions (mapping audio sur detection de silences codés => il faut passer en version 7.5)
+
+A faire / Objectif : 
+
+- Migration 7.6 avec détection des silences (en amont récupèrer 1 ou 2 fichiers pour faire esssai et est plan à Videomenthe)
+
+
+ - Profiles :
+
+ 1 => "pré-acqui" (métadonnées) => Prenum_verifications_metadonnées_MXF
+ 2 => "partenaires (labo) de confiance" (spot checking et/ou => censé ne remonter que des des erreurs, que des choses rédhibitoires pour la diffusion), pas de warnings. Si la vérifcation est ok, il n'aura pas de vérification manuelle en plus et cela part en diffusion. => Partenaire_confiance_verification_video
+ 3 => "qualité vidéo" => MBT_verifications_video
+
+Donner les références de cartes d'acquisition pour le BMP à Olivier Mallard, Sylvain Audigier, David Leflon et Henri Gouttard( ok fait)
+
+La dernière journée sera à caler en Février ( ils m'ont demandé s'ils pouvaient bénéficier de la récupération de la demi-journée perdu à cause des grèves SNCF, j'ai dit que je verrais avec Muriel)
+
+
+=> UEFA : demo sur 5 workflows de sous-titrage. Ok
+
+=> INA : demande de documents sécurité. RGPD (registre des traitements et charte NTIC) par Fabien. Doc RGPD plus précis envoyé. ok
+
+=> TV5: réunion de filage. Ok
+
+=> Orange: réunion sur dossier Ingest. Début de document de réponse en cours
+
+=> Eolementhe Corporate: Réunion de préparation. Envoyer ligne de commande sur l'ajout de logo en fonction de la taille du fichier source. Il reste à positionner le logo
+

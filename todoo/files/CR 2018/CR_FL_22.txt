@@ -1,0 +1,21 @@
+
+
+
+=> Ideepix : David Dong a répondu sur le Dolby, il demande s'il peut répondre à nous et a Ideepix dans le même mail. => Ok répondu
+=> Tandem: préparer la machine et les scripts pour jeudi
+=> Tandem: déchargement des cartes Jeudi et Vendredi
+=> Label cloud : finalisation du remplissage du formulaire
+=>  Voo.tv / Twizted Design : RDV a faire à Bruxelle le 1er Juin. Bertrand y va Vendredi 
+=> RGPD: caler réunion la semaine prochaine et avancer sur le point N°4. Faire une analyse d'impact => https://www.cnil.fr/fr/gerer-les-risques.
+Logiciel  PIA téléchargé et installé, voir méthode et documents annexes  => https://www.cnil.fr/fr/outil-pia-telechargez-et-installez-le-logiciel-de-la-cnil
+PIA commencé, à voir ensemble pour évaluer le temps de remplissage des ces documents
+=> BCE: mise à jour du fichier de license Baton. Toutes les NIC n'étaient pas déclarées, en attente du retour de Jozsef. Jozsef a renvoyé en fichier de license temporaire. envoyé à BCE. en attente du retour de BCE. Réponse de Joe. OK
+=> Ninsight : en attente de license temporaire de la part de Harmonic France. Cela passe maintentant par Harmonic. fichier C2V renvoyé à Amit en attente de license. Ok, licence récupérée et envoyée à Aurélien de Ninsight.
+=> Level: relance pour avoir des retours sur leurs fichiers SD de la part d'Interra. les fichiers SD ont été envoyés à la R&D  il y a quelques semaines, je viens de relancer Jozsef. Interra dit que le ticket produit a été classé. La correction n'a pas encore été programmée. 
+=> Arte (Burfent) : Suite du ticket sur le Prores. J'ai pu installer une autre version de WFS sur leur machine (pb pour installer la DB=> voir KB Videomenthe). et ai pu faire fonctionner encodage en 10 bits en changeant clé de registre Omneon. En attente de retour de Alex pour faire fonctionner sur Node1. Alex demande de passer toute la ferme dans la version 2.3.2.34. Voir avec Eric pour proposer cela dans le cadre d'une prestation.
+MAil à Eric pour proposer à Arte soit de leur donenr les indications pour le faire eux même ou pour acheter une prestation.
+=> GOTV: insertion de closed caption dans des fichiers 25fps. envoi de fichiers à Amit pour qu'il essaye. Il n'a pas de plugin EzTitle pour essayer mais il confirme que les closed captions EIA 708 ne peuvent se faire que en 29,97 fps et qu'en 25 fps, cela n'est pas supporté par  Carbon/WFS
+=> GOTV: question sur preset encodage Xpress. La combinaison de resolution et de level ne pouvait pas fonctionner
+=> Hiventy: question pour paramétrage Test Plan avec détection de changement entre progressif et entrelacé
+=> Hiventy: demande d'aide pour règler un test plan pour détection pixelation. En fait ce sont des dropout .
+=> Arte (Clauss) : il demande pourquoi le plugin Xdream crée des dossiers "GPU Cache". question posée à Harlad, en attente de son retour. J'ai aussi répondu que WFS 1.7 ne peut pas être installé sur autre chose que Windows 2008 r2

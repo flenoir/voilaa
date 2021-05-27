@@ -1,0 +1,28 @@
+=> Pixagility :  appliquer licences de 2 nodes WFS. La ferme est encore en version 1.6.1 et les licences reçues concernent une version 2. J'ai remis une licence temporaire en attendant leur migration. 
+
+=> GOTV : appliquer ce lundi après-midi les licences Xpress et Node. Ils n'ont pas encore configuré la nouvelle machine virtuelle qui doit héberger le nouveau node. Ils reviennent vers moi quand ils l'ont installé afin que je puisse mettre les nouvelles licences. Ils n'arrivent pas à installer correctement le node en version 2.3.1. Il fallait qu'ils installent .NET 3.5 et 4.5. Installation Ok et licences appliquées.
+
+=> Lobster : demande de fichier rapport Baton et copie-écran. Sandrine à livré la license de rehosting.  En attente de leur retour.
+
+=> Interra : relance pour avoir license temporaire à Videomenthe. Licence reçue et appliquée. Ok
+
+=> VDM : Baton ne traite pas un fichier SDR UHD, demande de remote Teamviewer. Jozsef demande d'abord le dossier du projet et éventuellement ensuite le test plan et le fichier media. Demande faite à Stéphane Djennadi. Jozsef demande le test plan et le fichier. Stéphane les dépose sur notre mediashuttle. Le fichier est très lourd, presque 1To. Stéphane doit rajouter le test plan et je renvoi le tout à Interra
+
+=> Interra : demande de renouvellement de licence sur plateforme Top et Net. Ok renouvellé jusqu'au 2 Mars 2019
+
+=> PMU : ils veulent faire l'upgarde de WFS 2.2.0.6 vers 2.3.2 pour de nouveaux codecs mais il n'y a pas de nouveaux codecs pris en charge. Je demande aussi s'ils veulent une prestation.
+
+=> LTS Networks - MAP : demande à nouveau d'intervention sur leur Carbon coder car problème d'envoi FTP et de démarrage de Nexus. Le process PNXKERNEL semble bloqué par quelque chose, j'ai désactivé Windows Defender et le firewall et le serve semble tenir. A noter que l'OS installé est Windows 2016, ce qui n'est pas supporté par Carbon Coder. 
+
+=> Lylo : demande d'analyse Baton de notre part sur un fichier audio 5.1 en .wav. Je récupère le fichier sur Mediashuttle pour le vérifier la semaine prochaine.
+
+=> Videomenthe: Mettre à jour TimeHub. Ok
+
+=> Videomenthe : J'ai fais un peu de menage sur le NAS, j'ai récupéré environs 100Go
+
+=> PE : mise à jour formation PE.  A finaliser la semaine prochaine
+
+=> EP : création du tutoriel papier pour le parlement euroopéen. En rédigeant le document, il apparaît un problème sur la méthode de validation des sous-titres. Si, sur les 3 traducteurs en cours, un des 3 a terminé avant les autres et clique sur Ok dans la pause, cela lance la suite du WF sans que les 2 autres traducteurs aient terminé. Il faut que les 3 valident avant de passer à la suite. A finaliser la semaine prochaine
+
+=> Label Cloud : renvoyer la feuille d'émargement signée à Scassi. Ok
+

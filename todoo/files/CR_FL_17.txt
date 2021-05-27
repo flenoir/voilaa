@@ -1,0 +1,18 @@
+=> SER Group: envoi de mail pour informer du problème. Création des tickets "Wrong link in email after second pause #3799" et "Watermarking present on Eolementhe simple in production #3802". J'ai refait 2 remotes avec Sandrine et Xavier pour leur expliquer des choses qui n'étaient pas bien comprises. Il subsiste le problème de watermarking sur eolementhe.com. Il serait intéressant aussi de mette un bouton dans la barre de menu pour aller directement sur l’interface simple.
+
+=> PE: Vérifier configuration et droits sur .com suite à nouvelle commande. Ok les droits sont mis jusqu'au 19/01/2021. Répartition stockage 70GB pour Delphine et Anna, 10GB pour Owen et Valter et 5GB/utilisateur. Purge à 30 jours. En attente de la liste des 72 utilisateurs. EEnvoi aussi d'un mail détaillé de réponse sur la façon de régler le workflow pour des sous-titres sur une video carrée.
+
+=> Eolementhe : création ticket "Keep source file when deleting other workflow that involves same source file #3801". Il y  a aussi eu  un problème lié aux entrées du dictionnaire avec des \n
+
+=> Euronews : demande de support suite à erreur sur module Deepl. Cela a révélé un autre problème sur Speechmatics et la partie dictionnaire. Ticket ouvert ce Lundi soir , le problème vient de la façon dont s'est codé et que tous les mots sont dans le même dictionnaire qq soit les langues. Ok. 
+
+=> ARCServe : problème de purge et de droits ce Mercredi. je leur ai ré-expliqué qu'elles n'avaient actuellement que 5 jours de purge
+
+=> Nextradio : demande sur les contrats en cours. J'ai répondu à Antoine qu'aucun contrat n'avait été renouvelé avec le numéro de devis associé. En attente de leur retour sur les nouveaux devis
+
+=> TF1: problème de license suite a demande de license temporaire Baton. Ils avaient insttatllé une version entreprise. après ré-installation de la bonne version, ils ont pu avoir la license temporaire avec la license API
+
+=> PE: session de prise en main avec Anna, cf debrief. J'ai refait ce Vendredi matin tout le webinaire de façon propre et neutre pour avoir le son des vidéo. J'ai fait le montage vendredi après midi et lancé le transcript sur eolementhe. J'en suis environ à la moitié de la correction en français sur un fichier qui fait 36 minutes. Cela m'a permis de constater les ralentissements que Laurent De Rodez et Delphine on mentionné, c'est très embêtant dans la fluidité de la correction des sous-titres, comme la vidéo vient de "resolve" je pense que c'est lié au débit vidéo. A vérifier Lundi
+
+=> Video Editor: j'ai pu travailler un peu dessus pour revoir le mode de fonctionnement de la conctenation pour pouvoir associer des fichiers avec des définition et des aspects ratio différents. il faudrait faire une réunion de cadrage pour savoir si l'on estime que les vidéos sont formatées à la définition de la timeline au moment de l'ajout dans l'interface ou lors de la conformation.
+

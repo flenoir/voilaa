@@ -1,0 +1,8 @@
+=> NRJ : Formation Baton 1,5 jour
+=> NRJ : formation Baton : modifier doc powerpoint pour creer pdf de support de formation à envoyer aux stagiaires + ajouter lien formulaire de fin de formation
+=> NRJ : Formation Baton - remplir doc individuel de suivi de formation
+=> David Dong : tester fichier sur Baton et leur faire un retour. premiers retours fait mais l'erreur est la même sur le second envoi de fichier.
+=> Label Cloud : Demi-jounée de formation faite en remote. Continuer ensuite doc sur la base de powerpoint fournis. Reprendre slide 10 et la formaliser en sélectionnant les recommandations du diagnostic
+=> Baton : envoi de la nouvelle release 7.3 aux clients
+=> RED BEE : envoi des infos de prerequis WFS à Alexandre Dabel avant commande WFS et autre node
+=> IABM : faire article sur IA => Machinebox.io. En cours

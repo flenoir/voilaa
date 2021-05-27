@@ -1,0 +1,20 @@
+=> M6: application de la license controlleur labacast (entitlement id 3411218925660140121134818). suivre avec Alexis dans 10 jours pour la migration de la license sur la ferme DAM
+
+=> Cyta: PAT a finir Vendredi matin. Ok fait, il reste une interrogation sur les tags, un fichier lxf qui ne s'encode pas jusqu'au bout et l'automatisation du backup de la base de données. A répondre la semaine prochaine sinon le reste est ok
+
+=> Eolementhe : upgrade cluster sur infrastructure .com Lundi soir. ok. reste à faire une modification sur Prometheus en même temps que le deploiement de  eolementhe en version 7.3.4 lundi prochain. J'ai utilisé, pour tester la solution Velero, afin de réaliser un backup du cluster .top et .com
+
+=> Nextradio : revue du document de réponse au CDC et revue des benchmarks
+
+=> Eolementhe : remise en place sur eolementhe.top du monitoring du cluster (via prometheus) et des logs (via Loki), rattachement mongodb
+
+=> Tandem: déchargement des cartes Jeudi et Vendredi
+
+=> FTV: renvoi d'infos à Simon Brossault pour éventuellement préparer un upgrade des fermes Baton de FTV
+
+=> AO IA FTV: réunion pour clarifier notre position. j'ai relancé des essais sur Videoindexer
+
+=> Videofutur: présentation Cambria FTC et envoi de la présentation
+
+=> Eolementhe: travail sur la mise en place de nouveaux tests automatisés sur Eolementhe
+

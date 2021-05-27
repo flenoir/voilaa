@@ -1,0 +1,34 @@
+=> IAM : le logiciel Xendata est installé sur la machine 106. Les dev doivent pouvoir commencer à utiliser l'api
+
+=> IAM : refaire tous les presets Cambria demandés par IAM et ensuite donner le découpage API aux devs. Vérifier fichiers source reçus. Il manque les positionnements des logos et les infos sur les logo  VBI. Document Excel en cours de fabrication, il faudra aussi voir les stitch avec des frame rate différent et les timecodes. cf mail
+
+=> Nextradio : relancer Matthieu Arnoud pour savoir s'il a mis les prerequis sur les machines nodes et sur le controlleur de backup. Nouvelle feme remise en route ( le service MSTDC n'était pas démarré sur la machine qui héberge la base de données). Il veut faire le point sur ses fermes et ses licences. Finaliser avec Muriel sur les licences de plugin Xdream
+
+=> Arte : ferme en place, voir leurs retours. Voir dev pour Timecode dans import filtre et soumission de plusieurs essences
+
+=> IAM - NOA : conférence call Mardi. Il faut créer une machine sur Azure pour installer le logiciel
+
+=> Baton : envoi des releases de la version 7.5 aux clients. Voir semaine prochaine
+
+=> LUXE TV : modification des presets de Emilie Vallar sur le .cloud pour avoir des presets avec un CPB1. Ils ont aussi des problèmes avec leur license Premium, on leur a remis une seconde et on les a aidé pour refaire des envois qui ne passaient pas. Du côté de BCE, ils veulent configurer un watchfolder pour encoder des fichiers UHD en UHD et HD en même temps.
+
+=> GOTV : Harmonic demande que GOTV renvoi des fichiers
+
+=> FTV Antibes : Installation à faire chez eux la semaine du 15 Juillet. En attente de confirmation de la date
+
+=> DEMD : dechargement des cartes
+
+=> NRJ : dongles RMA à faire sur ferme replay. Envoyer demande à Harmonic
+
+=> Pixagility : est ce qu'ils ont pas eu un node gratuit ( voir si on applique un des nodes qu'on avait en pool de licences)
+
+=> Pro Consultant : envoi de la doc API de Cambria FTC
+
+=> PE : limitation des droits au 4 Juillet . Ok fait sur les 9 comptes et cela m'a pris environs 30 minutes. Ils viennent de reprendre le contrat, il faudra donc remodifier ces comptes (à nouveau 30 minutes pour modifier les dates dans chaque brique de chaque compte)
+
+=> Hiventy : envois d'infos pour verifications Baton sur fichiers Jpge 2000. ils demandent aussi une version démo de Baton.
+
+=> LNcie : mise en place workflow Rewrap AS10 sur la .cloud. Aide pour la mise en place d'un encodage conforme AS10. L'envoi de gros fichiers en mode standard est compliqué, d'autant plus qu'il y aussi des problèmes de téléchargement qui se coupent en http dès qu'il y a des aléas sur le réseau. Ils ont finalement pu télécharger leur fichier
+
+=> FTVEN : RDV Lundi prochain pour mise en place Cambria FTC
+

@@ -1,0 +1,11 @@
+=> NRJ: faire RMA. RMA lancé Case # 25086723. demande des fichiers .c2v à Jérémie. En attente du retour de Jeremie sur 2 fichiers manquant WFS04 et WFS11
+=> FTV OM : demande d'aide sur des erreurs de transcodage. Fait en attente de retour.
+=> ARTE Strasbourg : briefer Bertrand sur installation la semaine prochaine. mail envoyé Jeudi. Bertrand est briefé
+=> MDN Algerie : gestion des licences permanentes. La génération des licences permanentes n'a pas pu se faire dans les temps afin de départ de CTM de l'Algérie, Nous avons mis en place une solution temporaire avec des licences temporaires pour couvrir le prochain retour de CTM en Algérie, en attendant, ils nous on envoyé de nouveaux fichiers .c2v afin de pouvoir générer les licences permanentes avant leur prochain déplacement en Algérie. 
+=> M6 : Réunion de préparation de l'upgrade de leur ferme en version 7.3. Prestation d'installation et de formation calée au 6,7 et 8 Août. Si possible, mise ne place d'une ferme temporaire afin de préparer l'upgrade, attente des réponses de Interra pour cela et compatibilité plugin Vantage. En attente aussi de recevoir leurs testsplans V6 pour les passer en V7
+=> M6 : Formation => mise à jour en cours du document de formation dedié M6 sur les nouveautés depuis la version 7.3
+=> Monaco Archives : Sur la question de la qualité des transcodages SD, Capella répond que le preset ne peut pas être modifié pour améliorer la qualité, ils envoient à la R&D pour voir s'ils peuvent améliorer. 
+=> Studio post'n'prod : vérifier toutes les semaines le workflow Studio post'n' prod, télécharger un fichier pour vérifier qu'il est bien AS10. a faire lundi prochain
+=> RGPD : mise en place des premiers fichiers PIA, cryptage dossier formations et fichiers excels. Fait. 
+=> Videomenthe: vérifier installation climatisation dans le nouveau local. Tout semble marcher comme attendu avec la possibilité de séparer les climatisation des pièces.
+=> Benchmark : les regrouper sur le NAS, ajouter ceux de M6 et de Cambria. Ok fait

@@ -1,0 +1,38 @@
+
+    <!-- <style type="text/css">
+      @font-face {
+	    font-family: "Questa Slab Black";
+	    src: url("The Questa Project - QuestaSlab-BlackItalic_0.otf") format("truetype");
+      }
+      a {
+	    font-family: "Questa Slab Black";
+      }
+    </style> -->
+
+<nav class="navbar is-link" role="navigation" aria-label="main navigation">
+        <div class="navbar-brand">
+          <a class="navbar-item" href="https://bulma.io" style="margin-left: 1em;">
+            <img src="http://obike.free.fr/Logo_Voilaa2.JPG" alt="Bulma: a modern CSS framework based on Flexbox" width="120" height="180">
+            <!-- <h4 class="title is-3" style="color:white;"></h4> -->
+          </a>
+
+          <div id="navbarExampleTransparentExample" class="navbar-menu">
+                <div class="navbar-start">
+                  <a  class="navbar-item has-text-white" href="{{ url_for('home') }}">My personnal activity report</a>
+                  <div class="navbar-item has-dropdown is-hoverable">
+                    <a class="navbar-link" href="{{ url_for('about') }}">
+                      About
+                    </a>
+                    <div class="navbar-dropdown is-boxed">
+                      <a class="navbar-item" href="{{ url_for('contact') }}">
+                        Contact
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="navbar-end">
+                  <a  class="navbar-item" href="https://www.epochconverter.com/weeknumbers">Current Week :  {{week}}</a>
+                </div>
+
+        </div>
+      </nav>

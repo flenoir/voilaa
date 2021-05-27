@@ -1,0 +1,20 @@
+=> TV5 : réunion sur le cahier des charges de débord. Document amélioré et Powerpoint fait. Ce sera le powerpoint que nous enverrons à TV5
+
+=> FranceTV Antibes : relancer pour bon de prestation. Ok reçu
+
+=> Groupe Secom : récupération du fichier et extraction des presets pour envoi à Capella afin de voir s'il est possible d'améliorer la vitesse d'encodage. Le preset Ateme est un peu différent. On gagne un ppeu en vitesse. J'ai envoyé les infos à Capella System pour avoir leur retour
+
+=> Videomenthe : vérification du fichier des SLA Baton. Ok
+
+=> FranceTv Rennes : Problème de license mediamétrie. Après reboot du node, c'est reparti
+
+=> France 24 : Problème de timeout sur fichiers encodés avec Xpress. En attente du retour de Guillaume Le Pennec d'ouvrir un ticket chez Harmonic
+
+=> Canal Plus: demande sur player UHD. Quelques solutions trouvées sur le .net et précisions demandées à Interra qui confirme que le playout HDR n'est pas pris en charge par BMP
+
+=> BCE : doit installer Cambria; Pas eu de retour. A relancer Lundi
+
+=> IAM : retour de David Dong sur les 2 problèmes remonté. codec audio pas pris en compte (voir avec IAM) et prise en compte TC. Nouveau build Cambria FTC a installer et tester.
+
+=> LuxeTV : ré-encodage de fichiers pour vérifier les peaks de bitrate en CPB 1 au lieu de 2
+

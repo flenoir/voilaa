@@ -1,0 +1,39 @@
+=> FTV MPEG4 : Toulouse problème de qualité identifié. Ne se produit pas sur une encodage similaire avec ffmpeg. Voir si c'est essentiellement sur les fichiers issus de Nexio. Ticket ouvert chez Harmonic. J'ai uploadé les fichiers sur leur FTP. En attente du retour du support Harmonic. Ils proposent de passer en progressif ( non pas possible), ils ont envoyé un preset qui doit améliorer la qualité mais je n'arrive pas à reproduire de mon côté. Je leur ai demandé leur workflow et presets mais je n'ai pas le même résultat qu'eux. En attente du retour du support Harmonic
+
+=> FTV Mpeg4 : Server2Splicer ralenti sur Montpellier. Le service est repassé vert vers 20h sans intervention de la part des équipes de Montpellier. en attente du retour de Christophe Tournoud. Houcine dit qu'il ne faut pas passer directement par Christophe Tournoud. J'ai redemandé la procédure car on doit passer par Jira mais pas de réponse de Houcine. J'ai regardé les logs et renvoyés des infos à Houcine sur ce point. j'attends d'autres logs et des comparaisons avec d'autres sites. 
+
+=> FTV Mpeg4 : Besançon relancer pour savoir s'ils ont fait une maintenance WFS avec le problème sur Rhozet. Relancé Christophe Dagois et Ghislain Lacombe Mardi
+
+=> FTV : demande si WFS peut encoder en RAM. relancer le support Harmonic. J'ai reprécisé la demande à Amit. En attente de son retour. Nous avons eu le retour du support Harmonic.
+Ils précisent que  le transcodage WFS est un processus de base sur CPU et dépend principalement de la nature du codec pour utiliser la ressource. 
+Certains codecs peuvent nécessiter une certaine quantité de RAM lors du traitement des données mais pas tous. Tout est "hard codé", donc pas moyen d'utiliser la RAM pour le transcodage.
+
+=> FTV Siège : relancer pour savoir s'ils ont installé l'ESXI pour qu'on leur mette à disposition Cambria FTC. ils n'oont pas encore le devis VMWARE. A relancer plus tard.
+
+=> LTS / MAP : langue arabe non détecté. en attente du retour de Alex. relancé ce lundi matin. en attente du retour de Amit ou Rohan. 
+
+J'ai trouvé sans l'aide de Harmonic : Il faut aller dans le panneau de control (control panel) et choisir les réglages régionaux (region). 
+Ensuite cliquez sur l'onglet "Administrative" et cliquez sur le bouton du bas "change system locale". Choisissez " arabic (egypt)" et cliquez sur "OK" pour valider. 
+Le système vous demande de redémarrer, choisissez OK.
+Normalement, après le reboot, vous devriez pouvoir afficher le nom du fichier correctement dans Carbon coder et il devrait être pris par le watchfolder. retour de Sébastien Dupuis. ok
+
+=> Level : appeler Benjamin pour le problème de rapports sur les tests plans. Demande envoyée à Interra pour savoir pourquoi cela a changé. C'est un bug connu , il sera corrigé dans la version 7.4 qui va sortir avant la fin de l'année. OK
+
+=> M6 : problème sur audio sur un fichier. A regarder avant de faire suivre à interra pour voir un check qui trouve le problème. Fichier en cours de download avec Aspera. Le fichier chez nous ne remonte pas d'erreur dans Baton, il s'encode bien avec ffmpeg et Cambria FTC. Avec WFS, probleme de son ( soit pas de son, soit audio 3 et 4 détectées selon la modification du Regedit Omneon). Fichier envoyé à Interra pour avoir leur avis. Interra pense que le problème vient des fichiers BWF qui ne sont pas bien lus par WFS
+
+=> M6 : demander à Interra quand est ce que les rapports XML pourront être en français. La fonctionnalité est demandée, pas encore de date de sortie. 
+
+=> RFI : recupèrer les scènes adobe pour les différents habillages avec Template farm. En premier lieu, tester avec Antoine le burn de ffmpeg. Scènes récupérée et importées dans Template Farm. En attente de l'API de Jan Umansky
+
+=> AdStream : des envois FTP ont été très lent sur la .cloud. J'ai refait des essais ce matin et BC aussi mais la vitesse est normale. 
+
+=> Trace TV : demande en urgence de traiter des fichiers avec Cambria FTC afin de comparer  avec WFS la conversion de frame rate qui leur sort des fichiers non conformes (audio pitchée). Ouverture de portail Videomenthe Mediashuttle afin de recevoir les fichiers. Les fichier s'encodent bien. Il faut regler de ne pas modifier la durée du fichier. En attente du retour de Trace TV.
+
+=> Titra TVS : demande pour modifier le port Baton du Vérification Manager. Il faut le faire dans le "Baton Service Manager". Il passe par Sophos pour faire un proxy. la connection fonctionne mais il n'arrive pas à lister les tasks. Interra répond que ce n'est pas recommandé de passer par un proxy pour des problèmes de performance. Ils ont d'ailleurs arrêté le NGINX qu'ils proposaient nativement.
+
+=> Lylo : elle demande de mettre à jour les test plans car netflix a fait une modification sur le loudness. Elle fait les changeemnt de son côté et me demande de valider. Ok. Ensuite, elle n'arrive pas à générer les rapports Baton. On ne pouvait pas accéder aux fichiers source sur le lecteur réseau. après cela c'est ok. le serveur devait être plein
+
+=> Eolementhe : Demander à Speechmatics s'ils peuvent exporter le STT en STL ou TTML. Ils ne font que du Texte ou du JSON, ce qu'on utilise déjà
+
+=> LNCIE : demande sur encodage 4K avec Carbon coder et sur conversion de Frame rate. Demande en retour de copie écran et explication sur les possibilités de Carbon coder sur 4K et conversion de frame rate. En cours
+

@@ -1,0 +1,16 @@
+=> Cyta: faire programme 2e session de formation. Formation faite sur tous les réglages complexes existants dans Cambia FTC (per-title optimisation, OCR, scripting, API, etc...). ils doivent désormais pratiquer et revenir vers moi la semaine prochaine pour les dernières questions qui pourrons faire la dernière session de formation. 
+
+=> Eolementhe: travail sur plusieurs tickets. Mise en place sur eolementhe. top d'un node pool dedié à Eole-edit. travail en cours sur le cache des pages html
+
+=> Cyta: ouverture ticket chez Cambria pour comportement de tag qui ne fonctionne pas comme attendu
+
+=> FTV: problème Signiant qu'ils ont résolu avec un reboot. ils demandent une analyse des logs. Voir avec Bertrand la semaine prochaine
+
+=> Lylo: ticket sur problème checker sur Baton
+
+=> Eolementhe: récupération compte developpeur
+
+=> M6: reponse sur question sur la désactivation du bouton convert dans WFS version 2
+
+=> Eolementhe: problème sur video .mxf qui n'a pas été transcrite dans son intégralité, remonté par Euronews. J'ai essayé avec leur fichier sur .top et j'ai le mm problème sur le fichier "DAL_17608834_MPX WIP - D1-06-Disrupted Pascal Brun - sujet TV ". Je constate d'ailleurs que certains wf restent en "running" et ne tombent jamais en erreur. Il faudrait pouvoir les détruire
+

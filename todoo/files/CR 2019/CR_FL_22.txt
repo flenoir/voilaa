@@ -1,0 +1,12 @@
+=> Hiventy : envoi de leur license permanente, en attente de leur retour
+
+=> NoA : répondu sur le problème de FTP Retreival, en attente du retour de Philippe Mutelet. Il est en congés , à voir semaine prochaine pour refaire des essais de FTP retrieval sur un FTP public
+
+=> RMA Pixagility : relance  car les licences ne sont toujours pas dans le portail. Mercredi les licences sont dans le portail, il en manque 2 que j'ai redemandé à Shanna. En attendant, j'ai installé les 7 licences + 2 nouvelles sur la ferme de Pixagility.
+
+=> FTV Nancy : problème avec server2splicer qui reste bloqué sur le watermarking. Ils ont changé tout le plan d'adressage et la license mediametrie est toujours sur l'ancienne ip. J'ai demandé une nouvelle license à Kantarmedia. License de 4 mois remise en place chez Nancy sur le nouveau plan d'adressage en 94 au lieu de 54. les anciennes sont renommées en "old".  Larbi confirme qu'ils auraient dû nous avertir. Le mot de passe de l'accès TMA a changé. Il est mis à jour dans la note de Dashlane
+
+=> FTV Antibes : J'ai demandé à Larbi de faire un point sur la machine de antibes. Ils doivent en parler en réunion ce mercredi après-midi.
+
+=> LuxeTV : Nouveaux exports faits avec preset modifié. Les presets sont sur le NAS dans le dossier "\\10.0.0.233\technique\Projets\LuxeTV". On a ré-essayé l'upload sur Eolementhe, cela fonctionne bien. Au besoin, il faudra déployer un Cambria sur la .cloud pour faire les encodages demandés. 
+

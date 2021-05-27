@@ -1,0 +1,25 @@
+=> BCE : vérifier que Cambria FTC peut faire une detection conditionnelle sur le codec (xavc).Non pas encore, à voir avec Capella
+
+=> Euronews : Burn mxf pose problème car il dépends de royalties. clarifier les codecs utilisables avec ffmpeg et la législation européenne.
+
+=> Orange OCS : envoyer fichier SD et HD encodés par ffmpeg pour validation. faire wf conditionnel en cascade pour les sorties en mp4. Dans le wf ajouter un check ffmpeg. Ajouter, sur la .net les lignes ffmpeg  SD et HD pour Orange OCS et voir avec Antoine pour faire test de charge sur pods ffmpeg. Faire encodages selon leurs fichiers sources en SD et HD, ok; puis upconversion HD et conversion 1280x720. creation de rapports avec Mediaconch en envoi au client via Mediashuttle. ok
+Selon leur retour, j'ai aussi modifié les presets pour aveoir un avergae GOp de 50 en HD et SD. OK , fichiers passés par Mediaconh ett envoyés sur notre portail. Pourr le WF eolementhe, les 2 pass ne fonctionnent pas. En attente de retour si je leur propose un wf eolementhe 1 pass en attendant.
+
+=> FTV Bordeaux : TMA pour aider Philippe Mutelet à reconfigurer Server2Splicer
+
+=> Arte France : relance au client pour voir ses test plans. 
+
+=> FTV CDE : voir pour caler les dates de prestation. réunion calée au 29/10. ok
+
+=> Deluxe : faire leurs test plans, tjrs en attente de commande. est ce que je commence à travailler sur les test plans ?  
+
+=> Memnon : faire un preset XAVC selon leur fichier test. Ok fait par Capella, il faut juste faire un frmae rate en 25p.
+
+=> Mikros : prise en main Baton. ok remote faite
+
+=> FTV Bordeaux : demande pour savoir comment envoyer un mail sir le jobs fail dans Cambria. ok repondu
+
+=> Tandem : déchargement des cartes Lundi et Vendredi
+
+=> PMU: Doit on renouvelle le contrat de support de la machine HPE ? 
+

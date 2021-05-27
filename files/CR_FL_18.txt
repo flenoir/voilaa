@@ -1,0 +1,18 @@
+=> MongoDb: verifier la redondance des bases de données en M2 et M10 (entre dev et prod). Ok infos mises dans Wiki Eolementhe
+
+=> M6: application des licences WFS sur ferme DAM. Ok
+
+=> Videomenthe: Mise à jour de Baton Prod en version 8
+
+=> Videomenthe: formation Devops Mercredi matin et infos à mettre dans wiki
+
+=> FTV NoA: envoyer infos à Philippe Mutelet pour qu'il règle le renvoi des fichiers vers son NAS. Ok fuire suivi sur upgrade Cambria FTC
+
+=> Eolementhe: ouverture ticket ffmpeg et html player pour Eole Edit
+
+=> Cyta: Mise à jour document formation Cambria FTC en anglais, calage formations Cambria FTC Vendredi et mercredi prochain. reste demi-journée à caler. Vendredi matin réalisation première demi-journée de formation. ok
+
+=> Eolementhe: deploiement Eolementhe version 7.3.9 sur .com ( faire PR sur modification nom ffmpegpool et sur affinité à créer sur pod eole edit)
+
+=> BCE: ticket sur problème après upgrade Baton 8. Ok
+

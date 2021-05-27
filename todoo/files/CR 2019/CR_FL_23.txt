@@ -1,0 +1,48 @@
+=> FTV Ponant : compte iLok activé. fichier pour installation Nugen AMB envoyé. Une fois que ce sera fait, il faudra faire une TMA pour leur appliquer notre license. En attente de leur retour. NP
+
+=> Capella : Il est possible d'envoyer un job en MXF avec audio seul. David a envoyé les infos. A essayer
+
+=> Capella : fichiers AAF, il ya des métadonnées qui ne sont pas entrées correctement. David a envoyé une nouvelle version de Cambria_FTC pour vérifier
+
+=> Pixagility : envoyer le SO number ou purchase date du Hasp ID 1787450757 à Rohan. Voir aussi nos infos sur le HASP ID 105038630163. Copie écran envoyée à Rohan pour le HASP ID 264119197. A relancer Lundi. Ils ont aussi demandé si  WFS 2.3.2 était compatible Windows 2016, je leur ai répondu que non. NP
+
+=> Digital Post'n'Prod : voir les débits de Guyane à 14h et envoyer la machine  Flycase à Thierry Seux (valider avec Thierry si c'est ok pour eux en l'état). Ils doivent installer une carte réseau en plus dessus. il leur faut le compte administrateur. Suite appel de Thierry Seux, j'ai envoyé des copies écrans des débits sur les envois de Guyane. On est à 120 Mbits/s en moyenne. En attente du retour de Thierry Seux P
+
+=> Luxe TV : Workflow cloud en place. Machine récupérée ce Vendredi chez Devensys et configurée. Envoyé Vendredi après-midi avec license Cambriia FTC et presets. 1/2 journée de formation à faire mardi prochain pour Eolementhe et il faudra caler une journée de configuration de la machine qu'on leur a envoyé et une journée  de formation en remote P1
+
+=> NoA : renvoyer les infos de Jay à Philippe Mutelet pour qu'il essai le FTP retreival avec un FTP public. Ok . Retour des Arkena qui demande les logs Cambria. Logs envoyés et demande si cela fonctionne sur un FTP public et sur le  Retreival par le réseau. En UNC, le retreival fonctionne. le rappeller la semaine prochaine. NP
+
+=> FDI: envoyer le tarif de l'option API, il veut essayer en machine virtuelle avec une license temporaire et coût + tarif connecteur vantage. ne pas affoler Nabil c'est surtout pour Nicolas Fleury pour qu'il se fasse une idée. NP
+
+=> Tandem : recommence Mercredi, réception des cartes Mercredi soir ou Jeudi matin. Faire essai avec Sylvain. OK. Montrer à Nicolas comment décharger les cartes et faire le rapport et à qui l'envoyer. demande les mails des destinataires des rapports. Ok mails reçus et papier pour les cartes imprimé. déchargement des cartes Vendredi P2
+
+=> Videomenthe : faire rehosting Baton .com vers .cloud. On doit avoir une license temporaire, récupérer fichier license pour production temporaire (ok envoyé à Muriel). Basculer Studio Post'n'prod, Adstream, à faire la semaine prochaine le 10 et 11 Juin. License Baton 2 appliquée sur la .cloud
+
+=> IAM : Il manque un port PCi express dans la machine Synology. On ne peut pas avoir la carte 10GB et le cache de 1To en même temps. Logs envoyés pour Ticket sur l'extension  de capacité de disque, en attente de leur retour. Sur le deuxième ticket, Synology n'a pas de carte adaptatrice PCi Express à conseiller P3
+
+=> ARTE : config des presets. En attente de leurs fichiers source. Il faut voir dans Eolementhe comment utiliser des essences séparées pour des fichiers MXF OP1b. Problème d'accès VPN pour récupérer les fichiers. A voir semaine prochaine NP
+
+=> GOTV : demande du support Harmonic d'un fichier trimmé avec VideoApp et d'envoi sur le serveur FTP de Harmonic. demande envoyé à Gibert. Relancer la semaine prochaine. P?
+
+=> France24: les relancer pour savoir quand est ce qu'ils font l'upgrade de WFS NP
+
+=> FTVOM : relance de Clément Abeillé sur les demandes de licences temporaires en Guyane, et dossier Temp qui ne se vide pas. Ficiers ;C2V envoyés au support, en attente de leur retour.? A relancer la semaine prochaine P?
+
+=> IAM : travailler sur les presets d'outgest aspect ratio P3
+
+=> Déplacement Toulouse : regarder un format qui permette de mettre du PTP dans du .mp4 ou .ts ou .mov
+
+=> Delphi : Je pense qu'il reste une demi-journée de formation à faire. Je vérifierais avec Bertrand
+
+=> BTS Audiovisuel : envoi de Baton standard pour license temporaire. en attente du fichier de licence pour l'envoyer à Interra  NP
+
+=> Groupe Secom : envoyer Lundi prochain une version de Cambria FTC pour évaluation pour Vincent Charley
+
+=> NRJ : Sur WFS certains fichiers passent Timeout. Demande de l'extension et de changer la clé de registre. En attente du retour de jéremie Jouanny P?
+
+=> NRJ : cahier des charges remplacement ferme de transcodage. Vérifier évolutivité vers Windows server 2019,antivirus  et SNMP
+
+=> Radio france : Demande de license temporaire faite auprès de Capella. Installation FTC cluster en remote Lundi  10 après-midi
+
+=> Videomenthe : pour le déplacement de la semaine prochaine, je n'ai pas pu valider mon billet à 5h20 mais le train suivant. je dois arriver à la gare de Lyon à 9h47, ca devrait être bon pour être sur place pour le rendez-vous de 10h30 chez NRJ
+

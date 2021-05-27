@@ -1,0 +1,18 @@
+=> AO TV5 : relecture du document complèté par Bertrand. ok
+
+=> UEFA : préparer les workflows. Ok, ils ont fait et partagé avec Muriel. j'ai lancé les workflow pour essayer
+
+=> FTV CDE : prendre billets de train et hôtel pour les déplacements du 14 et 15 Janvier la semaine prochaine. Ok
+
+=> AB: rédaction du document de réponse pour AB pour rendez-vous du 20 Janvier
+
+=> Videomenthe : mettre à jour le dossier de sécurité Videomenthe et Eolementhe. Ok, il manque quelques précisions et vérifications à apporter par l'équipe dev
+
+=> NRJ : relancer Frédéric Silence sur leur retour sur le POC Cambria / Nutanix. Ok en attente de retour
+
+=> Videomenthe: Mail créé pour Quentin, j'ai repris la licence office 365 de Nicolas et je l'ai affectée à Quentin
+
+=> FTV CDE: Prestation réalisée Mardi et Mercredi. Ils sont autonomes pour lancer des tests plans. J'ai quelques questions à remonter à Interra afin de faire le point et de continuer avec FTV la semaine prochaine
+
+=> NRJ: Il subsite un problème de transfert sur le ferme WFS 1.7. J'ai fait une remote avec Jérémie et lui ai demandé de vérifier des droits d'accès sur les chemins UNC et les dossiers FTP. J'ai aussi relancé le support Harmonic qui ne réponds pas depuis le 23 Décembre.
+

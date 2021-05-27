@@ -1,0 +1,16 @@
+=> NRJ: ouverture de ticket pour un problème de service de transfert sur leur ferme WFS 1.7, le numéro de case chez harmonic est le #25139041. J'ai envoyé les logs demandé par Ashley. En attente de leur retour.
+
+=> NRJ : Remote faite avec Franck Vetu pour un problème de video qui ne se lit pas bien dans le navigateur. En se connectant depuis un réseau autre que celui de NRJ, cela fonctionne. A vérifier donc avec leur DSI
+
+=> NRJ : retour de Frédéric Silence sur leur utilisation de Cambria FTC et Nutanix. Il doit faire un mail détaillé
+
+=> RMC / Nextradio : mail pour relancer pour installer Cambria FTC. En attente de leur retour
+
+=> RMC / Nextradio : suite à la réponse de Amit, j'ai envoyé les réponses de Harmonic à Matthieu Arnoult et j'ai désactivé la maintenance sur le WFS Manager. Il y a désormais 2 cases distincts ouverts chez Harmonic, le case #25138694 pour le High CPU et le case #25139179 pour le problème de déconnexion des nodes. Ce vendredi matin, j'ai assisté Amit en remote pendant 2h car on doit forcement passer par le VPN SSLpartenaire pour donner la main au support Harmonic. Cf mail et ticket dans notre portail pour suivi. 
+
+=> AO Cyta : J'ai renvoyé le dernier document de réponse avec les modifications demandées suite au mail de Muriel, attention, la mise en page semble décalée à droite
+
+=> AO TV5 : J'ai rempli au maximum le document pour la réponse, il est sur le NAS dans le dossier \\10.0.0.233\Interne VM\AO Transco_TV5 Monde sous le nom "Cahier des charges (2019-11-04) v2_FL.docx". Il reste à affiner les benchmarks en fonction de leurs réponses sur la volumetrie. J'ai mis le tableau Excel dans Benchmarks sur la NAS dans le dossier \\10.0.0.233\Interne VM\AO Transco_TV5 Monde sous le nom "Benchs_Capella_FTC_TV5_v2.xlsx"
+
+=> Videomenthe : J'ai demandé les licences temporaire de la .net et la machine support chez nous mais pas eu de retour. j'ai relancé ce vendredi.
+

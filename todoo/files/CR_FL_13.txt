@@ -1,0 +1,20 @@
+=> Red Bee Media : Mardi relancer pour savoir s'il a eu à nouveau un problème de High CPU. Pour le moment, pas de retour sur une nouvelle occurrence. vérifier la semaine prochaine.
+
+=> Test Eolementhe.top : authentification 2FA à revérifier  la semaine prochaine
+
+=> Eolementhe: participation pour résoudre pb de démarrage Sigagent cloud. ok
+
+=> Eolementhe : revue sur Grafana. Voir ce peut être ajusté
+
+=> Videomenthe: rédaction d'un plan d'audit de migration vers le cloud. Ok
+
+=> ARCServe: Training de 2h en remote. creation du workflow type sur la .com et la .cloud. Il faut que je l'ai partagé aux gens de Arcserve mais il faudra que je le récré pour les 2 managers. Stream de la session enregistré et envoyé aux participants. Ok
+
+=> Eolementhe: pb Baton sur la .com. Ok à priori seulement problème de test plan non actif. ok
+
+=> NRJ : échanges sur Cambria et le sous-titrage avec EZ Title. En attente de retour de la part de Benjamin Rucart.
+
+=> Video-builder: travail en cours sur ffmpeg. Je dois voir comment je peux récupérer les fichier généré par ffmpeg qui sont un peu plus lourd car le download ne marche pas. J'ai vérifié le stockage, il est suffisant pour générer ces fichiers.
+
+=> Eolementhe : demande d'extension de Quota Youtube. ils ont redemandé des précisions et j'ai renvoyé un screencast. En attente de leur retour.
+

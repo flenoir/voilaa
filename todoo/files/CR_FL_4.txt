@@ -1,0 +1,32 @@
+=> Deluxe : vérifier le test plan de M6 si BC ne l'a pas encore fait. Ok, je l'ai remplacé par une version du M6 Full sans l'ensemble des checks Video. Revérifier les échanges de mails. ok pour le client.
+
+=> Orange : avancer sur le document avant la réunion de Mercredi après-midi. Ok powerpoint fait et présenter. Il faut maintenant faire un document de présentation pour Mercredi prochain. Ok en cours.
+
+=> SNCF : demander le remboursement -30 de l'aller à FTV et noter dans tableau de récup ces 2 récups
+
+=> SNCF : prendre billets train et hôtel pour les 3 et 4/02 (voir heure de départ la matin )
+
+=> FTV CDE: renvoyer infos sur test plan avec détection audio la semaine prochaine et caler le dernier jour de prestation.
+
+=> TV5: revoir le document de réponse. Modification tableau de benchmarks, et modifications dans certains paragraphes. 
+
+=> TV5 : envoyer benchmarks à Ikuyo après accord de Muriel
+
+=> UEFA: créer les comptes et ouvrir les accès pour la démo. Problème de droits que je ne peux pas activer, ouverture d'un ticket Eolementhe. En attente de retour des Devs. On est bloqué par un problème de certificat https sur la .net
+
+=> Videomenthe: arrivée nouvelle collaboratrice (Gabrielle Lapeyre), il faut acheter un compte Office 365, un accès Dashlane, un accès Github
+
+=> INA : Remote à faire Vendredi matin à 11h pour vérifier leurs logs selon les indications de Jozsef pour voir si une application bloque l'envoi en "move". remote faite, J'ai envoyé les infos à Jozsef qui a donné une liste de vérifications à faire. Marc Leger n'est pas là la semaine prochaine, je verrais avec lui la semaine suivante.
+
+=> PE: demande de support de la part de Delphine car Eolementhe.cloud est lent. Effectivement, c'est très lent, après quelques minutes retour à la normale. Pas de métriques sur azure qui indiquent une surcharge
+
+=> RMC / Nextradio : a nouveau problème de CPU sur la ferme. aller vérifier la virgule sur la base de données et le node 21. les informations de prérequis sont bonnes, je n'ai pas vu dans les logs des informations précises sur ce bug. Harmonic est prévenu mais n'a fait encore aucun retour. A suivre la semaine prochaine
+
+=> Videomenthe: déplacement Paris du 4 et 5 Février, annuler en fonction de Pom Zed
+
+=> Euronews : demande de support  pour refaire un brun de sous-titre avec une nouvelle vidéo. Je leur ai re-téléchargé leur vidéo et renommer les 2 avec le même nom sinon cela ne marche pas. J'ai relancé leur workflow et ré-expliqué comment faire. 
+
+=> PE: Demande de support sur une différence entre le fichier téléchargé  et la sauvegarde de la plateforme. Bertrand dis que c'est un bug corrigé dans la nouvelle version. Il faudrait pouvoir donner un date de mise à jour de la .net vers la .cloud
+
+=> NRJ : La personne éttait pas disponible aujourd'hui et comme Bertrand est en congés la semaine prochaine, je vais donc leur proposer 1 ou 2 dates la semaine prochaine pour faire cette formation
+

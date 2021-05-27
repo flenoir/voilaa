@@ -1,0 +1,28 @@
+=> FTV Nancy : S2SP ne marche pas. faire une TMA. Il y a avait 2 nouveaux Server2Splicer sur un car régie externe mais ils n'étaient plus accessible. Configuration modifiée en TMA. OK
+
+=> NoA : faire une TMA vers 17h Mardi  (verifier Firewall palo alto et serveur Qnap) avec remote de Capella pour voir pourquoi les fichiers de plus de 1,5GB ne sont pas récupérés par le FTP Retreival. Ok Webex envoyé par David Dong pour la faire. Remote faite, il faut renvoyer des logs à David Dong et essayer de voir si on peut faire un network retreival au lieu de FTP retreival. Ce Vendredi soir, problème de license sur le serveur de licence. License temporaire mise. Lundi voir pour remodifier le mode de licensing.
+
+=> IAM : demander license à Capella. License reçue, installation faite par Bertrand ce vendredi matin
+
+=> Euronews : suivre le workflow de leur 3e épisode. Le workflow s'est bien terminé sur les épisodes de Chypre et de la Lituanie. Bien préparer la formation de la semaine prochaine et envoyer à Laurent De Rodez le document sur ses workflows. Fichier de configuration de workflow envoyé à Laurent de Rodez
+
+=> Videomenthe: migrer les WF  FDS / Empreinte et EPC sur la .cloud et ensuite tout migrer sur le .net. faire aussi tous les documents Excel pour chaque client (voir pour mettre aussi les licences Premium et toutes les dates de fin de service). Finir EPC lundi
+
+=> Hiventy : Envoyé NDA signé. Fait, en attente de leurs fichiers. Fichier reçu et passé dans Baton. Je leur ai renvoyé une infos sur les endoits où se trouvent les erreurs PSE. En attente de leur retour. 
+
+=> FTV Antibes : est ce qu'on envoi la machine spare ? 
+
+=> FTV Ajaccio : relancer pour savoir s'ils ont mis à jour Server2splicer. Ils n'ont toujours pas fait l'upgrade, je leur ai demandé s'ils avaient besoin d'aide, pas de retour de leur part.
+
+=> ARTE : demande à Keith de remettre les licenses dans le portail. Les licences ont été remises dans le portail. On doit leur remettre les licences Mardi prochain
+
+=> Videomenthe : reunion clients Eolementhe. Il faut ajouter le mail du owner dans le fichier "Eole_VMCloud.xlsx". La .com s'arrête le 7 Juillet, et on doit faire la bascule sur le .cloud mi-juin. Tous les clients doivent passer sur le .cloud qui devient la vraie plateforme de production.  Matrice des coûts dans technique afin de savoir quels sont les services pris par le client (à matcher avec les dates). Dans le wiki, il faut un github par client (copier le repo du wiki). Côté admin, dossier de Bertrand vu avec Sandrine.  Il faut dupliquer tous les workflow dans la .net
+
+=> Pixagility : relancer Rohan lundi pour refaire le point avec Harmonic sur les RMA 
+
+=> RadioFrance : Dongle vérifié et donné à Sandrine pour envoi dès Lundi
+
+=> Videomenthe : la semaine prochaine faire les 2 videos pour le salon Vivatech
+
+=> Videomenthe : Benchmark 8 et 16CPU. Voir doc envoyé par mail et sur le NAS \\10.0.0.233\technique\Benchmarks&Tests
+

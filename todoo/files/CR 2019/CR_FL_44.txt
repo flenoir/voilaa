@@ -1,0 +1,26 @@
+=> RMC / Nextradio : Relancer XDream pour pouvoir envoyer les licences définitives du plugin d'import à Matthieu Arnould. Ok il fallait récuperer les hostname et les adresses MAC. licences envoyées à Matthieu Arnould. La nouvelle version ne marche pas sur tous les MXF, Xdream a envoyé un patch que j'ai renvoyé à Matthieu. Sur le problème des fichiers Aviwest cela semble aussi lié au plugin Xdream Harald voir avec les gens de Medialooks. 
+
+=> ARTE : demander prolongement de la license à Interra. en attente du retour de Interra. License envoyée à Arte, en attente de leur retour. License appliquée. Ok. Voir pour leur faire un retour sur  quelques rapports qu'ils ont envoyés cette semaine
+
+=> Pixagility : relance pour savoir s'ils ont résolu le problème. Ok oui c'est résolu. Ticket fermé
+
+=> BCE : license étendue, refaire Teamviewer pour vérifier la définition de leur preset XAVC300
+
+=> Capella : récupérer leurs fichiers et les passer dans Baton. A faire la semaine prochaine
+
+=> M6 : procédure pour récupérer le fichier de licence .lmdb envoyée sur mail perso de Alexis Bureau, en attente de son retour. 
+
+=> Videomenthe: renouvellement de la license Baton à Videomenthe. Ok
+
+=> FTV CDE: réunion téléphonique pour caler intervention. décalée à début Décembre. Il faut les conseiller en s'inspirant des test plans M6 et faire en plusieurs fois.
+
+=> RMC / Nextradio : finliser le document de réponse en Word puis faire powerpoint sur la base du document de formation Cambria. Voir avec Baptist pour les dev à faire dans Eolementhe et ce qui existe déjà ans Eolementhe. Benchmarks en cours
+
+=> Pixagility : demande sur conversion de sous-titres. Il faut faire un PR sur go-astisub. 
+
+=> Deluxe: mise en place des testplans pour Laurent Prevost.Ok
+
+=> PE : Delphine n'arrive pas à envoyer un fichier Youtube, je l'ai téléchargé et lui ai renvoyé
+
+=> M6: problème de checker qui ne marche pas après ré-installation. il s'agissait d'une version du FSD Omneon qui n'est pas compatible avec Baton. Ok
+

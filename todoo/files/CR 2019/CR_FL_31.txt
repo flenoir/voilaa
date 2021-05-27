@@ -1,0 +1,26 @@
+=> Canal Plus : recherche sur player Video selon demande de Canal Plus. voir tableau excel. Ice Player de Marquise serait la meilleure solution. 
+
+=> Lncie : ils ont utilisé eolementhe.cloud mais le download en https n'est pas assez fiable. Je leur ai renvoyé leur fichier par mediashuttle
+
+=> Luxe TV / BCE : Mise en place de leur machine Cambria FTC en cours. Formation de 2h à faire Vendredi entre 14het 16h. Ok fait
+
+=> Groupe Secom : David Dong n'arrive pas à ce connecter pour télécharger sur Mediashuttle. Ok accès modifié, il a pu récupérer le fichier et les presets. Ils doit revenir vers nous pour nous dire si on peut accélérer les transcodages. cf mails de Vincent Charley
+
+=> Videomenthe: mise à jour du PC de Eric pour être en version 1903 de windows 10
+
+=> Videomenthe : voir comment on peut entraîner Videoindexer et surtout si, entrainement que nous faisons est propre à notre compte ou si cela améliore l'ensemble de AI Videondexer. Ok on peut le faire par API, voir avec BB pourr les priorités des tickets
+
+=> INA : ils ont appelé car ils n'arrivaient plus a envoyer sur les portails envoi et livraison. J'ai redémarré siginit et j'ai pu envoyer un fichier sur le portail de livraison.
+
+=> FTV : Si besoin, l'ensemble des documents est sur le NAS dans \\10.0.0.233\technique\Bureau_Fabien\dossiers clients en cours\France Televisions sur sur le KB de note portail support. Les mots de passe sont dans la note dashlane "FTV TMA connexion"
+
+=> IAM : on a reçu plusieurs cartons qui sont dans la salle technique
+
+=> Speechmatics : on attend l'API de la V2 de leur part afin de migrer sur cette V2
+
+=> LuxeTV: ils ont commandé l'option HEVC , véifier si c'est directement appliqué sur la version de leur machine. Leur demander aussi sir la machine doit rester connectée à internet et sinon voir avec Capella pour migrer sur une license offline.
+
+=> France24 : ils viennent de répondre à mes question ce Vendredi après-midi. Il faut suivre ce ticket la semaine prochaine à propose de fichiers qui passent en timeout sur Xpress
+
+=> Radio France : ils ont reçu le nouveau dongle Carbon coder qui fait fonctionner Carbon Admin. ils doivent nous retourner l'autre dongle et éventuellement demander une  nouvelle license temporaire pour Cambria FTC
+

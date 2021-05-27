@@ -1,0 +1,37 @@
+{% extends "layouts/default.html" %}
+
+{% block body %}
+
+    <h1>Edit todo item</h1>
+
+        <form action="{{  url_for('update', id=todo.id )}}", method="POST">
+            <textarea type="text" name="todoitem"  class="textarea" placeholder="Info textarea">{{todo.text}}</textarea>
+            <select class="form-control dropdown-content" id="category" name="category">
+                    <option value="{{todo.category}}" class="dropdown-item" selected>{{todo.category}}</option>
+                    <option value="is-info" class="dropdown-item">Ticket</option>
+                    <option value="is-primary" class="dropdown-item">Project</option>
+                    <option value="is-link" class="dropdown-item">Other</option>
+            </select>
+            <br>
+            <select class="form-control dropdown-content" name="completed" id="completed">
+                <option value="{{todo.completed}}" class="dropdown-item">{{todo.completed}}</option>
+                <option value="0" class="dropdown-item">False</option>
+                <option value="1" class="dropdown-item">True</option>
+            </select>
+            <select class="form-control dropdown-content" name="priority" id="priority">
+                <option value="{{todo.priority}}" class="dropdown-item">{{todo.priority}}</option>
+                <option value="0" class="dropdown-item">Low</option>
+                <option value="1" class="dropdown-item">Medium</option>
+                <option value="2" class="dropdown-item">High</option>
+                <option value="3" class="dropdown-item">Urgent</option>
+            </select>
+            <input type="text" name="duration" class="input is-info" value="{{todo.duration}}">
+            <input type="submit" value="Update" class="button is-danger is-outlined">
+        </form>
+
+        <!-- <h2>{{todo.id}}</h2> -->
+
+
+
+{% endblock %}
+

@@ -1,0 +1,14 @@
+=> Eolementhe: mise en place d'une programmation d'extinction des machines de la plateforme .top entre 20h et 8h du matin et le week-end. Le mécanisme sur les VM est ok avec exclusion de certaines machines pour ne pas systématiquement les redémarrer. Mise en place aussi du mécanisme sur le cluster kubernetes de la .top => le redémarrage est plus long (30 min environs), cette fonctionnalité étant encore au stade de la preview chez azure. Voir si pertinent de la garder et si cela n'engendre pas des problèmes sur la plateforme. Ticket Github #4269
+
+=> IAM : connection du Node 1 au cluster (multiples cartes reseau definies) et installation du build 52860 qui corrige le problème de taille image. Installation de la dernière version qui corrige les chroma artefacts et le problème de prise en compte de la valeur de hauteur de l'image. Création aussi d'un preset ProRes SD ( à modifier en HQ au lieu de standard). Suite réunion avec IAM, lancer tests SD pour faire un comparatif de qualité sur la problématique de textures et commencer a valider la matrice Outgest
+
+=> Videomenthe : uniformisation des issues entre OPS et SRC sur github. les issues OPS sont migrées dans le repository SRC
+
+=> Cyta : Installation OS sur machine 2 et configuration cluster Cambria FTC. Un doc excel sur le NAS (233 \Projets\AO Cyta\Infos_techniques) reprends toutes les infos techniques des machines. 
+
+=> Videomenthe: mise à jour des infos Cambria dans l'AMC, il n'y a désormais plus qu'un seul onglet qui regroupe toutes les infos
+
+=> Eolementhe: travail sur les erreur d'alerting qui apparaissent via prometheus sur nos 2 clusters. ticket Githcub #4268
+
+=> Eolementhe: recherches sur la possibilité de réduire des coûts sur Azure ( => Advisor). Une machine (mediashuttle) est passée sur une VM plus petite. Faire le suivi sur les reduction de coûts sur à l'extinction des VM la nuit et le week-end pour voir les nouvelles recommandations de Advisor
+

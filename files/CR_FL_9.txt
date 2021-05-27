@@ -1,0 +1,28 @@
+=> Eolementhe: Modifier peering et lancer le terraform Plan et Apply sur le dev green (voir le comportement et detruire le cluster). Ok, il subsiste un problème au niveau des certificats SSL. Il faut voir si l'on peut ré-utilsier ceux existants  
+
+=> Eolementhe : ajouter Prometheus datasource sur la .com et voir si d'autre "Evicted" pods se passent. Ensuite ajouter la partie Monitoring Mongodb (remplacer celle qui pointe vers la base dev). Ok, il y a eu une alerte sur la cpacité disk du disk OS de la .com. J'ai donc fait des recherhes sur ce point. Il faut , dans un premier temps, augmenter la taille des des disques et la passer à 100 Go au lieu de 30. Un test a été fait sur la .top pour valider ce deploiement qui demander des detruire et reconstruire le cluster. deploiement sur .com à planifier. j'en ai profité pour introduire une notion "d'affinité" pour améliorer la notion HA en répartissant les pods Eolementhe sur les 2 nodes du cluster ( si 2 nodes existent)
+
+=> Cablenet: Relancer Keith pour voir s'il a changé l'affectation de le note license afin de l'appliquer ensuite sur la ferme Cablenet. Bertrand a fait l'application des licences ce Vendredi
+
+=> Cyta: les relancer pour savoir si l'on peut avoir une connection remote afin d'appliquer les licences EZTitle et leur faire la pris en main et configuration de leurs presets. Ils on redemandé des infos pour finaliser l'installation chez eux. A relancer Lundi
+
+=> NRJ : relancer F. Silence et B. Rucart sur Cambria afin de pouvoir mettre en place une license . En attente de leur retour
+
+=> Nextradio: mettre à jour la dernière présentation avant le réunion du 10 Mars
+
+=> GOTV : Visiso faite avec David Dong. Essentiellement sur les mapping audio. ok
+
+=> BCE: donner HASpID à Sandrine pour qu'elle fasse le lien avec leur besoin en SLA avant d'envoyer le dongle s'ils reprennent le SLA. En attente des infos de Hasp ID de Ledion
+
+=> OSSOO TV: envoyer Pré-requis Baton et Baton Standard pour license temporaire. Ok Fait
+
+=> Secom : demande d'aide de la part de Vincent sur sa configuration. Remote faite pour modifier les watchfolders. prévoir une session avec lui ensuite pour finaliser ses besoins et sa configuration
+
+=> Eolementhe : aide PG organisation pour leur mot de passe. Ok
+
+=> Eolementhe: revue de Scriptix et profondeur des informations a verifier. En cours
+
+=> Eolementhe: vérification de la consommation du compte Spradel. Ok
+
+=> IAM : vérification de la problématique des espaces colorimétriques sur les encodages Prores en SD. En attente du retour de David Dong
+

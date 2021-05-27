@@ -1,0 +1,22 @@
+=> Migration Eolementhe: test des workflows sur la net
+
+=> RMC / Nextradio : en attente du retour de Harmonic sur la licence qui manque et de Xdream sur le fichier Aviwest. Edit, en attendant la licence a été reseté pour 45 jour ce Vendredi. Ok
+
+=> PE : problème d'envoi de fichier pour traduction. le fichier de sous-titre est nommé en .txt au lieu de .srt . Elle a des problèmes pour envoyer ses fichiers car chez nous, on les envoi bien. je lui ai envoyé ses fichiers. Ok
+
+=> Pixagility : est ce que Go-astisub a été intégré. Oui mais cela ne marche pas sur le .net. Un ticket github a été ouvert. Ok fonctionne, il reste à revoir dans le docker de go-astisub pour vérifier que les données par défaut ne sont pas changées. 
+
+=> UEFA : la meilleure solution par rapport à leur demande serait VideoIndexer. j'ai repassé leurs fichiers dans Eolementhe pour avoir les speakers. Les fichiers sont sur le NAS "\\10.0.0.233\Interne VM\POC_UEFA\Test videos for transcript_subtitles\only transcripted from Eolementhe" 
+
+=> Pixagility : demande de leur part qu'on fasse le point sur leur licences. je leur ai envoyé le détail en précisant qu'ils doivent bientôt nous renvoyer les dongles de la ferme en version 1.6. En attente de leur retour
+
+=> Lylo : demande de support pour configurer un test plan. EN attente de leur retour
+
+=> NRJ : demande d'aide pour configurer Carbon coder pour insèrer du DVB Teletext. Répondu. En attente de leur retour. 
+
+=> Hiventy: demande d'aider sur fichier et Baton qui ne détecte pas pixels rouges sur bord droit de l'écran. Après essai chez nous, j'ai renvoyé les infos vers Interra. Jozsef a renvoyé des informations sur le fichier .mp4. Le client dit que le problème se pose aussi sur le fichier source qui est en ProRes 444. J'ai récupéré cet extrait que je renvoi à Interra. 
+
+=> FTV NoA : demande d'aide sur configuration audio mapping. J'ai essayé avec leur fichier vidéo et leur mapping audio et cela fonctionne bien en mode manuel et en mode watchfolder. En attente du retour de Philippe Mutelet pour avoir aussi son preset d'encodage. Il semble que ce soit sa version qui pose ce problème. Je lui ai envoyé les infos pour qu'il fasse un update la semaine prochaine. Ok
+
+=> FTV CDE : Muriel,  j'ai vu que FTV a proposé les dates du 10-11 et 17/18 Décembre et que tu les as validées, comme tu vas Mardi à FTV peut être pourront-ils te préciser le contenu attendu. J'ai cru comprendre que du 10 au 12 décembre Bertrand et Baptist étaient à Monaco, du coup, le support sera mis en stand-by les 10 et 11/12
+

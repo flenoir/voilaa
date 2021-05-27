@@ -1,0 +1,18 @@
+=> Eolementhe: suite au déploiement en .com, j'ai pu terminer quelques tickets en suspends sur la récupération des metrics de la .com dans Grafana, la récupération des logs de la .com et la connexion des infos MongoDb de la .com dans Grafana. j'ai pu aussi lancer la migration du stockage de la .top sur le stockage ZRS. J'ai aussi modifié une partie des ressources et de l'autoscaling de la .top
+
+=> Eolmenthe : démo de Cypress.io pour les tests automatisés de Eolementhe. Ce code va être ajouté dans Github pour que tout le monde puisse le tester et lancer de nouveaux scripts de tests
+
+=> Microsoft: réunion visio pour AO IA FTV
+
+=> Tandem : déchargement des cartes Jeudi et Vendredi
+
+=> videomenthe: finalisation mise en service macbook pour Samia et configuration VPN, compte outlook et slack
+
+=> Videomenthe: envoi des informations de la dernière release de Baton aux clients
+
+=> Videofutur: réponse à leurs questions sur Cambria FTC
+
+=> Videomenthe: j'ai fait de la place sur la NAS 233 en migrant des données techniques vers le NAS 200 et Onedrive
+
+=> Eolementhe : revue des coûts azure et mise en place d'alertes sur la bande passante  de mediashuttle pour NRJ et ajustement des seuils de déclenchement des alertes sur .com et .top
+

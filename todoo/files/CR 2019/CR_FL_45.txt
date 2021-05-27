@@ -1,0 +1,24 @@
+=> PE: upload d'un fichier pour Delphine car l'upload avec Youtube ne marchait pas sur ce fichier.
+
+=> Dragon : essai de vérification AS-11  sur fichier AVCintra 100 et demande de license temporaire de Flashiness sur notre license permanente Baton Cloud 2. Il faut migrer Baton2 de la cloud en version 7.5. Ok fait
+
+=> INA : problème sur fichiers qui ne sont plus détectés dans les watchfolers Baton. J'ai relancé Viktor. Marc Leger ne sera présent que Mercredi de la semaine prochaine. 
+
+=> Adstream: mise à jour de leurs droits au 7 Février 2020
+
+=> RMC / Nextradio : reset de license temporaire en attendant que la license VM controlleur soit dans le portail
+
+=> ARTE  France : demande d'infos sur rapports Baton par Christian Challe. Réponses envoyées.
+
+=> M141: problème sur Signiant qui passe en 2 étoiles. Après reboot de la machine, il est possible de refaire des envois et receptions en 3 étoiles. Ok
+
+=> FranceTV Antibes: problèmes sur encodages. A priori, l'encodage se faisait sur le contrôleur au lieu du node. Ok
+
+=> RMC / Nextradio : Viste chez eux pour présentation Cambria FTC et Eolementhe. Documents envoyés en attente de leur demande de license temporaire. 
+
+=> M141: visite chez eux. Il faut récupérer un fichier avec les erreurs à détecter et renvoyer vers Interra sur ceux qui ne sont pas détectés dans Baton. Fichiers demandés, en attente du retour de patrice Goessant
+
+=> Mikros : demande d'extension de license pour 1 semaine pour Mikros. En attente du retour de Viktor
+
+=> PE: Delphine n'arrive pas à avoir le proxy video qui s'affiche alors que je l'ai bien quand  je fais un "impersonate". cela doit ^tre lié à son navigateur. j'ai relancé son workflow  mais elle à le même problème, je lui ai demandé de vider le cache de ses navigateurs. En attente de son retour.
+

@@ -1,0 +1,73 @@
+=> NRJ : vérifier l'alerte disque Grafana. Disque au delà de 90%, ils ont purgé des fichiers. Ok
+
+=> RMC / Nextradio : se connecter pour reprendre les infos sur les controlleur backup. Ticket ouvert chez Harmonic. Demander à Keith de régénérer les licences. Keith dit qu'il faut délier les licences du controlleur mais ce n'est pas possible car le Device ID a changé car la VM a été modifiée par Nextradio quand ils on changé la quantité de RAM. je suis en attente de l'ouverture de internet sur la machine chez Nextradio. En paralèlle, Eli a repris le dossier et demande le SO associé au device ID initial. Seulement, on a appliqué des licences temporaires que nous avions eu par Bryant en avance de RMA. J'ai aussi demandé un vérification à Muriel sur la livraison des licences complémentaires qu'il manquait à Nextradio car je ne les ai pas trouvée. Il faut donc que Eli veuille bien remettre les licences  disparues dans le licportal et qu'on trouve bien la commande des licences Nextradio qu'il manquait pour les appliquer sur le controlleur 2.
+
+=> Euronews : refaire template burn Euronews pour XDCAM (attention bien reprendre template graphique). expliquer au client qu'il faut que le format source soit normalisé sinon il faudra faire  des wf conditionnels sur les détections de medias source. quelle priorité  ? 
+
+=> AO FTV Cloud : relancer Microsoft pour avoir leurs réponses à mes questions. Relancé mardi après-midi. Ils doivent revenir vers nous. voir mail info que j'ai envoyé à Bertrand
+
+=> NRJ : Faire le point avec Benjamin Rucart pour savoir où ils en sont Ez Title. Il y a une nouvelle version Cambria FTC ( version 4.5) que j'ai envoyé à Benjamin Rucart, pas de retour pour le moment. il faudra peut être mettre à jour le license temporaire Cambria FTC et EZ Title
+
+=> TF1: renvoyer license temporaire Baton. Ok Sandrine l'a envoyé
+
+=> Groupe Secom : revoir les remarques de Vincent Charley pour mettre à jour notre proposition de ferme. Une machine identique à celle de Luxe Tv devrait suffir en 3 exemplaire. retour sur les profils envoyés par Vincent Charley et envoi d'un mail détaillé sur les performances CPU
+
+=> GOTV : Muriel lance une proposition de Cambria FTC. Il faut envoyer la semaine prochaine les prerequis pour le hardware Cambria notamment pour la 4K et confirmer à Gilbert que c'est possible à  héberger en VM
+
+=> Noa Bordeaux : Rancher_rke, j'ai pu ajouter un pod Mongodb et lancer K8s
+
+=> PE : Demande de Fabien Cini, vérifier si on peut faire un alignement des sous-titres à gauche. Pour le moment, nous n'avons pas cette option dans la brique "burn" de Eolementhe. il demande aussi pourquoi  il ya un recoupement des sous-titres de 4 lignes. répondu. Il remarque aussi un potentiel bug sur l'affichage du nombre de caractères maximum. Ticket Github ouvert sous le numéro #3851
+Problème avec Speechmatics "certificate has expired", création du ticket #3853. Nouveau problème sur la barre bleu de synchronisation et l'affichage des frames, ouverture d'un ticket #3856
+
+=> PE : créer les 4 videos du Webinaire pour Anna. Aller démarrer la machine 106 à Videomenthe. Je n'ai pas eu le temps d'y aller cette semaine
+
+=> FTV : demande de license provisoir Carbon coder par Joel Dulorme. Voir si on lui propose Cambria FTC 
+
+=> Eolementhe : essais de wf sur la .top
+
+=> Euronews : ticket support #652745 sur sous-titrage. En attente de son retour
+
+=> FTV : demande de license temporaire Carbon Coder par Joel Dulorme, ticket #856476
+
+=> Videomenthe : j'ai pluggé OsTicket sur slack dans le channel #Osticket (pour Bertrand et moi) pour avoir les notifications de notre portail support
+
+
+propositions autour du vélo => reprendre les plans existants des pistes cyclables de la ville( via google https://www.google.fr/maps/contrib/103245542781474483600/edits/@43.637748,3.9164684,15z/data=!4m3!8m2!3m1!1e1!5m1!1e3?hl=fr ou https://data.montpellier3m.fr/dataset/pistes-cyclables-de-castelnau-le-lez ) et pointer les incohérences (faire une video dans ce sens) et matérialiser sur ce plan nos autres prospositions et les motiver. Lister les parkings vélo et autres points d'accroche normalisés (sur un plan par exemple) pour pointer les manques ... sur ce même point, demander la participation de tous pour photographier dans son quartier les nids de poules et problèmes de voiries sur la carte google maps que nous avions déjà fait (https://www.google.fr/maps/@43.6386391,3.9100742,16z/data=!3m1!4b1!4m2!6m1!1s1SoedYCEgtSCxStA9kQc9ekQrBrg1k5HY?hl=fr). Cette carte pourait être mise sur Facebook et que soit demandé aux citoyens de signaler d'autres problèmes de voirie
+
+En ce qui concerne nos propositions de végétaliser / déminéraliser, il faudrait faire appel a des artistes dans les 3 listes pour faire des propositions de visuels illustrants la végétalisation de différents lieux ou proposer une vision plus agricole de Notre Dame de Sablassou (l'idée étant que ces visuels permettent aux citoyens de se projeter dans nos propositions)
+
+Sur les vidéos de présentation, il faudrait prévoir un planning de tournage, montage et diffusion sur FB et autres des courtes videos de présentation. On peut commencer par la vidéo que nous avons faite avec Mathilde. 
+
+Sur cette partie "réseaux sociaux", il faudrait rapidement identifier comment on s'organise sur ce point pour 1/ quels sont les personnes en charge de poster les articles, etc... 2/ quel est le processus de rédaction / validation des articles auprès de Nous, CVA et EPC. cette question se pose aussi sur la partie communication externe avec la presse traditionnelle.
+
+Autre idée, un peu "geek" serait de reprendre un projet "open-source" (https://github.com/vogloblinsky/municipales-rennes) afin de créer un "comparateur de programme" comme l'a fait Rennes (https://www.municipales-rennes.fr/)
+
+Bref, voici un condensé de qq idées qui sont éparpillées, peut-être pouvons-nous utiliser des ooutils de gestion d eprojets comme Trello par exemple pour faciliter le classement des ces idées et les tâches / responsabilités / participants associés. 
+
+https://trello.com/
+
+
+
+Pour anticiper toute le travail à venir, notamment en terme de communication, voici quelques idées / propositions dans le cadre d'un travail en commun avec CVA et EPC : 
+
+Propositions autour du vélo => reprendre les plans existants des pistes cyclables de la ville( via google https://www.google.fr/maps/contrib/103245542781474483600/edits/@43.637748,3.9164684,15z/data=!4m3!8m2!3m1!1e1!5m1!1e3?hl=fr ou https://data.montpellier3m.fr/dataset/pistes-cyclables-de-castelnau-le-lez ) et pointer les incohérences (faire une video dans ce sens) et matérialiser sur ce plan nos autres prospositions et les motiver. Lister les parkings vélo et autres points d'accroche normalisés (sur un plan par exemple) pour pointer les manques ... sur ce même point, demander la participation de tous pour photographier dans son quartier les nids de poules et problèmes de voiries sur la carte google maps que nous avions déjà fait (https://www.google.fr/maps/@43.6386391,3.9100742,16z/data=!3m1!4b1!4m2!6m1!1s1SoedYCEgtSCxStA9kQc9ekQrBrg1k5HY?hl=fr). Cette carte pourait être mise sur Facebook et que soit demandé aux citoyens de signaler d'autres problèmes de voirie
+
+En ce qui concerne nos propositions de végétaliser / déminéraliser, il faudrait faire appel a des artistes dans les 3 listes pour faire des propositions de visuels illustrants la végétalisation de différents lieux ou proposer une vision plus agricole de Notre Dame de Sablassou (l'idée étant que ces visuels permettent aux citoyens de se projeter dans nos propositions)
+
+Sur les vidéos de présentation, il faudrait prévoir un planning de tournage, montage et diffusion sur FB et autres des courtes videos de présentation. On peut commencer par la vidéo que nous avons faite avec Mathilde.
+
+Sur cette partie "réseaux sociaux", il faudrait rapidement identifier comment on s'organise sur ce point pour 1/ quels sont les personnes en charge de poster les articles, etc... 2/ quel est le processus de rédaction / validation des articles auprès de Nous, CVA et EPC. cette question se pose aussi sur la partie communication externe avec la presse traditionnelle.
+
+Autre idée, un peu "geek" serait de reprendre un projet "open-source" (https://github.com/vogloblinsky/municipales-rennes) afin de créer un "comparateur de programme" comme l'a fait Rennes (https://www.municipales-rennes.fr/)
+
+Bref, voici un condensé de qq idées qui sont éparpillées, peut-être pouvons-nous utiliser des ooutils de gestion d eprojets comme Trello par exemple pour faciliter le classement des ces idées et les tâches / responsabilités / participants associés.
+
+
+-----------------
+
+HEVC obligé en premium
+vérifier le capped VBR sur l'encodage azure premium
+270000 / 43920
+
+
+

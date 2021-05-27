@@ -1,0 +1,20 @@
+=> FTV Rennes : RDV tel avec Red Bee. On leur a fourni les réglages pour corriger l'anamorphose. Ils doivent nous fournir des copies écran du problème  d'allasing sur le fuze
+
+=> Empreinte : On a reçu leur fichier. il faut le passer dans Baton pour détecter les pixels. Bertrand a passé le fichier dans baton et vu avec Interra qui doivent voir pour améliorer leur detection sur les pixels.
+
+=> Videomenthe - OSTicket : enlever %message% pour obliger les gens à se connecter sur la plateforme. OK, Voir semaine prochaine pour former Eric dessus
+
+=> PE : creation d'un fichier avec sous-titres brulés et redécoupé pour Delphine. OK
+
+=> Pixagility : prevoir un moment pour migrer le controlleur et changer l'adresse IP. En attente de leur retour
+
+=> Tandem : déchargement des cartes Jeudi et Vendredi
+
+=> Eolementhe : tester workflow IMF sur la  .top. Ok Remi a corrigé des données qui n'étaient pas correctes dans les fichiers CPL
+
+=> NoA : demander une session Teamviewer la semaine prochaine pour retenter l'installation du serveur de license Cambria sur la machine dédiée. Il y a une erreur quand on demande le filtre de normalisation de Loudness dans un watchfolder. En cours avec Ikuyo
+
+=> Titra TVS : demande de detection de tramages sur test plan. en attente de leur fichier.
+
+=> NoA : Prestation de formation / configuration. Ok
+

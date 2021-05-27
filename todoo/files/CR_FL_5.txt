@@ -1,0 +1,34 @@
+=> Videomenthe: Faire NDF et Heures sup pour Janvier. ok
+
+=> UEFA: refaire les workflow de la .net sur la .top. En attente de la clé API de Speechmatics. Ok prévenir Jan que c'est ok
+
+=> Videomenthe : demande de renouvellement de license Baton. Ok jusqu'en Mars 2020
+
+=> FTV CDE: mail pour leur demander quand caler la dernière journée de prestation. J'en ai profité pour leur faire un retour sur la détection des silences codés . En attente de leur retour
+
+=> PE : lire le document de spécifications de l'AO. Ok commentaires ajoutés sur document dans OneDrive
+
+=> PE : faire le comparatif sur le logiciel Trados Studio. Ok mail envoyé
+
+=> VDM : demande de support sur erreur "Aborted" de Baton. Ils m'ont renvoyé les fichiers source, projet, test plan et log par Aspera, je les ai renvoyé à jozsef. Viktor dit qu'avec Baton 7.6 cela fonctionne. info envoyé à VDM
+
+=> NRJ: caler le jour de formation Eolementhe. Ok pour Jeudi matin. Préparer les workflow et comptes [compte manager Franck Vetu + autre compte utilisateur (fleur + 1 autre)]. démo à faire sur le .cloud => WF: upload standard et FTP, transcription, pause, correction burn livraison ftp ou manuelle, limiter à 250 minutes par mois sur le compte de Franck à partager avec les 2 utilisateurs. Ok fait
+
+=> Orange : continuer document projet et revoir volumétrie selon leur document.  Valider les chiffres avant de refaire des benchmarks Baton. ajouter des benchmarks Cambria sur génération fichier proxy, rempapping audio et OCR. Ajout de la volumetrie et des benchmarls sur le mapping audio, le proxy et l'OCR
+
+=> GOTV : faire le point sur le ticket GOTV. Historique fait et envoyé à Muriel. preset Carbon coder passé sur WFS et envoyé à Gilbert. SUr le preset WFS, il y a une errreur de "buffer underflow", je lui ai demandé de faire une modification sur le preset.En attente de son retour.
+
+=> Eolementhe: Envoyer ligne de code ffmpeg pour ajouter watermarking image avec scale et positionnement. Ok envoyé à Baptist par Slack le 21/01
+
+=> Videomenthe: reprendre billets trains pour déplacement 4 et 5 Février. Ok
+
+=> INA : vérification espace disponible suite demande d'effacement de fichiers de  la part de Rita
+
+=> Videomenthe: relancer le serveur Tandem car nos portails Mediashuttle ne sont plus accessibles. Ok
+
+=> NRJ: Envoyer version Cambria FTC pour essai avec procédure. Ok envoyé à Stéphanie Litran
+
+=> RMC / Nextradio : répondre à Matthieu Arnould sur leur plugin Xdream. Attention, ils ne sont plus sous support. Faire le point Lundi avec Muriel
+
+=> Orange : demander à David Dong si on peut créer un script Cambria pour appliquer un mapping audio selon des infos issues de ffprobe. Ok en attente de retour
+

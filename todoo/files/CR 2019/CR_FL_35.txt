@@ -1,0 +1,22 @@
+=> GOTV : Voir si le support Harmonic a récupéré les fichiers qui pixelisent. relancer
+
+=> France24 : Les machines sont fonctionnelles et  ils attendent une adresse et un nom pour renvoyer la machine. relancer Harmonic
+
+=> BCE : application de leur licence WFS sur une machine qu'ils ont reconfigurée
+
+=> France TV Mistral : après reboot de maintenance, le WFS 150 n'a plus de license et le WFS 151  garde les jobs en queue. Après reboot du WFS 151, il reprends les jobs en queue mais le WFS 150 n'as plus de license et on ne peux pas créer un fichier c2v car rhozet_rus ne trouve pas de HASP key. Ticket ouvert chez Harmonic qui demande une remote. Les protocoles de sécurité sont un peu compliqué chez FTV, je leur ai demandé ce qu'ils peuvent nous proposer pour faire cette remote
+
+=> FTV Montpellier : problème sur machine WFS. JE me suis déplacé, il s'agit du SSD3 qui ne marche plus, la VM Node ne veut plus démarrer car elle n'a pas de vmdk NODE_2. Ticket ouvert chez HP pour avoir un SSD de remplacement. Il faudra voir ensuite si le ponant peut recréer le vmdk avec VEEAM
+
+=> NRJ : Baton affiche certaines tasks en "aborted". Ils ne sont plus sous support
+
+=> Nextradio : voir pour la migration des licences Xdream et Minnetonka (garder la 1.7 en même temps que la nouvelle ferme)
+
+=> IBC : installer Baton sur ma machine et Cambria. Demander licences temporaires. 
+
+=> Arte France : proposition en cours pour installation et formation Baton les 29/09 et 01/10
+
+=> France24 : Upgrade de leur ferme dans la dernière version de WFS la semaine prochaine. Demande de les assister si besoin
+
+=> Color Film Archives : Benchmarks Testplans sur base Deluxe Canalplus
+

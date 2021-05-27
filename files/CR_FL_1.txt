@@ -1,0 +1,12 @@
+=> NRJ : finaliser l'application des licences de la ferme Replay. OK 13 licences appliquées
+
+=> Eolementhe : terminer l'uniformisation du code OPS en tre "dev" et "master". Ok version déployée sur .com Mardi soir
+
+=> IAM: clarification de la problématique de chroma sur transcodage. Informations envoyées à Capella . En ettendant, ils ont répondu sur la problématique de texture sur encodages SD. En attente de leurs informations sur modifications de presets
+
+=> Devops : travail sur contenairisation de la partie non-standard du plugin MongoDB pour grafana. la semaine prochaine réaliser manuellement la mise en place du plugin
+
+=> NRJ : Reunion visio pour clarifier leur besoin Hardware. Revoir benchmarks pour ajuster leur configuration. En attente de la volumetrie de leur part
+
+=> Euronews : Réunion visio sur problématique de traduction en bloc et de la possibilité d'jouter les textes issus de voice over des journalistes. En cours
+

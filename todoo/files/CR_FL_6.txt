@@ -1,0 +1,20 @@
+=> FTV Mpeg4: demande de support pour un disque en panne sur leur machine de spare. Nous n'avons pas en maintenance cette machine, j'ai renvoyé vers le Ponant.
+
+=> NRJ : dépannage Eolementhe car les sous-titres brulés n'étaient pas les bons (pas ceux-sauvegardés) sur la .cloud. Ok
+
+=> Orange: purge du portail Videomenthe.mediashuttle.com car ils ne pouvaient plus envoyer de fichiers.Ok
+
+=> PE: support pour Delphine sur un problème de fichiers. J'ai recopié le contenu d'un fichier En dans le fichier .srt EL. Elle a toujours des problèmes de download de la bonne version. bug connu sur la .cloud qui est corrigé dans la nouvelle version. Ok
+
+=> M6: demander à Ikuyo le lien de la dernière version de Cambria FTC pour l'envoyer. Ok fait
+
+=> NRJ: demander à Ikuyo le lien de la dernière version de Cambria FTC pour l'envoyer. Ok maail envoyé avec les documents. License Ez Title demandée, en cours
+
+=> Orange: finalisation du cahier des charges.Ok
+
+=> FTV NoA : TMA pour vérifier un problème de configuration de mapping audio. il semble que cela ai changé sur la dernière version d e Cambria, notamment en fonction de le normalisation. j'ai demandé confirmation à David Dong, en attente de sa réponse. Ok infos envoyées à Philippe Mutelet et mises sur notre KB
+
+=> NRJ: suite à la commande, mise à jour des droits sur Eolementhe
+
+=> FTV Mpeg4: demande de Nancy pour modifier leur configuration notamment sur le watermarking car ils reviennent sur la régie principale
+

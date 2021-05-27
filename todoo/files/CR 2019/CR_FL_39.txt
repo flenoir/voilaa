@@ -1,0 +1,32 @@
+=> Pixagility : probleme de node qui ne se connecte pas sur leur ferme. En fait, ils connectent 11 nodes alors qu'ils n'ont que 9 licences. Ok ticket fermé
+
+=> Pixagility : Probleme de watermarking Mediametrie. Après questions, il s'avère que le tag de watermarking n'est pas bon. Ok ticket fermé
+
+=> Euronews : Problème sur fichier proxy vidéo qui disparaît, ticket ouvert sur Github. Résolu par Baptist. Le burn du MXF est fait par ffmpeg ( voir pb de royalties si on doit continuer à faire du burn de mxf ou si finalement Euronews utilise des fichiers TTML)
+
+=> Red Bee : question sur conversion de TC sur base de données WFS. OK complément du support Harmonic envoyé à Guillaume.
+
+=> Mikros : Envoi d'un Baton Standard et des preconisation Hardware pour version temporaire. en attente du fichier de license.
+
+=> Tandem : Déchargement des cartes Jeudi et Vendredi
+
+=> Groupe Secom : demande si Capella sait prendre des fichiers de sous-titre .pac , essayer du .stl qui est du .pac sans fichier bitmap
+
+=> Luxe TV: Capella a répondu, ils demandent une remote. A caler la semaine prochaine
+
+=> BCE: renvoi d'infos sur Cambria FTC et notamment sur la possibilité de définir des réglages R128 dans la normalisation de Loudness
+
+=> Videomenthe : mise à jour des Leads
+
+=> Arte France: achat billets et hôtel pour formation du 8 et 9 octobre
+
+=> Deluxe: Attendre la commande pour finaliser les test plans. 2 à 3 jours environs à revoir pour faire ces TP
+
+=> Orange OCS: Création d'un preset Cambria et d'un preset sous ffmpeg (prévoir un update sur Eolementhe pour ajouter ce preset dans la brique ffmpeg de transcodage). Questions techniques remontés au client lors de notre entrevue Mardi.  relancer pour avoir les dernières réponses techniques. Tester charge sur la .net. en attente de la liste au père Noël. Site au mail de ce Vendredi après-midi, j'ai finalisé les presets HD et SD avec ffmpeg et créé 2 encodages. A valider ensemble pour envoi lundi matin avec une réponse à leur mail. 
+
+=> PMU: Le contrat de SLA de la machine HPE (HP DL360 Gen9 8SFF CTO Server	CZJ6341B25	24/09/19)  est arrrivé à écheance cette semaine. Est ce qu'on renouvelle le contrat de maintenance ? 
+
+=> RMC / Nextradio : Suivi du problème de "streaming mode" demande de désinstaller la librairie Windows qui est installée en même temps que le plugin X-dream. Demande faite à Harmonic pour faire une remote Lundi matin
+
+=> M141: Appel de Patrice cet après midi car il a des débits très variables sur les différents clients qui uploadent. J'ai uploadé chez eux dans un fichier mai les débits ne sont pas fou. Je pense car Tandem récupère aussi des médias chez nous. Voir avec BC lundi
+

@@ -1,0 +1,26 @@
+=> Videomenthe : Plateforme OSTicket ,comptes créés pour Rémi et Nicolas. La plateforme a été mise en dernière version. ce qui permet d'avoir l'auto-completion sur les adresses mails. Les accès ont été mis à jour sur Dashlane.
+
+=> Archives Monaco : signature à faire et définir un planning des réunions.
+
+=> PE : le 14 Mars passer de la .net vers la .cloud. basculer tous les comptes. Muriel voir les astreintes et les affichages anglais et français en parallele
+
+=> Delphi Technologies : Speech to texte avec sous-titres avec Speechmatics (docker). A suivre
+
+=> Deluxe : convertir des audios en MXF pour IMF. En fonctions des rushs reçus. Ok Les fichiers wav  discrets ont été convertis avec un mapping audio dans Cambria FTC. le fichier .asf a été fait avec Cambria FTC et la conversion . wav => .mxf a été fait avec une autre librairie. Fichiers envoyés à Deluxe, en attente de leur retour.
+
+=> ARTE : mise en route WFS avec Guillaume ... pour ensuite installer Eolementhe en Standalone. Voir pour caler une date avec eux
+
+=> Le Labo Paris : Arnaud Careo sur IMF pour qu'il essaye sur Eolementhe. Voir avec Rémi et Nicolas pour corriger le problème sur les fichiers PKL
+
+=> FTV / Noa : Watermarking mediametrie fonctionne. Je leur ai dit. En attente du retour de Philippe Mutelet.
+
+=> FTV Antibes : TMA faite pour reconfigurer Server2Splicer. Jeudi , nouvelle TMA pour vérifier les adresses ip car il y avait une autre carte réseau définie sur le contrôleur. Elle a été désactivée. Larbi voit désormais bien la machine sous VEEAM, ils doivent faire le backup la semaine prochaine.. 
+
+=> FTV Nantes : TMA faite pour les aider à finir al configuration du spare
+
+=> France24 : fichier envoyé pour voir la désynchro. En attente du retour de Harmonic.
+
+=> DPP : IMF et AS11. Il y a un workflow qui existe dans WFS sur la machine 101, je n'ai pas trouvé de preset dedié dans Cambria FTC. je vais demander à David Dong si c'est possible.
+
+=> Eolementhe IMF : Lors de la création d'un package, le fichier PKL ne contient pas les assets. J'ai ajouté ces informations au ticket github qui est déjà ouvert par Bertrand. Il semble aussi que le fichier AssetMap ne soit pas conforme.
+

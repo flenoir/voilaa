@@ -1,0 +1,26 @@
+=> Orkis: suivre ses encodages et voir s'il faut purger des fichiers par rapport à son stockage en cours. Ce Vendredi Sébastien Selva remonte que beaucoup de ses fichiers ont été purgés mais je n'ai rien effacé et la durée de purge est à 30j. Vu avec Bertrand qui m'a envoyé un fichier Excel que j'ai fait suivre au client. faire le point Lundi avec Bertrand
+
+=> BCE: voir avec Muriel pour envoyer un dongle Carbon coder (avec la partie Carbon admin) à Ledion. Décider Lundi pour un envoi rapide
+
+=> Cablenet: voir pour appliquer les entitlements en fonction du retour de Keith. Le problème est qu'il faut que la license soit attribuée à Cablenet dans le portail; sinon elle ne peut pas être mise sur leur ferme. J'ai demandé à Keith de faire cette affectation. Il faudra alors que le nodelock chez le client soit connecté sur un de leur compte affin de faire la correspondancepour ajouter la license à la ferme WFS (license utilisée : 8391608445242110121134812)
+
+=> Eolementhe: relancer, sur le 121 le docker-compose de grafana. ok fait mais seulement sur les metrics de la .top pour éviter le pb de "Disk pressure" sur la .com . Lundi voir pour purges les images Docker non utilises sur le le node 1 du cluster de la .com
+
+=> Eolementhe : mettre la version de kubernetes en variable ainsi que la capacité de stockage du disk OS. Se mettre en workspace dev. Ok. Il faut corriger aussi une type de guillements sur le script de génération de stockage Tfstate
+
+=> Speechmatics: limiter la durée de retention des fichiers sur speechmatics. Question posée et ouverture ticket Github #4305. réposne de Speechmatics qui dit qu'on doit le faire directement avec des appel API en DELETE
+
+=> Eolementhe: tests de la .top => SPP ok, Radio France, 1 sur 2 OK, Adstream OK, Euronews en cours
+
+=> Eolementhe: vérification sur le problème d'inversion de ponctuation sur les burn en arabe. Vu avec Julien. En cours
+
+=> Eolementhe: Il y a eu un pic d'activité sur Deepl. Il s'avère que c'est un compte trial qui a lancé plus de 90 wf en CC. Il faut mettre des limitations sur les comptes trial
+
+=> Baton : Démo faite pour la société Ossoo. leur envoyer les prérequis Baton et une version standard pour une license temporaire. 
+
+=> Pixagility: discussion sur la possibilité de limiter les notifications sur WFS
+
+=> Eolementhe : j'ai travaillé sur la mise en place d'un focntionnement Blue - Green sur les cluster AKS pour limiter les pb de mise à jour de la plateforme de production. Un script Terraform est prêt pour tester sur la .top. A lancer la semaine prochaine pour validation
+
+=> Eolementhe: ouverture des droits pour DietPlus
+

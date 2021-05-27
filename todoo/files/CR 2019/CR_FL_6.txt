@@ -1,0 +1,18 @@
+=> FTV Siège Baton : demande de recaler date pour upgarde dernière ferme Baton de FTV  en version 7.3 Les 13 et 14 Février il faudra refaire des essais sur leur ferme de Pré-production afin de valider les tests plans. Olivier Mallard doit récupérer les tests plans de la ferme Varet en version 5.3 et les importer sur la ferme pré-prod en version 7 ( il doit modifier le selective analysis et les fichiers ANC). L'upgrade du siège est calé le 19 Février avec un déplacement sur site.
+
+=> FTV Cambria : doc de formation en cours de finalisation. Repréciser par mail que c'est 1 jour de configuration et 1 jour de formation. Ils ont aussi des problèmes avec le serveur de licence Cambria. Une nouvelle version leur a été envoyée pour voir si cela corrige le problème. en attente de leur retour.
+
+=> NEXTRADIO : Après avoir fait des modifications sur le stitch dans la requête API, ils ont toujours des problèmes surtout sur des fichiers .mov. Matthieu a une piste à propos des time code. j'ai testé de mon côté avec des requêtes API avec leur fichier et cela fonctionne. Il faudrait que je puisse le faire sur leurs presets pour comparer.
+
+=> FTV Toulouse : problème de license sur Server2Splicer secours de Toulouse. Voir s'ils utilisent d'autres destinations de splicers. pas de retours de leur part cette semaine.
+
+=> Lylo : demande d'information sur des réglages de Loudness. information envoyée. Ok
+
+=> France24 : problème de synchro sur fichier généré par Xpress. Ticket en cours auprès de Harmonic
+
+=> FTV Antibes  : Machine principale ne trouvais plus les datastores. Le technicien HP est intervenu et a changé la carte mère mais l'ESXI ne se lance plus.J'ai donné les indications pour qu'ils créent sur place, une clé bootlable de l'ESXI afin de le ré-installer. le technicien de permanence doit le faire ce week-end. voir Lundi matin, si l'ESXI fonctionne.
+
+=> M141 : la licence ne semble plus fonctionner après upgrade de Baton en version 7.4. ok après copie de la base de données.
+
+=> PE : les formations se sont bien déroulées. Il ya plus de langues car il y a d'autres nationalités ( bulgares, suédois, etc...). ils ont à nouveau mentionné le besoin d'avoir le texte anglais à coté des autres langues.. Il faut bien leur expliquer le fonctionnement de l'enregistrement des points In et Out. Après les sessions de Bertrand, il faudra leur envoyer un pdf de support de formation.
+

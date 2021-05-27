@@ -1,0 +1,15 @@
+=> GOTV : ticket ouvert chez Harmonic. Fichier en cours d'upload sur le FTP Harmonic. workflow et preset envoyés à Alex Lopez. Le support Harmonic reproduit le problème, ils cherchent un workaround  a proposer. Le client est informé.
+=> Pixagility : rapeller Melissa pour l'installation WFS. Rdv 11h30 Mercredi. J'ai fait une remote pour l'aider à parametrer ses workflow et preset. Elle devrait être autnonome maintenant.
+=> FTV Mpeg4 : suivre le problème de consolidation avec l'ESXI de Caen. l'équipe projet de Paris demande d'éteindre la VM CTRL pour pouvoir faire la consolidation du node. en attente de leur retour.  Ce Vendredi matin j'ai été appelé par Larbi Abdellou pour un problème sur les audio des fichiers de Caen. Le détail  est dans le mail "France 3 Caen / Incident de Transcodage Caen /" envoyé aujourd'hui à 15h57 à Pascal Laffut. je n'ai aps encore le retour sur la consolidation de l'ESXI
+=> FTV Mpeg4: afin de ne pas rappatrier une machine spare et la reconfigurer pour Antibes, j'ai demandé de faire une TMA. en faisant quelques essais, j'ai trouvé le mot de passe. il n'en a pas, c'est vide...Ticket fermé
+=> Cambria FTC : demande à David Dong d'envoyer une procédure pour les licences temporaire. Voir aussi, où ils en sont pour l'intégration Nextracker car FTV va le demander. En attente de Cambria cluster de la part de David dong et procédure pour license temporaire. Relancé ce Vendredi car pas eu de réponse.
+=> Cambria FTC : mise à jour des documents internes
+=> FTV prestation : ajouter prestations. j'ai fait un tableau à ajouter en annexe
+=> Videomenthe: essayer Teams pour faire les appels interne de Videomenthe (voir si ça fonctionne aussi avec les personnes Skype exterieures). Essai Vendredi. Ok ça marche pour l'ensemble participants, à tester avec Mike pour les intervenants externes
+=> Videomenthe: tester Eolementhe.top pendant 1 heure. OK
+=> Eolementhe : Aide sur demo grecque avec OF. Ok, ils sont intéressés. Ils ont demandés si on pouvait coloriser les textes en fonction de l’interlocuteur et son on pouvait décaler le TC de l'ensemble des sous-titres. J'en ai parlé à Rémi, il a créé des tickets dans Github.
+=> Videomenthe: ecrire article pour site web template farm et videoflow. A faire la semaine prochaine
+=> Tandem : déchargement des cartes Lundi, Jeudi et Vendredi ( j'ai mis à jour les script pour recevoir un mail quand les cartes sont déchargées)
+=> RDGP : il reste 1 document à faire (comptabilite)
+=> Label Cloud : Document de présentation commencé. La date de la prochaine réunion sera communiquée bientôt.
+=> Veille : J'ai trouvé un code open-source pour faire du fingerprinting audio (un peu comme Shazam). l'idée est de pouvoir détecter les générique pub dans un vidéo, je l'ai essayé et ça marche bien. Je le fais tourner dans un conteneur docker avec un autre conteneur de base de données associée.  Ca peut être une nouvelle feature intéressante pour Eolementhe.

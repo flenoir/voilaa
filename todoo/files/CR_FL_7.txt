@@ -1,0 +1,20 @@
+=> FTVOM : envoyer et prerequis et trial version. Infos envoyées à Clément Abeille
+
+=> France 24 : modifier les comptes pour ajouter le nouveau compte au lieu d'un des anciens. Ok
+
+=> NRJ : demander license EZ title Dimcho. Fait, en attente du retour de NRJ
+
+=> RMC : vérifier les librairies windows sur la base de données. Elles sont aussi sur la machine de la base de données, RMC ne veut pas les enlever. Je vois avec eux s'ils peuvent essayer d'installer une  autre VM avec la même version de VMTools car il y a une différence entre la version avec la ferme WFS qui fonctionne et celle qui ne fonctionne pas. En attente de leur retour
+
+=> INA : envoi des nos engagements et évaluation RGPD à Cédric martin suite à leur demande.  Ok
+
+=> PE : verifier si le wf de Delphine est corrigé sur la .top. Oui j'ai vérifié, c'est corrigé
+
+=> NRJ: relancer Capella sur le serveur de license afin d'envoyer un mail à NRJ avant la fin de semaine. Pas encore de retour Vendredi, j'envoi toutes les infos que j'ai en attendant le retour de Capella.
+
+=> UEFA: appeler Jan pour savoir où ils en sont  et avoir du feedback. Mail envoyé car ils n'ont pas utilisé la plateforme en raison d'un problème de token sur un outil partenaire. j'ai étendu les droits et leur ai proposé une conf call ensuite. Ils ont commencé à utilise le service depuis Mercredi après-midi. Je vois pour leur demander un retour en début de semaine prochaine. 
+
+=> Videomenthe: remise en service de Dynamics avec l'aide de Devensys. On est sur un compte "trial" en attendant de repasser sur notre compte. Les données en  sont pas perdues. 
+
+=> Videomenthe: préparer docs types (renvoi vers portail support, prerequis Capella et procédure license, etc...)
+

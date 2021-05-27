@@ -1,0 +1,10 @@
+=> NRJ : toujours des problèmes d'upload avec un protocole wss qui est bloqué. Il était convenu de faire des essais avec Jeremy ce Vendredi mais la plateforme .TOP est plantée donc, je vois pour le relancer la semaine prochaine ou la suivante
+
+=> Focolare : question sur XAVC dans Carbon coder. Ce n'est pas possible de faire du XAVC dans Carbon coder
+
+=> Cyta: préparation des colis des serveur pour le livreur. ok
+
+=> Eolementhe: travail sur la centralisation d'un serveur grafana afin de pérenniser le plugin pour la base de donnée mongo et décharger les pods des clusters eolementhe
+
+=> IAM : lancement de transcodages SD en propres pour évaluer la différence de qualité. J'ai pu aussi lancer des transcodages pour la problématique de chroma qui est corrigée
+

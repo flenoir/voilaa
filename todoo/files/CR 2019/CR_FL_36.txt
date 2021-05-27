@@ -1,0 +1,16 @@
+=> Radio France : Renouvellement de la licence temporaire Cambria FTC jusqu'au 1er octobre. ok
+
+=> IBC : faire video Sous-titrage speechmatics avec dictionnaire. Première version faite et modification enregistrées , montage à finir lundi matin
+
+=> FTV Montpellier : Relance faite auprès de HPE pour le disque SSD. Prévenir le Ponant pour reconstruire le disque avec VEEAM. Disque reçu mais il faut le redéclarer dans le DOS avec "Intelligent provisioning" puis recréer le datastore sur l'ESXI. j'ai proposé d'y aller lundi matin pour gagner du temps. Il faudra ensuite que le ponant fasse une backup avec VEEAM. Larbi s'en occupera.
+
+=> FTV Mistral : en attente de savoir comment faire la remote chez eux pour que le support Harmonic se connecte. relancer lundi en proposant Teamviewer pour aller plus vite
+
+=> IBC : installer Cambria et Baton. Ok fait. Voir pour installer la toute dernière version de Cambria reçu Vendredi
+
+=> France24 : Upgrade du controlleur 1 et de 6 nodes fait. OK. Il reste un problème de licences sur le controlleur 2 mais c'est vu avec Keith a qui j'ai donné toutes les infos afin qu'il régénère les licences du controlleur 2. France 24 finira le migration en début de semaine prochaine. 
+
+=> Deluxe : Nouveau preset à créer selon un document qu'ils dooivent nous faire parvenir. A faire après l'IBC
+
+=> FTV Corse : problème de reconnaissance sur MDR par Baton. Jozsef confirme qu'il faut respecter la casse. demande d'amélioration faite auprès de Interra.
+

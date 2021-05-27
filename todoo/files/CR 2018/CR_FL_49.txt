@@ -1,0 +1,27 @@
+=> FTV CDE - Baton : demander à Olivier Mallard s'il a fait le rollback de la pre prod et si Baton fonctionne bien en version 5.3. Le rollback fonctionne mais ils sont dubitatifs sur la version 7.3 alors qu'ils voulaient une version 7.2. Voir aussi pour faire correspondre les rapports de la version 5 et de version 7. modifier test plan pour le faire correspondre à celui de la version 5. Envoyer l'information à Interra sur les modifications suite à l'upgrade.
+Olivier n'est pas content  de ne pas avoir plus de réactivité de la part de Interra sur les problèmes de test plans après upgrade. J'ai fait 4 mais très détaillés à Jozsef (copie Viktor et Anuj qui a fait le test d'upgrade). en attente de son retour. 
+
+=> FTV mpeg 4 : relancer Houcine pour les licences Windows de Antibes. Pas de nouvelles ce Vendredi, à relancer rapidement lundi
+
+=> FTV Mpeg4 : récupèrer installeurs version 1.7.2 de Server2Splicer et les envoyer à FTV Corse. En attente retour Houcine sur les numeros de série Windows; A relancer Lundi
+
+=> Radio France : relance pour la demande de licence temporaire Lundi matin. Le fichier .c2v ne pouvait pas être lu par Harmonic. Nous avons renvoyé de nouvelles infos et relance de Rohan ce Vendredi matin.  Il faut faire une manipulation ppour pouvoir reset la license. Eric Duminil propose de la faire Lundi
+
+=> GOTV : vérifier AC3 sur fichier separé et crééer preset multi bitrate. Preset multi-bitrate créé et essayé. Pour le mix video et audio sur fichier séparés, c'est possible dans Carbon coder avec soumission dans WFS. infos envoyées à Gilbert qui doit essayer de son côté et voir si ça lui convient. 
+
+=> NRJ : demande support Baton mais plus sous support. Jérémie doit voir avec sa direction technique.
+
+=> AB - Kantar : revoir avec Marion le watermarking car "Detect Now" ne trouve pas le tatouage. Le problème ne semble pas venir de Kantar, j'ai renvoyé l'ensemble des informations à David et Ikuyo pour pouvoir finaliser la configuration Watermarking sur Cambria
+
+=> GOTV : Aider Olivier à faire sa proposition technique sur l'encodage standalone ou eolementhe. Informations de configuration et tarifications des instances 16 cores envoyées à Olivier.
+
+=> WFS - Cambria : faire comparatif de vitesse d'encodage en H264. Voir fichier "benchmark encodage WFS et FTC.xlsx" dans le dossier "\\10.0.0.233\technique\Benchmarks&Tests" sur le NAS
+
+=> Tandem : déchargement des cartes Lundi, Jeudi et Vendredi
+
+=> AO Pole Emploi : rédaction de la réponse sécurité sur l'annexe 1 ( incluse désormais dans la chapitre 9 de la PSSI Videomenthe) et rédaction d'une grille sécurité pour répondre à l'annexe 2. Document envoyé à Eric
+
+=> Baton : reception des nouvelles versions de Baton (version 4) pour les clients sous support et utilisateurs de la licence PSE. Il ya eu des modifications sur le standard PSE et Interra envoi avant la find e l'année aux utilisateurs de ce check. Les autres clients recevront la version Baton 7.4 en début d'année prochaine. Cette nouvelle version permet notamment de vérifier des fichiers directement sur les buckets S3 sans avoir a télécharger les fichiers. 
+
+=> Hiventy : Formation Baton Mardi prochain. Révision du doc de formation et récupération des documents adminstratifs auprès de Sandrine. 
+

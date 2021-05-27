@@ -1,0 +1,34 @@
+=> Xdream : relance pour savoir s'ils ont fait le patch pour la demande de Nextradio. La patch est presque prêt, il doit le finaliser ce Vendredi avant de me l'envoyer la semaine prochaine. 
+
+=> FTV CDE: J'ai appelé Laura Csorba de Sony pour valider avec FTV le fait de ne pas aller à Paris en raison des grèves de cette semaine. Elle attend son retour avant de confirmer. Sylvain confirme qu'on annule pour cette semaine et on voit si on peut caler ce déplacement la semaine prochaine. J'ai pris mes billet et hôtel pour les 17 et 18 Décembre. Ce Vendredi  matin, je vois que mon train de retour est déjà supprimé.
+
+=> PE : A nouveau des problèmes de lecture sur les vidéos, probablement en raison des versions des navigateurs. Après l'avoir eu au téléphone, il apparaît que les personnes utilisaient Internet Explorer et pas Firefox. Elles peuvent désormais bien voir la vidéo
+
+=> Anaphi : envoyer 2 versions de Cambria FTV. Envoyer mail en précisant comment récupérer avec le portail Videomenthe et comment installer. Ok j'ai reçu la license de Capella. En attente de retour
+
+=> Radio France: demande de support sur Carbon coder et leur licence mediametrie. Il ne sont plus sous support. En attente de renouvellement. 
+
+=> PE : Remontée d'un problème sur un effacement presque total du contenu d'un sous-titre. ils sont dans un contexte de formation et les personnes travaillent sur des fichiers similaires. Elle a essayé aussi de resoumettre des fichiers .srt directement en pause mais, dans des workflows différents, les gens interagissent sur les mêmes fichiers. j'ai fait une vidéo pour le montrer aux devs et j'ouvre un ticket Github.
+
+=> Hiventy : retour sur demande de vérifications sur fichiers HDR, Ils veulent les mêmes vérifications qu'en MXF. En attente du retour de Interra. Interra demande un fichier que Hiventy ne veut pas fournir, je demande au autre fichier identique
+
+=> M141: le FTP de téléchargement de la version 7.6 de Baton ne marche pas. Je lui ai envoyé un autre FTP. Ok
+
+=> Mediawan: Benchmarks sur ferme Cambria FTC
+
+=> INA: demande de purger des fichiers. Ok fait
+
+=> BCE: Il ont apellé car ils ont eu des problèmes de license après reboot sur un Baton. Le problème venait du Teaming sur une carte réseau. Ok. Ils ont désormais de problèmes de soumission de jobs par API. Jozsef demande d'effacer les alarmes sur leur ferme mais cela ne résoud pas le problème. En attente du retour de Joe Junius. Un collège de Joe a pris le relais et m'a envoyé des logs que j'ai fais suivre à Interra
+
+=> RMC / Nextradio :  nouvelle incident sur leur nouvelle ferme ce week-end. j'ai redemandé l'extension de licence temporaire que j'ai eu ce lundi matin et je leur ai renvoyé. En attente de leur retour et de précisions sur les logs. Ils ont pu mette internet sur le contrôleur , j'ai appliqué les licences permanentes. Ensuite Ils ont eu a nouveau un crash de leur nouvelle ferme cette semaine. J'ai passé un peu de temps pour relancer leur controlleur. J'attends un retour de Keith Crowe avant de leur mettre une license backup temporaire. 
+
+=> TRACE TV : leur controlleur ne démarre plus. J'i fait une remote rapide mais il faut passer plus de temps. Comme ils ne sont plus sous support, en attente de savoir s'ils prennent la prestation de 2 jours pour  les dépanner. Attention, il est possible que cela nécessite de reseter leurs licenses permanentes mais comme ils ne sont plus sous support, il faudra voir avec Harmonic s'ils peuvent quand même recréditer les licences sur le portail. 
+
+=> FTV Ajaccio : Ils se réveillent et veulent mettre à jour leur Server2splicer en mode 3 audios. Je dois les assister en TMA pour le faire mardi prochain. a voir si je suis en déplacement à FTV ou pas. 
+
+=> NRJ: j'ai relancé Frederic Silence plusieurs fois pour avoir un retour sur le ferme Cambria. Il propose Lundi prochain.
+
+=> CYTA: J'ai completé le document de réponse technique à l'appel d'offre. En cours
+
+=> TV5: L'appel d'offre de transcodage est sortie, j'ai commencé à regarder le document
+

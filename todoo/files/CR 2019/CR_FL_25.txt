@@ -1,0 +1,42 @@
+=> Migration Eolementhe .cloud : refaire le WF SPP de Sete et silverway, BC s'occupe de Elephant 
+
+=> IAM : installer un DD dans la machine Cambria FTC chez nous. On a pas de disque dur disponible. Un disque dur externe en usb3 a été branché
+
+=> Radio France : envoyer les rapport Baton sur les fichiers audio avec détection de clics. Ok
+
+=> FTV Ponant : relancer Larbi pour savoir s'ils ont installé AMB Nugen iLok. Infos envoyées pour leur expliquer comment faire la correction de Loudness dans Cambria FTC
+
+=> Pixagility : suivre license qu'il manque dans le portail
+
+=> Arte France : se connecter pour valider leurs presets
+
+=> IAM : Refaire tous les presets demandés pour IAM, la semaine prochaine. P1
+
+=> GOTV : relancer Gilbert pour savoir s'il a envoyé le fichier. OK, Le support Harmonic est informé
+
+=> Baton 7.5 Release : envoyer la release aux clients 
+
+=> Groupe Secom : demander retour. MLB s'en occupe. Information sur la configuration des slots envoyé
+
+=> Silverway : lien pas bon dans wiki
+
+=> Nextradio : importance de remise en service de ferme 
+
+=> Cappella : demander listing des licences temporaires. J'ai ajouté un onglet dans le fichier AMC sur les licences Cambria
+
+=> ARTE : avant Nextradio, lister les presets avec eux
+
+=> Luxe TV : machine reçue mais quand est ce qu'on fait la formation ? 
+
+=> Radio France : envoyer les rapports Baton sur la detection des clics. OK
+
+=> M6 : vérifier les numéros de série de M6 pour le SLA
+
+=> Delphi : formation Eolementhe faite Mercredi après-midi. une fois que la cliente aura pris en main le workflow  elle reviendra vers nous si elle a des questions ? 
+
+=> M141: demande sur migration de testplans de la version 7.1 à la version 7.4. Ok avec navigateur chrome
+
+=> Delphi : refaire workflow pour la 3e personne
+
+=> Lycées rené cassin : problème pour ajouter un content location avec un workspace sur des NAS Nexis Avid. infos envoyées à Interra, en attente de leur retour
+

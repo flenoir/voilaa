@@ -1,0 +1,28 @@
+=> NRJ : répondre sur les question au sujet de l'API. Oui fait, il reste a savoir où des dossier des exemples API de Cambria. J'ai fait suivre les infos renvoyées par Capella
+
+=> Eolementhe : voir pour réaliser les backups de la base de donnée mongoDB Atlas. Pour le moment, il faudrait telecharger manuellement les snapshot chaque semaine
+
+=> INA: envoi de Baton et création license temporaire. Ok fait
+
+=> M6: réunion pour mise en place upgrade WFS. Ok ils vont créer une VM all in one pour la ferme Labcast. Documents WFS renvoyés. ok
+
+=> Nextradio : préparer réponse au cahier des charges ( demander volumetrie replay pour dimensionnement ferme). Voir quels ont les différences et les manques de Eolementhe ou Cambria dans un tableau. En attente du retour de Mathieu Arnould pour la ferme replay. Tableau comparatif orchestration  et dimensionnement envoyé
+
+=> Secom : voir s'il manque MP3 et black image remover sur les 3 Cambria FTC. En installant une version 4.6 sur le node, le mp3 et le HEVC sont disponibles, Cluster upgradé en version 4.6 et questions envoyées à David Dong. La license HEVC n'est pas attribuée dynamiquement et il faut bien utiliser les tags pour envoyer un jobs HEVC vers le node qui possède cette license. 
+
+=> Level : faire suivi ticket Baton. Christophe doit relancer une vérification pour que l'on puiss envoyer le fichier projet à Interra
+
+=> IAM : problème d'artefacts sur la gauche de l'image sur certains fichiers. envoi du Job XML à David Dong qui ne reproduit pas le problème pour le moment. je lui en renvoyé des copies écrans pour montrer l'artefact sur Quicktime et sur Cambria FTC. Capella pense avoir trouvé et va certainement reproposer un build pour corriger ce problème
+
+=> BCE: suivre ticket Ledion. En attente de la signature du contrat SLA. SI ok on enverra un dongle
+
+=> Eolementhe: vérification des normes de sous-titres BBC et Netflix. Mail "pas rapide" sur le recensement des usages courants sur les sous-titres. La partie sur le CPS rapporte les résultats d'une étude et apporte un écart de valeurs hautes et basses acceptables. 22 semble trop haut, Happyscribe propose moins de 20 par exemple avec un indicateur en rouge clair quand c'est dépassé
+
+=> Cyta: remote pour se connecter à leur VPN. Voir avec David pour generer licences temporaires pour test PAT Mardi prochain
+
+=> NRJ : demande précisions sur API Cambria
+
+=> Lylo: demande d'infos sur leur license Baton avant mise à jour. J'ai dû aussi faire un teamviewer avec eux car cela a mis du temps à se lancer
+
+=> Cablenet: vérification des affectations de licences dans le portail. Ok infos envoyées
+

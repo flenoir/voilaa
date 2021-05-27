@@ -1,0 +1,28 @@
+=> VDM : envoyer fichier et test plan à Jozsef. En attente du retour de Jozsef. Le fichier est très gros (1To) La R&D de Interra cherche de la place pour le vérifier.
+
+=> Lylo : récupérer fichier audio pour vérifier 5.1. Le fichier possède une piste audio avec 6 canaux répartis en L,C,R,L,R,LFE alors que le mapping audio des canaux dans Baton correspond à L,R,C,LFE,SL,SR. le mapping audio était bon mais mediainfo ne donne pas la bonne information. Dans le cas de formats de fichiers RF64 dont la taille est supérieure à 4GB, les derniers "chunks" liés au BWF ne sont pas lus correctement
+L'erreur de conformance (Warning 7524)  dans le rapport indique que le décodage ne s'est pas fait correctement
+
+=> Red Bee / PMU : réponse sur les modalités de support pour upgrade de leur ferme. C'est Red Bee qui va faire l'upgrade, je leur ai donné les procédures à suivre. En attente de leur retour.
+
+=> Pixagility : problème de buffer undeflow sur certains transcodages dans WFS. Fichier reçu et il passe bien chez nous. chez eux il bloque surtout sur le version 1.6.1. J'attend un autre retour de la part de Matthieu Roca.
+
+=> FTV Corse : relancer pour le mise en service de Server 2 Splicer en version 1.7.2 à Ajaccio. Nous n'avions pas eu de réponse sur l'envoi que j'avais fait de cette nouvelle version. J'ai relancé ce Mercredi matin. A relancer semaine prochaine
+
+=> RadioFrance : demande, à nouveau, de license temporaire Carbon Coder. En attente de clarification avec Eric. Fichier .c2v reçu en envoyé à Rohan et Amit pour demande de licence temporaire, en attente de leur retour. Déjà 3 relances mais pas de retours.
+
+=> Hiventy : voir si les fichiers de Eric Lemaire ont été testé par Jozsef ou Viktor. Ils ne sont plus sous support depuis le 13 Décembre et Interra ne prends pas en charge ma demande.
+
+=> Baton : envoyer le release 7.4 aux clients. Ok fait
+
+=> FTV Ponant : demande de prise en main demain, ils ont un problème de licence. Les horloges n'étaient pas synchro entre Cambria FTC et le serveur de license. Ok
+
+=> IMF : préparer un topo de mise à jour pour l'équipe. Faire un brouillon semaine prochaine
+
+=> Label Cloud : Faire un point avec Muriel semaine prochaine ou suivante.
+
+=> PE : acheter billets de train et valider Hotel. Vérifier rendez-vous avec Eric. Ok
+
+=> Formation PE : demande de paper board, video projecteur et 15 PC. OF dit que tout est ok. On a déplacé une autre instance du Docker Speechmatics sur le .net (fonctionnement ok). Reçu les noms des stagiaires et feuille émargement récupéré auprès de Sandrine. 
+
+

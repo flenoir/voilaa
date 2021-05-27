@@ -1,0 +1,30 @@
+=> NRJ : que fait-on sur la demande de Frédéric silence sur Baton car ils ne sont plus sous support ?  Suite à RDV IBC, j'ai cu comprrendre que NRJ ne reprendrait aps le support mais cet dépannage de rehosting de checker sera dans le cadre d'une prestation Interra. 
+
+=> France24 : appliquer les licences de la ferme WFS. Ok toutes les licences ont été appliquées sur le controlleur1 et sur le controlleur2. La ferme est donc dans la dernière version WFS qui permet de corriger les problèmes de transcodage qu'ils avaient rencontré.
+
+=> RMC / Nextradio : voir le problème de fichiers qui ne passent pas avec le plugin Xdream. Maintenant, RMC ne peut pas faire de fichier H264 avec l'option "use streaming mode" qui permet de mettre le moov en début de fichier sur leur nouvelle ferme alors que cela marche sur leur ancienne ferme. Avec le même preset cela marche aussi chez nous. J'ai ouvert un ticket chez Harmonic à ce sujet. Le plugin Xdream ne résoud pas le problème, J'ai relancé le support Harmonic qui ne trouve pas les fichiers que je lui ai envoyé, du coup, j'ai tout ré-uploadé sur le FTP de RMC en demandant à Harmonic de regarder vite ce ticket... pas de nouevlles ce Vendredi, du coup, j'ai demandé à Matthieu Arnould de refaire l'installation du controlleur WFS et du node mais le problème reste le même,  j'ai refais plusieurs essais sur les codec, regardé la base de registre, modifié les presets mais le "streaming mode" en h264 ne marche toujours pas et le support Harmonic ne bouge pas ...
+
+=> RMC / Nextradio : renouveller la license temporaire avant leur migration le mois prochain. Ok fait Lundi
+
+=> France3 Strasbourg : un disque SSD est en fail sur leur machine WFS. Ticket ouvert chez HPE afin de leur envoyer un nouveau disque. il a fallu leur faire refaire une manipulation de reboot car ils n'accédaient pas à ILO. Un technicien HPE est passé changer le disque. OK. ticket fermé
+
+=> Adstream : Nouveaux utilisateurs ne se connectent pas (Token expired). Il faut effacer , dans l'url, les infos après adstream.eolementhe.cloud. ok
+
+=> M141: problème de débit sur les transfert Mediashuttle qui ne se font qu'on 2 étoiles au lieu de 3. Après redémarrage des 3 services dans Windows  les transfert est repassé en 3 étoiles.  ok
+
+=> FTV Mistral : après relance, ils ont répondu qu'il attendent un systeme Wallix pour nous donner la main en remote. Harmoonic a fermé le ticket pour le moment ( case 25128179)
+
+=> RFI : Vincent Marmont demande si la méthode de détection dans les watchfolders peut être modifiée car les fichiers avec le même nom de sont pas pris. Il est possible dans Carbon Admin de définir un timestamp sur chaque fichier afin de ne pas voir le même nom. Je lui ai donné l'info, en attente de son retour. 
+
+=> Arte : réservation billets de train et hôtel pour le déplacement du 30/09 et 01/10. récupérer Test plans ARD avant
+
+=> LuxeTV : problème de transcodage de leurs fichiers HD qui ne se faisaient plus dans le watchfolder. J'ai pu accéder à la ferme et tous les process envoyés sur Cambria Manager ne fonctionnaient pas.  Après un reboot c'est reparti mais l'interface de monitoring des jobs était restée "bloquée" sur des anciens jobs avant de se rafraîchir. Les logs ont été envoyés à Capella. Le problème s'est reproduit Mercredi soir, j'ai demandé à Capella de se connecter, ils m'ont demandé des logs en plus et des infos que j'ai envoyé Vendredi matin. 
+
+=> Euronews: remise en place de leur services sur tous les comptes en fonction du devis. OK 
+
+=> Orange : création d'un preset H264 HD. J'ai demandé des fichiers SD et HD pour créer les presets à partir de Cambria pour correspondre exactement à leur demande. 
+
+=> Deluxe : création en cours des Test plans. M6 et FTV d'abord avec de faire RTBF et Universal
+
+=> IAM : réception des 3 serveurs HPE
+

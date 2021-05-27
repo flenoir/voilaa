@@ -1,0 +1,20 @@
+=> TF1: envoi des infos pour Baton+. il manquait la possibilité de récupérer un fichier PDF. Victorien a pu bien récupérer le fichier
+
+=> Eolementhe: remise en service du cluster .top avec mise à jour de la version acme
+
+=> Level : dépannage sur Baton après upgrade en version 8. ok
+
+=> Eolementhe: tests sur .top. faits avec Firefox et Edge
+
+=> INA : remote Mercredi à 14h30 pour un problème de base de données Baton après upgrade en version 8.le mot de passe par défault a changé. j'ai enoyé l'info à Marc leger mais il ne pourra refaire un essai que Lundi prochain
+
+=> PE: rediger doc de réponse pour Vendredi matin. ok. il est mise à jour avec les corrections évoquées Vendredi matin => "Nouvelle Réponse Videomenthe_RFP_Webbase multilanguedsubtitling_PE_2021"
+
+=> IAM : Commencer à regarder le outgest. A voir avec Bertrand la semaine prochaine
+
+=> FTV Noa : demande de support pour étendre un disque dur sous VMWare. Prise de rendez-vous pour Mardi prochaine après-midi pour voir cela avec Philippe Mutelet ainsi que l'upgrade Cambria FTC
+
+=> Eolmenthe : ticket sur une utilisatrice avec des chevauchements de sous-titres. J'ai envoyé les infos pour la résolution du problème. En attente de retour
+
+=> Eolementhe : Visio pour information sur fonctionnement Cluster kubernetes prévue mardi ou mercredi prochain. Ca permettra je pense de faciliter la communication et la compréhension générale sur le fonctionnement des déploiements et de l'infra d'Eolementhe
+

@@ -1,0 +1,22 @@
+=> GOTV : ticket avec VideoRedo, Harmonic dit que Wfs ne peut pas le lire, Proposition de Bertrand d’utiliser ffmpeg avec professional services (AC3 on XPRESS [#598521]). Relané 2 fois Harmonic pour savoir s'ils ont récupéré les fichiers sur le FTP, relancer Lundi
+
+=> France 24 : Machine bien reçue Mercredi matin, ils ont demandé s'ils ne devaient prendre que le disque dur. je leur ai dit que non et qu'il peuvent mettre ce node en parallèle pour le moment et qu'on pouvait les assister si besoin, pas de retour pour le moment, vérifier aussi que les licences ont été appliquées.
+
+=> Groupe Secom : revoir mail de David Dong du 7 Août et renvoyer les infos à Vincent Charley. Ok fait par Bertrand
+
+=> Nextradio : la licence temporaire est prolongée jusqu'au 9 octobre 2019. Il faut les relancer début Septembre pour qu'il passent rapidement sur WFS 2 (cf licence VM et licence backup controller)
+
+=> BCE : demande de license Cambria FTC en cours. Ok license appliquée
+
+=> Radio France : demande de renvoi du dongle HL TIME key id 385931046. Vincent Marmont à envoyé le dongle. Pas encore reçu
+
+=> Color Films archives : Ils ont demandé pour une devis Baton et surtout pour faire du Baton avec Eolementhe. Je leur envoi Baton standard en version d’évaluation pour le moment. En attente de leur retour
+
+=> FranceTv : Problème de licence Baton après upgrade en version 7.5 chez Via Stella. Ok après renvoi de la licence par Jozsef.
+
+=> Zayo : Faire le point avec Bertrand sur ce qui reste sur Montpellier et sur Paris
+
+=> IBC : je me suis enregistré pour la conf IMF le 14 Septembre après-midi
+
+=> Arte Strasbourg : Un de leur node en version 1.7 ne prenait plus la license du dongle. Le service Sentinel ne s'était pas relancé. ok
+

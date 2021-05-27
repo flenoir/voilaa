@@ -1,0 +1,20 @@
+=> Eolementhe : envoyer copie écran de OAuth à Youtube pour quota. Ok fait. Ils ont dit qu'ils avaient tous les docs nécessaires et qu'il revenaient vers nous prochainement. 
+
+=> Baton : demander à Interra pour l'édition des TC dans Media player. Jozsef propose en une solution que j'ai renvoyé à FTV mais je pense que cela n'est pas exactement ce qu'ils voulaient. En attente aussi du test plan de FTV pour vérifier le problème de license Dolby
+
+=> INA : effacement des fichiers demandés par Rita. Ok
+
+=> ARCserve: recréation des comptes et des workflows sur la .com. Ok sur lees comptes managers de Amanda et Mariam, j'ai recréé les workflow multilangues avec les bons emails sur chaque branche, puis modifié les comptes manager de Christie en recréant un workflow complet
+
+=> SER Group: prise en main eolementhe corporate mardi après-midi. Vendredi matin, ils m'ont appellé pour un problème de fichier non sauvegardé. J'ai fait des essais toute la matinée. en cours
+
+=> PE: renvoi d'un fichier .srt à Delphine car elle n'arrive pas à le télécharger. Ok
+
+=> INA : relancer Marc Leger pour avoir son retour sur Baton. Il n'a pas accès à Baton en ce moment car confiné. il me fera un retour sur le problème Baton en Septembre. Le ticket est en stand-by 
+
+=> Eolementhe: création issue "Proxy not generated on Ingest brick #3792" and "Cannot fill new branches on Firefox or IE #3793"
+
+=> FDI: Appel de Nicolas Fleury qui vient d'installer un Baton 7.6 standard pour valider ses workflows avant de migrer vers une version Baton Enterprise. Il veut une license temporaire. Je lui ai renvoyé la license temporaire
+
+=> Video Builder : reprise de là où j'en étais. Clarification du code sur les timescodes avec le . pour les msec; Sur la concaténation, il y a actuellement un problème car les fichiers sources peuvent être de définitions et codecs différents ce qui rend impossible une concaténation sans ré-encodage inital. Je suis en train de voir si on fait un ré-encodage des sources sur le codec cible avant concaténation (qui sera sans ré-encodage) ou si on pipe les flux dans la commande ffmpeg
+

@@ -1,0 +1,18 @@
+=> FTV CDE : envoyer Data.fs de Baton Varet 5.3 à Jozsef. Ok envoyé. Demande des licences de la ferme Baton #851 faite. Upgrade reporté, Olivier Mallard a envoyé des rapports car il veut avoir les mêmes résultats qu'en version 5. j'ai envoyé un mail détaillé à ce sujet. Olivieri nous nosu remercie de ce travail et demande d'ajouter aussi le "inherit" sur le mapping audio. Il nous recontacte en Janvier pour finir la compatibilité des tests plans
+
+=> FTV France O : leur manager utilise beaucoup de Ram, ils veulent rebooter. C'est un WFS version 1.4.6, ils doivent m'envoyer des copies écran pour confirmer. Ils m'ont envoyé des documents pour me connecter chez eux mails le fichier ne s'ouvre pas. Je leur ai redemandé le fichier. Il faut essayer de les relancer la semaine prochaine. le contact est Nicolas Boisson
+
+=> Lobster films : envoyer procédure pour Rehosting Baton. Ok
+
+=> Pixagility : envoi de la licence temporaire d'un node WFS  en version 1.6.1 envoyé  Lundi matin. Ok
+
+=> GOTV : Pas d'audio après transcodage. Il manque la licence Dolby out pour Xpress
+
+=> VDM : Erreur Baton. Il s'agit d'une erreur d'encodage sur l'échantillonnage YUV. Ok
+
+=> Silverway : Mise en place de 2 comptes pour faire du speech to text. Ok. Ils veulent envoyer plusiuers fichiers en même temps, il ya un bug dans la soumission avec Signiant , Remi et Nicolas changent le code pour corriger cela. 
+
+=> Films du Soleil : préparer un compte sur le .com et monter leur workflow et vérifier l'espace disque. Ok, il y avait un problème lors de l'envoi car les droits d'écriture ne sont pas activés par défaut sur l'espace de stockage
+
+=> Eolementhe : demande de version docker de Speechmatics et de documentation pour que les devs commencent à travailler dessus. Catherine King veut faire un call pour voir quand est ce qu'elle peut nous livrer une version d'essais sous docker car cela n'est pas encore prêt de leur côté. Leur image docker n'est pas encore terminée, ils doivent nous l'envoyer dès que c'est fait. 
+

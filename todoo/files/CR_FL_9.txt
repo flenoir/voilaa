@@ -1,0 +1,23 @@
+
+=> FTV Mistral : Ils ont toujours une WFS dont la license est HS mais ils ne veulent pas migrer en version 2 ( compliqué car c'est un très vielle installation en cluster). Il ne veulent pas migrer en version 2. Ticket fermé
+
+=> RMC / Nextradio : relancer pour savoir s'ils ont installé un nouveau contrôleur WFS avec la bonne version de VMware ? Ils ont essayé de modifier le contrôleur de backup mais cela à empêcher le contrôleur de redémarrer. Je leur ai redit de créer une autre machine, ce qu'ils doivent faire.
+
+=> INA: Marc Leger est de retour de vacances, il doit vérifier les infos Baton et revenir vers moi. Pas encore de retour
+
+=> Videomenthe: demander renouvellement license Cambria .cloud/com. Ok. Il semble manquer une license, je vérifie avec David
+
+=> TV5 : demande de précision de Capella sur le serveur de license pour la sécurité. Infos récuperées auprès de Capella et mises dans notre document Onedrive
+
+=> Eolementhe: vérification du fonctionnement de WFS cloud. Ok la machine était éteinte
+
+=> Orange: préparation des slides pour réunion du 3 Mars. J'ai aussi lancé des essais sur Cambria sur des fichiers IMF et la détection de changement de plan
+
+=> GOTV: Le fix marche aussi sur des débits plus haut. Ticket fermé
+
+=> Videomenthe: dépannage de Matthieu qui n'arrive pas à se connecter sur Eolementhe corporate. Le probleme venait de ses DNS
+
+=> NoA FTV : Call pour faire le point sur la mise en place de Eolementhe. Ils ont les prerequis machine et un schéma d'infra pour mettre la machine en DMZ. Ils souhaitent aussi commencer à prévoir l'ajout de Baton dans leur infra.
+
+=> Eolementhe: essais de lancement d'un kubernetes sur machine bare metal avec Terrafom. Ok avec version RKE de rancher sur machine Nixos chez nous. A compléter avec configuration Eolementhe (voir stockage, network et secrets notamment). A mettre en pause pour le moment et prioriser travail sur Video Editor
+

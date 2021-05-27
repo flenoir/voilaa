@@ -1,0 +1,22 @@
+=> Eolementhe : creer un preset ffmpeg XDCAM HD 422, ne fonctionne pas. création du ticket #3832
+
+=> PE : créer les comptes demandés par Delphine. Ok avec droits appliqués + gestion de certains comptes dont les personnes n'arrivent pas à se connecter. 
+
+=> Eolementhe: création ticket #3824 MXF pour Euronews 
+
+=> Globzz : Conf Call Mardi 17h.  Ok debrief à faire. voir pour les prochaines réunions dans quelle mesure on travaille ensemble. 
+
+=> AO FTV Cloud  : A la lecture du CCTP, il est assez semblable à celui de 2018. J'ai donc créé le brouillon de réponse à modifier je pense pour enrichir la pertinence de notre réponse. Faire le point avec Microsoft la semaine prochaine
+
+=> Eolementhe: aide débug signiant. La nouvelle signiant app passe directement en quarantaine sur Avira.
+
+=> Eolementhe : travail sur l'utilisiation rancher RKE avec Terraform pour faire  une installation standalone pour Noa Bordeaux. J'ai pu lancer un cluster Kubernetes sur la machine 870 chez nous sous Nix OS mais il faut que je puisse ajouter un pod MongoDB. En cours
+
+=> Capella : relance David Dong sur question M6. En attente de retour
+
+=> Videomenthe: création mail Gabrielle OK
+
+=> SER Group : aide sur un fichier qui était resté sur la .net et dont ils avaient besoin en prod. OK
+
+=> NRJ : relancer Benjamin Rucart la semaine prochaine voir sur compatibilité version Cambria et EZ Title
+

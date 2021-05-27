@@ -1,0 +1,32 @@
+=> Pixagility : Re-initialiser la license WFS et faire un point avec Rohan sur les licences demandées en RMA. Ok fait. Michael Benhamou n'est pas content car WFS ne fonctionnait plus dimanche. Re vérification des numero HASP et des machines en remote avec Jean-Jacques Castelotti. Envoyé le tout à Rohan. Retour de Rohan, ok sur l'enseble des RMA, je lui demande de metrte les licencces dans le portail, j'en ai informé Pixagility.
+
+=> Lylo : Question sur l'ajout de watermarking animé (Carbon ne sait pas faire) et sur le FTP retreival qui ne marche pas quand le firewall est activé. Ils ne sont plus sous support. En attente de leur retour pour savoir s'ils prennent le support ou pas.
+
+=> Arte Strasbourg : remise des licences permanentes sur leur ferme par remote. Ticket fermé
+
+=> Videomenthe : création de 2 vidéos pour le salon Vivatech
+
+=> Groupe Secom : faire un build ffmpeg avec nvenc pour faire les encodages pour Vincent Charley. Il est possible de faire des machines qui lancent ffmpeg avec GPU sur Azure mais elles sont limitées sur les formats 4K en raison de la taille des cartes GPU disponibles sur Azure.
+
+=> NoA : demander à David Dong de générer une license permanente au lieu du système de serveur de license. En attente de son retour. Ok pour David mais Junko demande le paiement de l'intégralité avant de fournir la license permanente. Attention la license temporaire se termine Vendredi prochain.
+
+=> Nextradio : ouverture de 2 tickets sur Baton. Répondu ce Vendredi. Ok
+
+=> France TV Antibes : que fait-on pour la machine spare hébergée chez nous pour le moment. Est ce que Pascal Laffût a donné son accord pour aller installer la machine à Antibes ? 
+
+=> FTV OM : Clément Abeille est revenu vers nous car il a besoin à nouveau de licences temporaires pour Carbon Coder pour mettre à jour des machines  en Guyane. Il demande aussi pour migrer vers de licences définitives sur les Carbon coder de la Guadeloupe. A voir Lundi prochain.
+
+=> Triple AAA: ticket ouvert en attente de réponse s'ils prennent le devis Videomenthe
+
+=> France24 : ils ont détaché un node et installé la dernière version de WFS mais le problème de désynchro existe toujours. J'ai revérifié leurs fichiers et ils se sont trompés. La mise à jour résout bien le problème de désynchro. Ils doivent donc migrer l'ensemble de la ferme en version 2.3.2. je leur ai envoyé tous les document set informations. En attente de leur retour. Ticket a fermer
+
+=> GOTV : Gilbert n'était pas disponible pour faire une remote avec Harmonic cette semaine. rendez-vous à faire mardi prochain en début de matinée
+
+=> MAPA Maroc : Ils n'avaient pas payé et la license temporaire était terminé. Après 2 jours, on a pu obtenir une license valable jusqu'en juillet. Ils demandent maintenant quand sera livrée la license permanente et demandent un devis pour un deuxième carbon coder.
+
+=> RFI : Ils ont constaté des lenteurs mercredi. Il s’avère que leur fichier source est un .mp4 à 15Mbits et que dans ce cas, Eolementhe l'utilise comme proxy. Il faudrait systématiser l'encodage d'un fichier basse résolution lors de l'ingest.
+
+=> Digital PostProd : Thierry Seux veut essayer des envois depuis la Guyane pour valider les débits. Compte créé et infos envoyées. En  attente de leur retour.
+
+=> Luxe TV : faire des bench Cambria sur ce qui a été demandé par mail. Bench envoyés. Récupérer leurs fichiers et refaire des benchmarks. Benchmarks refaits et presets créés. En attente de leur retour sur des fichiers HEVC avec moov Atom. Presets mis dans le NAS
+

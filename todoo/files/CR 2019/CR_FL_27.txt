@@ -1,0 +1,35 @@
+=> Migration cloud : plus aucun workflow ne s'est fait sur le .com depuis 1 semaine.
+
+=> IAM : logiciel installé sur la machine 106. Nicolas commence à travailler dessus cette semaine
+
+=> IAM : Cambria, voir pour faire un stitch avec TC burné  et voir ce que donne la fluidité et le TC
+
+=> Nextradio : finaliser avec Muriel les documents sur les fermes WFS, en particulier sur les plugin Xdream
+
+=> IAM : NOA, est ce qu'une machine a été créée dans Azure pour installer le logiciel ? Non, BC veut l'installer chez nous sur le VMware de la machine E41. Ok installée sur une VM.
+
+=> Baton : envoyer le release 7.5 aux clients. Ok fait
+
+=> PE : modification des droit au 4 Avril 2020 sur les comptes 
+delphine, eloise, hillary, maria mesias, mark smith, martina, owen, paula, valter
+
+=> FTVEN : RDV Lundi 17 avec appear.in pour mise en place Cambria FTC. OK, j'ai pu l'aider à se servir de Cambria FTC pour lancer des analyses sur des fichiers afin de créer les points de detection de scene eet qu'il puisse aussi les vérifier dans l'interface de Cambria. Je lui ai dit de revenir vers moi s'il a la moindre question. 
+
+=> Groupe Secom : Rapeller Vincent Charley. Fait, cf mail
+
+=> PE : modification des dates de fin de contrat des comptes du Parlement Européen. ok fait au 4 Avril 2020
+
+=> Harmonic- M6 : Problème de header AS10 pour fichiers M6.  Harmonic fourni les serveurs video pour  M6 en format pivot as10.  Ils font des fichiers "low latency" avec table d'index. Header reste ouvert. Pdt l'enregistrement, le fichier est "low latency", à la fin de l'enregistrement, ils ajoutent un table (read table) dans le footer.  index table totale et et complete dans le footer mais le headerr reste ouvert et incomplet.   Norme AS-10 dit , si header est ouvert, il faut chercher dans le footer     Frederic Guiot propose "Si header est ouvert, vérifier que footer est clos en wf conditionnel".  J'ai pu récupérer les fichiers auprès de Alexis Bureau et le test plan qu'il utilisent. Je leu ai envoyé un mail pour voir s'il une simple modification de leur test plan peut suffire. En attente de leur retour
+
+=> ARTE : prioritaire. Revoir le problème sur l'envoi de workflow avec filtre de time code (avec Nicolas) et la possibilité d'envoyer des fichiers multiples pour des workflows MXF Op1b. Ok pour le problème de filtre de timecode, c'est corrigé sur la .net. il faudra le déployer sur la machine Eolementhe chez Arte. Pour ce qui est des fichiers Op1b, j'attends de recevoir les fichiers de la part de Kevin Coeffic.  Je déploierais la version de Eolementhe Mercredi chez eux.
+
+=> Tandem : déchargement des cartes et fin de tournage
+
+=> France24 : Ils ont un problème sur un disque dur en raid. Ils demandent un RMA sur le disque. En attente du numéro de série de la machine pour lancer le RMA auprès de Harmonic. Ok ticket ouvert
+
+=> Baton Zayo : rehosting en cours
+
+=> MAPA / Maroc : En attente de license permanente de la part de Amit
+
+=> Digital Post Prod : machine préparée et à nouveau essai d'envoi fait sur machine tandem. Il faudra ré-affecter le serveur sur Tandem car le gars sur place ne sera pas là à partir de Mardi soir. 
+

@@ -1,0 +1,29 @@
+=> Monaco Archives : Prise d'info pdt reunion avec BC. Je n'ai pas trouvé d'autres docs sur le NAS. Je demande à Bertrand d'ajouter ses documents sur le NAS.
+
+=> Trace TV : suivre ticket sur les licences Minnetonka. Après recréation des licences, Valentin dit que tout fonctionne. Je ferme le ticket auprès de Minnetonka.
+
+=> Red Bee Media : demande de leur part pour savoir si WFS peut encoder une video XDCAM HD a partir d'un fichier audio. Oui, on peut le faire , le noir en video se crée automatiquement sur le fichier audio.
+
+=> FTV Ajaccio : Faire TMA pour vérifier leur configuration. Ils disent qu'il manque le 3e audio. Leur server2splicer est en 3 audios mais il ne génère pas le 3e audio. Serveur2Splicer est en version 1.5.6. Je pense qu'il faut qu'ils passent en version 1.7.2. En attente de la validation de la part de Houcine. Ticket Jira mis à jour. Je vais envoyer le nouvelle installeur Server2Splicer à Ajaccio.
+
+=> Hiventy : donner dates pour formation Baton en Décembre. 6, 11, 13, 18 ou 20 décembre. Le client demande le 11 Décembre. En attente de confirmation de la formation.
+
+=> Tandem : déchargement des cartes Lundi, Mardi, Mercredi, Jeudi et Vendredi
+
+=> FTV Mpeg4 : Point téléphonique sur projet Mpeg4. voir CR envoyé par Houcine 
+
+
+=> FTV CDE : migration Baton Pre-prod Jeudi. Envoyer fichiers de licence à Interra Mardi. Interra a testé avec la base de données de FTV et la migartion peut se faire mais il y a 239 warning sur les tests plans. Il reste ensuite à voir si le rollback avec Vmware peut se faire correctement. Oliver me rappelle Lundi pour finaliser la possibilité de faire l'upgrade de la partie production Mardi matin à partir de 8h car il y a une interruption de service à ce moment là et cela limiterait l'impact de cet upgrade.
+
+=> AO PE : revoir la partie sécurité du document sur One Drive. Faire une 2e passe et renvoyer PSSI modifié à Olivier pour lui donner une idée de la partie Eolementhe de la PSSI à traduire en anglais.  OK
+
+=> Trace TV : demande de savoir où sont les logs des fichiers completed ou Failed de WFS. il y a un fichier (DJouba_1511) qui est corrompu. j'essaye de le repasser en changeant l'extension en .mpg au lieu de .ts. En attente de retour pour voir si le fichier est bien encodé. Le fichier est corrumpu, Valentin demande un autre export à son fournisseur. OK
+
+=> Radio France : demande de licence temporaire. En attente de retour de la part de Harmonic
+
+=> Eolementhe : ajout sur la .top, la .net et la .cloud d'un lecteur réseau Azure.file pour Baton et WFS
+
+=> AO PE : création d'une grille de sécurité et ajout d'une partie dediée à Eolementhe dans le document PSSI de Videomenthe. Ajout aussi de CV et partie sécurité dans le document de réponse.
+
+=> FTV Ponant Cambria : Point téléphonqiue, je leur ai envoyé un preset pour qu'ils commencent à utiliser Cambria FTC . On doit faire une remote et un point pour prise ne main la semaine prochaine.  Attention, 1 jour de conf et 1 jour de formation sont prévus mais pas encore pris => je ne trouve pas trace dans mes mails de ces 2 jours qui avaient été devisés.
+

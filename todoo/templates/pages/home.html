@@ -1,0 +1,121 @@
+{% extends "layouts/default.html" %}
+
+{% block body %}
+
+        <!-- <h1>Add item</h1> -->
+        </br>
+        <form action="/add", method="POST">
+            <div class="columns">
+                <div class="column is-8">
+                    <input type="text" name="todoitem" class="input is-info custom_font" placeholder="Enter todo">
+                </div>
+
+                <div class="field column is-1">
+                        <div class="control">
+                          <div class="select is-success">
+                            <select id="category" name="category" class="custom_font">
+                                <option value="is-info" class="dropdown-item">Ticket</option>
+                                <option value="is-primary" class="dropdown-item">Project</option>
+                                <option value="is-link" class="dropdown-item">Other</option>
+                            </select>
+                          </div>
+                        </div>
+                      </div>
+
+
+                <div class="column is-1">
+                    <input type="number" name="duration" class="input is-success custom_font" placeholder="Enter duration">
+                </div>
+
+                <div class="column is-1">
+                    <input type="number" name="priority" class="input is-success custom_font" placeholder="Enter priority">
+                </div>
+
+                <div class="column is-1">
+                    <div class="control">
+                          <div class="select is-success">
+                            <select id="completed" name="completed" class="custom_font">
+                                <option value="0" class="dropdown-item">False</option>
+                                <option value="1" class="dropdown-item">True</option>
+                            </select>
+                          </div>
+                        </div>
+                </div>
+
+                <div class="column is-1">
+                    <input type="submit" value="Add" class="button is-danger is-outlined custom_font">
+                </div>
+            </div>
+        </form>
+
+    <h1>total time : {{time}} / todo time: {{todo_time}} / done time: {{done_time}}</h1>
+
+    </br>
+        <h1 class="title is-4">To Do</h1>
+
+       <ul class="sortable">   <!-- please refer to layouts/partials for Jquery UI script for drag and drop -->
+
+        {% for todo in uncompleted %}
+        <li id="item_{{todo.id}}" class="items">
+        <div class="notification {{todo.category}} priority_{{todo.priority}}">
+            <a class="delete" id ={{todo.id}} href="{{url_for('delete', id=todo.id)}}" onclick="return confirm('Are you sure you want to delete this item?');"></a> 
+            <div class="columns is-multiline">
+                 <div class="column is-10 ">{{todo.text}}</div> <!--{{todo.id}} -->
+                <div class="column is-1">
+                    <a class="button is-pulled-right">
+                        <span class="icon">
+                          <i class="far fa-clock"></i>
+                        </span>
+                        <span>{{todo.duration}} min.</span>
+                    </a>
+                </div>
+                <div class="column is-1">
+                    <a class="tag is-danger is-pulled-right" href="{{url_for('complete', id=todo.id)}}">Validate</a>
+                    <a class="tag is-dark is-pulled-right" href="{{url_for('edit', id=todo.id)}}">Edit</a>
+                </div>
+            </div>
+        </div>
+    </li>
+        {% endfor %}
+        </ul>
+
+
+    </br>
+    <h1 class="title is-4">Done</h1> <a href="{{url_for('fullWrite')}}" onclick="return confirm('Are you sure you want to write all todo at once ?');">Write full file</a>
+    <!-- {% for todo in completed %}
+        <div class="notification is-warning">
+                <button class="delete"></button>
+                {{todo.text}}
+                <a class="delete" href="{{url_for('delete', id=todo.id)}}"></a>
+                <a class="tag is-dark" href="{{url_for('edit', id=todo.id)}}">Edit</a>
+                <a class="fas fa-clipboard-list" href="{{url_for('write', id=todo.id)}}"></a>
+        </div>
+    {% endfor %}    -->
+
+
+    <ul class="sortable">
+    {% for todo in completed %}
+    <div class="notification {{todo.category}} is-warning">
+
+        <a class="delete" href="{{url_for('delete', id=todo.id)}}" onclick="return confirm('Are you sure you want to delete this item?');"></a> 
+        <div class="columns is-multiline">
+            <div class="column is-10">{{todo.text}}</div>
+            <div class="column is-1">
+                <a class="button is-pulled-right">
+                    <span class="icon">
+                      <i class="far fa-clock"></i>
+                    </span>
+                    <span>{{todo.duration}} min.</span>
+                </a>
+            </div>
+            <div class="column is-1">
+                <a class="tag is-dark" href="{{url_for('edit', id=todo.id)}}">Edit</a>
+                <a class="fas fa-clipboard-list" href="{{url_for('write', id=todo.id)}}"></a>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+    </ul>
+
+
+{% endblock %}

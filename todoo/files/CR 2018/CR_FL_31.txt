@@ -1,0 +1,9 @@
+=> INA: pb de siginit qui saute. où en est-on ?  C'était un problème de DNS qui sautait. cela ne se reproduit plus.
+=> FTV : suivre la question sur les problèmes de GOP. En cours, Harmonic n'a pas telechargé le fichier exemple. En cours
+=> INA : Suivre la question sur le Jpeg2000 entrelacé dans Baton media player. relancé Mardi matin. Interra pousse à la R&D. Sera corrigé dans la version 7.4 qui sort en Novembre
+=> Formation Baton M6 : finaliser la formation. En cours
+=> Deluxe : préparer un test plan ProRes et un testplan MXF AS10. En cours
+=> Label Cloud : faire point avec Muriel. ok document mis sur le NAS
+=> Videomenthe : récupérer config Machinebox, InfluxDB et Grafana. remise en service grafana et passage d'infos à Bertrand. Déploiement Machine box sur .top et passage d'infos. Début migration sur machine 121
+=> Videomenthe: fabrication cables RJ 45 pour nouveau local. à finir et à nettoyer
+=> Videomenthe: Bertrand m' a passé les infos sur ses tickets.

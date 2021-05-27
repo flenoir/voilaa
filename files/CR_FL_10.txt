@@ -1,0 +1,32 @@
+=> Nextradio : lecture cahier des charges et mise à jour powerpoint. Il s'agit quasiment du même CDC avec la notion de débord cloud plus precise. A approfondir sur la notion de débord cloud avec Capella 
+
+=> Eolementhe: création hotfix pour problème d'incrustation sur chinois (ajouter font dans repo "font" et modifier Dockerfile ffmpeg en conséquence). A modifier directement dans SRC la semaine prochaine
+
+=> Eolementhe : évaluation des économies sur la mise en place de l'arrêt des VM de la plateforme .top la nuit et le week-end + création tableau de proposition sur économies à réaliser sur plateforme .com
+
+=> M6: demande d'assistance pour installer WFS et appliquer les licences. Visio Lundi prochain à 16h
+
+=> Level: ticket support Baton. infos envoyées à Interra, en attente de retour. relancé
+
+=> Studio42: assistance par téléphone pour les aider avec Signiant sur leur upload de fichier. Après plusieurs modifications, le rapport est ok avec des Warning. 
+
+=> Videomenthe: dépannage de ma webcam qui ne marche plus. Ok
+
+=> Eolementhe: aide sur workflow pour Rosa Bathia sur fichier avec underscore
+
+=> Arte : envoi des infos pour mise à jour WFS en version 2.2.0.6
+
+=> Eolementhe: tests de la .top. problème Speechmatics (Idem que ticket ouvert par Sandrine). Problème d'upload en Premium => Error 500 : Fetch is not defined using premium Ingest (ticket Github #4346)
+
+=> Eolementhe : résinstallation du serveur de licences sur une machine azure. j'ai aussi modifié toutes les informations de déploiement dans le Readme du dossiers Eolementhe/license-manager du repo SRC ( PR #4345 en attente de review)
+
+=> SECOM: reconnexion VPN et vérification des problématiques soulevées par Vincent. Apparemment, il manque des licences. En cours de vérification avec Capella System
+
+=> INA: relecture des condition et vérification des points de sécurité
+
+=> IAM : réception nouveau build et installation sur notre serveur afin de vérifier la modification des espaces colorimétriques sur les encodages Prores SD en Rec601. vérifier prise en compte BPAV avant de déployer cluster et nodes chez IAM pour que Vlad valide la configuration
+
+=> Cyta : vérification de la connection chez eux pour préparer la prise en main du 23 Mars. j'ai pu installer les outils de connexion mais il reste la liaison RDP qui ne fonctionne pas. j'attends leur retour
+
+=> Eolementhe: creation d'un tableau pour le suivi des workflow de Beatrice Galais qui ne correspondent pas dans l'analytics. Il est possible que ce soit lié au fait qu'elle envoi ses fichiers par "Drag'n'drop" dans le file Lib et qu'elle les utilise dans "server file" car dans ce cas,  les minutes de ces fichiers ne sont aps comptés comme source. j'ai refais ce vendredi un ingest simple sur le compte de Béatrice et la durée source apparaît bien
+

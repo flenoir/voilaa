@@ -1,0 +1,31 @@
+=> FTV Mpeg4 : TMA faite avec Caen ce matin car il n'y avait qu'un seul slot de configuré au lieu de 2 sur le Node. L'agrégation des ports réseaux n'est pas faite. j'ai demandé à Houcine de faire intervenir l'équipe réseaux du siège pour cela. Je demande aussi les informations pour ajouter au DAT. J'ai reçu les informations que j'ai ajouté au dossier FTV Mpeg4. Les 2 slots sont à nouveau actifs et l'agrégation a été faite. Le dernier retour de FTV Caen indique que les envois FTP ont bien fonctionné. en attente de leur accord pour fermer le ticket. pas d'aggrégation sur les ports de management ESXI. Ok pour fermer ticket
+
+=> AFP : les informations sur l'installation du plugin teletrax sont ajoutés dans la KB
+
+=> GOTV : relance du support Harmonic. Le support Harmonic a répondu. Il y a des erreurs sur les fichiers reçus par GOTV. En attente du retour de Gilbert.
+
+=> NRJ : envoi du récapitulatif des fermes NRJ à Sandrine
+
+=> NRJ : ré-initialisation de le licence temporaire sur la ferme de test
+
+=> FTV Mpeg4 : problème d'encodage sur Rhozet à Besançon. J'ai reçu les logs. Il semble qu'il y ai eu une demande de maintenance manuelle sur WFS qui aurait fait bugger la ferme. En attente de leur retour.
+
+=> FTV Mpeg4 : Toulouse indique des problèmes de qualité de transcodage sur une publicité à Toulouse et le Soir3 de Montpellier. En attente des fichiers pour vérifier. J'ai reçu les fichiers mais il y en trop et pas possible de savoir quoi chercher. J'ai eu les infos par un retour de mail. Il existe un problème d'aliasing. je suis en train de faire un comparatif afin de voir si j'ouvre un ticket chez Harmonic à ce sujet.
+
+=> Lylo : demande d'information sur réglage des pistes dans un test plan. ok
+
+=> Level : Problème de perte de rapports customisés Baton après upgrade en version 7.3. Je dois faire une remote avec eux Lundi matin.
+
+=> LTS / MAP Maroc : Prestationd e configuration. J'ai passé 2 heures sur leur configuration. Ils disent qu'il y a des images noires en débu de fichier après encodage. En fait, c'est à la lecure sur le Spectrrum car la première image des fichier sen sortie est bien une image et pas un noir. Les fichiers dont le nom est en arabe ne sont pas pris par le watchfolder Carbon. J'ai essayé plusieurs modifications sans succès. J'ai demandé officieusement à Amit et Alex Lopez en parlant d'un WFS en "grace period" mais je n'ai pas encore de retour de leur part. 
+
+=> Eolementhe : Modification des scripts de démarrage sur Jenkins pour vérifier le démarrage de Sigagent et Eolemenhe afin de s'assurer que le point de montage /var/eolementhe soit bien monté. 
+
+=> Eolementhe : Roadmap. Eolementhe V5 est terminé. le .top et la .net sont en dernière version et en attente de retour des bugs de la part des équipes. Transformation du front en react. Il faut aussi faire de la HA avec docker swarm. il faut que la HA soit aussi sur la partie transcodage (controlleur backup WFS) et QC additionnel avec Baton.
+Ajouter d'autres polices dans les burn avec ffmpeg et ajout d'un graphique d'animation avec nom du présentateur avec offset de temps. Ajouter des mark in et mark out, sur la video, le son et le sous-titre. 
+
+=> Videomenthe : migration de la KB sur Dynamics. ok
+
+=> Videomenthe : déplacement avec Eric le 8/11 chez AB et Trace TV. Eric propose que j'assiste à la conf Paris Video tech le soir même et que je rentre le lendemain matin.  
+So Ok, je prends les billets de train et l'hôtel.
+https://www.meetup.com/fr-FR/Paris-Video-Tech/events/255606721/?action=rsvp&response=yes
+

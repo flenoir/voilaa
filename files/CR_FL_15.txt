@@ -1,0 +1,21 @@
+=> Eolementhe: travail sur déploiement .top avec un node_pool dedié à ffmpeg. Les tailles des VM nécessaires pour faire tourner les clusters sont réduites, j'ai pu modifier la taille des VM du cluster eolementhe sans avoir a reconstruire tout ce cluster. Désormais la taille de base des nodes sur .top et 4 cores pour le cluster eolementhe et 2 cores pour les nodes ffmpeg du cluster ffmpeg (la dynamique de scalabilité des nodes se faisant bien si la demande ffmpeg est plus importante)
+
+=> BCE: envoyer dongle à Ledion Rista. Ok sur le bureau de Sandrine (ancien dongle M6 22782 => ref AIZGI 20936)
+
+=> Level : relancer pour fermer ticket. Christophe n'a pas eu le temps de vérifier, le relancer sur la semaine du 26 Avril
+
+=> Videomenthe: création d'un script pour récupérer tous les jours les nouveaux inscrits sur eolementhe.com. Le script se lance automatiquement via Github Actions tous les jours à 18h30
+
+=> TF1: La dernière version de Baton+ est la 2.6, j'ai demandé laquelle TF1 possède afin de voir pour qu'ils fassent l'upgrade
+
+=> Tandem : déchargement des cartes Jeudi et Vendredi
+
+=> INA: demande de support pour les aider à appliquer leurs licences baton avant upgrade. Je leur ai re-envoyé les mails avec les licences
+ avec les licences
+
+=> Cyta: fin des PAT (provisional acceptance tests) mercredi matin et réponse envoyée à Jutta. En attante de la part de Constantinos de dates pour la session de remote training
+
+=> Eolementhe : le code de test Cypress.io a été mis dans une repository eolementhe/tests sur notre compte github
+
+=> Videomenthe: j'avais fait de la place sur le NAS 233. Voir si c'est suffisant
+

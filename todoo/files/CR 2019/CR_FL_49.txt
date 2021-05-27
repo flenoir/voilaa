@@ -1,0 +1,30 @@
+=> PE: demande d'aide pour récupérer un fichier .srt modifié après validation sur une branche FR. et reset de plusieurs mots de passe.
+
+=> NoA FTV: faire TMA Mercredi à 15h pour vérifier leur workflow et le mapping audio. Il relançait le même fichier dans l'interface de Cambria Manager qui replantait. En soumettant un nouveau fichier cela marche, il y avait donc bien une correction dans la dernière version de Cambria FTC
+
+=> Euronews: effacement  fichiers de plus de 20 jours et remise de la purge à 20 jours sur le compte subtitle-manager. Ok
+
+=> NRJ : ré-installation Cambria après mises à jour Windows. Il subsiste une erreur sur l'installation de la base de données Cambria en Postgres, en vérfiant certains logs, je me suis aperçu qu'il y a avait un problème de droits sur un dossier Postgres avec le compte d'administration qui avait été fourni par NRJ. Vu avec Frdérreic Silence, j'ai pu ré-installer la base de données correctement sur le manager et les nodes. Il substistait un problème sur la license.  Logs envoyés à Capella, en attente de leur retour et d'une éventuelle remote à caler Jeudi en fin d'après-midi. En refaisant une remote avec Frederic Silence, il apparaît que les machines accèdent bien à internet mais qu'ils ne pingent aucun dns corrrectement. Nous faisons plusieurs modifications notamment sur le proxy de NRJ sans succès avant que Frédéric Silence ne revienne vers moi en ayant trouvé un workaround sur le réseau.  Ils avaient un firewall qui bloquait l'accès au service de license. Ok. Nous faisons le point et il m'a listé plusieurs questions que j'ai pu aborder lors d'un appel à David Dong Jeudi soir.  J'ai fais un mail détaillé Vendredi matin pour répondre à toutes les questions de NRJ. Voir Lundi pour savoir s'ils ont d'autres questions car je suis en formation Mardi et Mercredi
+
+=> Hiventy: questions sur réglages pour vérifications HDR. Renvoi des infos que Jozsef nous a donné. Ok pour le client qui doit nous faire un retour bientôt
+
+=> UEFA : réunion pour POC. Après validation par Muriel, créer les workflow demandes pour la démo et faire une video
+
+=> Interra Systems : reception des release notes de la version 7.6. Envoi à faire jeudi matin. Ok envoyé à tous les clients de faon individuelle, j'ai aussi envoyé à mail à David Witczanski de Dubbing pour l'informer des nouveautés.
+
+=> M6: demande de précisions de Simon Brossault sur Cambria FTC et Cambria Cluster. infos envoyées
+
+=> RMC / Nextradio : Appel de Quentin Berthet car le controlleur de la nouvelle ferme WFS ne démarre plus. Je me suis connecté en remote et le service controlleur ne démarrait plus avec une erreur "side by side". Après avoir fait plusieurs vérifications sur leur ferme, j'ai fait un "repair" à partir de l'installeeur WFS et rebooté. Le service controlleur s'est relancé. Il a fallu ensuite que je relance les services nodes sur chacun des nodes et que je relance tous les watchfolders. Ok
+
+=> Harmonic : demande d'extension de license temporaire. Relance faite ce Vendredi, en attente de retour
+
+=> FTV CDE: travail sur les test plan et la formation de la semaine prochaine. J'ai pris mes billets de train et l'hôtel. La grève SNCF semble reconduite Mardi. A suivre Lundi
+
+=> Eolementhe: Essais de mise en place de transfert alternatif à Signiant sur la base du protocole de SRT Alliance. Les applicatifs client et server sont dockerisés. A comparer avec débits Signiant
+
+=> Cyta : Lecture du document du tender, conversion du doc pdf des spécifications en Word et début de réponse
+
+=> Anaphi : envoi des prerequis pour installation Cambria FTC. En attente de son retour pour conf call la semaine prochaine et pris en main Cambria
+
+=> Deluxe : Réponse à la demande de Laurent Prévost et upload des presets sur le compte de Samuel Dominguez. Il apparaît que l'on a mis du temps à valider le moment où on mettait à disposition les test plans pour des histooires de facturation apparament ( cf extrait de mon CR de la semaine 43 : => Deluxe : les test plans sont finalisés. Ils sont sur le NAS dans le dossier\\10.0.0.233\technique\Bureau_Fabien\dossiers clients en cours\Deluxe sous le nom TestPlansExport_Deluxe_2019-10-21_10-44-53.zip MLB : as-tu fait les dernières modifications du 18/10 demandés par Laurent P. ? faut il livrer ? Oui les modifs sont faites,  j'attendais le feu vert pour uploader les tests plans sur leur compte Eolementhe.)
+

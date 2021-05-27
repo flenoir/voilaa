@@ -1,0 +1,20 @@
+=> RFI: réponse à Clément Bisset pour ouverture d'un compte à Matthieu Salabert. Ok
+
+=> Eolementhe: renvoi d'infos pour la demande  quotas Youtube. Ils demandent des modifications sur les "terms of use" les project ID's. création d'un ticket Github (3773). Il faut ajouter je pense dans les CGV les "term of us" comme précisé par Youtube dans le ticket. Il faut aussi ajouter les 2 project ID ' se conencter sur google API avec le compte support videomenthe". Attention, il est impératif de leur répondre avant Mardi soir.
+
+=> NRJ : échanges sur EZ Titles. J'ai demandé une license à EZ Title pour essayer de reproduire le problème de NRJ et effectivement, je n'arrive pas non plus à combiner les 2 sous-titres (Teletext et DVB Subtitles). En attente du retour de EZ Title sur la reproductibilité du problème sur la dernière version de Cambria FTC chez eux. 
+
+=> ARCServe: recréation des workflow et envoi de la vidéo. Jeudi nouvelle remote pour repréciser les workflows et leur utilisation sur leur propre compte. J'ai rrecréé le workflow complet pour Mariam afin qu'elle puisse editer les email et le workflow. Ce workflow est partagé avec l'autre manager (Amanda). A la demande de Mariam, j'ai aussi recréé un workflow plus simple avec une sortie seulement en anglais et allemand pour ne pas envoyer systématiquement à tout  le monde.
+
+=> Eolementhe : essais de la .com. Ouverture ticket 3771 (formulaires de metadonnées) et 3772 (Mediashuttle)
+
+=> CII: remplissage document sur la partie Google
+
+=> INA: demande de license temporaires  nugen. Demande faite à Markus, relancé ce Vendredi.  Markus a renvoyé les infos, Nugen a crée des liccencces teemporaires spécial "Covid-19". Info envoyée à l'INA mais ces licences ne sont pas encore présentes sur le compte de Francisco Camino, j'ai remonté l'info à Markus pour que Nugen fasse la modification. 
+
+=> FTV Bordeaux : demande de Philippe Mutelet sur les watermarking qui sont fait depuis Limoges. Je lui ai envoyé les infos pour qu'il puisse utiliser l'application Android de Kantar Media pour vérifier le tag de détection
+
+=> FTV CDE: question sur license Baton qui semble non présente sur Varet. En attente de leur retour pour verifier
+
+=> Videomenthe: travail sur Video Builder pour créer la concaténation de fichiers video. Code revu ce Vendredi avec Baptist , avec indications sur les améliorations à faire. 
+

@@ -1,0 +1,16 @@
+=> Cyta: La license a pû être réconciliée et j'ai pu faire le PAT. Il reste des points à valider. Ok. Re-préparation de presets Teletextet DVB et dolby. Préparer tag sur HEVC puis relancer invitation Cyta pour finaliser PAT la semaine prochaine. 
+
+=> Nextradio : rédaction réponse au CDC
+
+=> Videomenthe: dépannage PC Muriel
+
+=> Eolementhe: modification OPS .top et étude sur utilisation effective de ffmpeg (voir mail dedié). En attendant de peaufiner, il faudrait modifier la dynamique de scalabilité des nodes afin de créer un ou 2 nodes à la volée que les ressources de transcodage ffmpeg sont nécessaires
+
+=> Tandem : déchargement des cartes Jeudi et Vendredi
+
+=> Level : envoi des infos et du projet à Interra. Christophe Frère doit voir la modification demandée par Interra et revenir vers moi
+
+=> AO IA Sous-titrage FTV: lecture du document et réponse par mail
+
+=> M6: ils ont installé un controlleur WFS, je dois intervenir sur leur ferme Lundi ou Mardi pour appliquer une license
+

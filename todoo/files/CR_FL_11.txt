@@ -1,0 +1,34 @@
+=> NRJ : Mail de Fleur qui n'arrive pas à se connecter sur Eolementhe. Après l'avoir apellée, il s'avère que ça fonctionne
+
+=> Ninsight : demande de migration de license Carbon coder software sur une autre machine. Il n'est ps possible pour nous de générer une license software.
+
+=> RMC / Nextradio : pas de retour des licences dans le portail, je demande à Keith s'il peut les remettre. Il demande d'ouvrir un ticket, j'ai donc relancée Nextradio pour savoir ce qu'ils font. Vincent doit me répondre dans la semaine. En attente de retour
+
+=> Videomenthe: Problème de lancement de WFS après qu'il ai été éteint,  la license ne se remote pas correctement après reboot. Il faut essayer de changer la version pour voir si le problème existe toujours. En attendant, on est repassé en version "grace period" , je dois redemander à Keith de nous remettre les licences dans le portail.
+
+=> Renault : essayer  d'ajouter des synthés avec un habillage de fond. creation d'un preset ffmpeg dedié qui permet d'ajouter une bloc coloré derrière un texte qui affiche le nom des journalistes par exemple. Le workflow s’appelle "Renault2" sur eolementhe.com. Il faudrait par la suite pouvoir avoir un placeholder dans le preset ffmpeg afin de pouvoir soumettre une deuxième source afin d'ajouter une image png en lieu et place du bloc coloré. Je dois aussi voir s'il est possible de réaliser cela dans l'éditeur video.
+
+=> Videomenthe : travailler sur le ffmpeg pour l'éditeur video. En premier lieu, il faut un compte Visual Studio Code online. Ok compte créé et environnement installé. Voir avec Baptist la semaine prochaine pour démarrer les fonctionnalités.
+
+=> RMC / Nextradio : Matthieu Arnould redemande des infos sur le plugin d'import Xdream et la compatibilité avec Aviwest. je lui ai renvoyé les DLL fournies par Harlad, il doit essayer. En attente de son retour.
+
+=> NRJ : remote faite avec Benjamin Rucart pour les aider dans la configuration de Ez title. Ils veulent aussi pouvoir faire un ajout de sous-titre Teletext et DVB Subtitle ,en même temps ainsi qu'un offset. EZ Title nous a répondu sur les 2 questions, j'ai renvoyé les infos à Benjamin qui doit essayer. il a aussi reçu le license Kantar et je lui ai indiqué comment l'utiliser. je le relance en début de semaine pour savoir si tout est ok de leur côté.
+
+=> TDF : réalisation d'encodages mp4 vers DNxHD pour benchmark et ajout des benchmarks dans le tableau
+
+=> PE : ils ont remonté un problème de décalage entre la souris et l'interface, un ticket a été créé, j'ai demandé des précisions sur leur navigateur, en attente de leur retour. 
+
+=> Eolementhe : Jeudi matin test sur eolementhe.top toute la matinée , 2 tickets ouvert et document excel de test rempli. A fusionner avec celui qui avait été fait il y a quelques mois dès que je le retrouve
+
+=> NoA FTV : vérifier s'il ont une machine Linux à dispo. En attente de leur retour. il faudra trouver du temps pour lancer le déploiement Terraform de Eolementhe sur standalone Bare metal
+
+=> ARCserve : formation remote de 2h à caler sur dès que j'aurais pu revérifier sur les notifications sur eolementhe. A vérifier  Lundi
+
+=> Videomenthe: faire une liste de diffusion dans office 365 qui s’appelle videomenthe-github-notifications@videomenthe.fr avec uniquement les emails videomenthe de Muriel et Sandrine dedans.Ok le groupe est créé.
+
+=> Tandem: Déchargement des cartes et création d'un document de prise en main. Rapport envoyé ce Vendredi. Lundi il faudra mettre à jour la liste de destinataires.
+
+=> NRJ : envoi des infos à Jeremie Jouanny pour aider à upgrade ferme WFS. Vérifier la semaine prochaine en même temps que Cambria
+
+=> New AO PE:  J'ai pu faire une premièère version du document de réponse. le document est partagé sous Onedrive sous le nom "DRAFT- 1.5_Réponse Videomenthe_RFP_Webbase multilanguedsubtitling_PE.docx", je me suis surtout focalisé sur la mise à jour du début et surtout l'insertion des éléments de leur documents  à partir du point 3.2 avec l'ajout de copies écran et le détail de leurs demandes ( à peaufiner). A partir du point 3.3.11, il faudra affiner.
+

@@ -1,0 +1,32 @@
+=> FTV Ponant : En attente de leur retour pour leur mettre la license iLok pour Nugen AMB
+
+=> Radio France: installation lundi après-midi de 2 machines Cambria FTC cluster pour demonstration de Jeudi. Ok 1 machine installée en Cluster, voir Jeudi s'il faut en installer une autre. Démo faite jeudi, il faudra peut être les aider pour la configuration de certains presets. Il veut faire des essais sur la detection de clics dans Baton. Fichier récupérés et passés dans Baton. Je vérifie et lui renvoi les rapports Baton.
+
+=> Pixagility : suivre license qui devrait être ajoutée au portail. Relancé Jeudi matin
+
+=> Digital Post'n Prod : en attente du retour de Thierry Seux sur la Guyane
+
+=> Luxe TV : machine envoyée vendredi, en attente de réception sur place pour aider à la finalisation de l'installation. Mail envoyé à Emilie pour savoir si elle a bien reçu la machine. Elle confirme qu'elle a bien reçu la machine.
+
+=> NoA : faire un point avec Philippe Mutelet sur le FTP et UNC Retreival. Ok clarifier avec Capella le problème sur le FTP, voir s'ils peuvent reproduire. Philippe demande aussi comment faire un stitch de plusieurs fichiers dans un watchfolder. je lui ai envoyé la procédure
+
+=> Tandem : déchargement des cartes Lundi, Mardi et Vendredi
+
+=> IAM : Suivi avec Bertrand tu ticket en cours
+
+=> ARTE France : refaire une connexion VPN pour récupérer leurs fichiers. Informations envoyées à l'informatique chez eux pour essayer de faire la connection Cisco Anyconnect. Connection ok. faire le point avec eux sur les presets a verifier
+
+=> GOTV : relancer pour savoir si Gilbert a envoyé l'extrait demandé par Harmonic sur le ftp sur support Harmonic. Relancé Lundi. Gilbert renvoi les fichiers.
+
+=> FTVOM : relancer Harmonic pour les nouveaux fichiers .c2v. Relancé lundi. Vérifier avec Amit et Rohan s'ils peuvent ou pas, comme il n'y a plus de support, faire le changement de license sur une autre machine. Rohan demande les Hasp ID pour vérifier s'il peut créer les nouvelles licences, je les lui ai envoyé, en attente de son retour. Rohan confirme qu'on ne peut pas migrer les licences sur une autre machine
+
+=> Groupe Secom : envoyer une version Cambria FTC à Vincent Charley. Ok. Demander une license software à Capella car l'installation sera faite sur du hardware. Clé de license envoyée à Vincent Charley. En attente de son retour. 
+
+=> NRJ : vérifier avec eux s'ils ont toujours le problème de Timeout sur WFS. Jérémie répond que le timeout ne s'est pas reproduit depuis vendredi.  Jérémie n'a plus eu le problème de timeout avec le changement de clé de registre.
+
+=> Google Cloud : J'ai été contacté par Google pour m'informer sur leu produits. Il peut être intéressant de comparer les prix et les services. Ils doivent me recontacter la semaine prochaine.
+
+=> Capella : lister les licences temporaires en cours (demander à Capella, les 2 notre sur le serveur de license flottante, la .cloud, Noa, Groupe secom, etc... ). Demander des bench à Capella et récupérer build pour les imagettes avec un pourcentage. Preparer les licenses de Cambria.net pour FTVEN et ne l'allumer que pour leurs essais.  Il y aura un build spécial pour FTVEN (voir si la demande de NRJ et FTVEN seront dans le même build). 
+
+=> Level : appel pour savoir si Baton va intégrer une correction de niveau video. BCC ne convient pas car il ressort des fichiers non compressés, alors que Christophe Frère veut des fichiers .mxf ou .mov. Il a regardé Vidcheck et Vantage qui le  font.
+

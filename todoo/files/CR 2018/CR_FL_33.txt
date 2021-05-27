@@ -1,0 +1,10 @@
+=> NRJ : demander à se connecter pour désallouer license. vérifier si on peut savoir quelle machine c'est avec le numero d'entitlment. demande de connection refaite ce lundi. Ok licenses 	49001339270916 et 57477405270916  retirée de la ferme de test. Information envoyée à Harmonic pour finir le RMA
+=> M6 : Appel de Simon Brossault pour l'aider à débugger un problème sous WFS 1.5 ( ils soumettent des jobs a stitcher par MBT en API et le workflow plante). Il doit m'envoyer les logs et copie écran. support jusqu'au 31 mai 2019. Les logs montrent des problèmes sur des champs de base de données non trouvés et des problèmes de mise en forme regionales de dates. Ticket ouvert chez Harmonic
+=> Videomenthe : continuité de mise en place Grafana avec l'ajout de notion de "rôles" pour de déploiement de monitoring Grafana (telegraf) avec Ansible. Backuper cette partie sur la machine 138
+=> M6 : faire compte-rendu de formation. Ok fait et envoyé à Sandrine. 
+=> Videomenthe: faire video ce Mardi ou Lundi soir. 3 videos ont été faites (Workflow simple STT avec edition.mp4, Workflow conditionnel wrapper.mp4 et Workflow STT parallele.mp4) sur le NAS dans le dossier "\\10.0.0.233\Interne VM\Vidéo démo Eole"
+=> Videomenthe: vérifier ce qui est sur Gandi. Tous nos noms de domaine sont dessus. On peut le garder sur Gandi car si on passer chez OVH, il faut repayer cet hébergement. OK Videomenthe .fr et .com renouvellés
+=> Nextradio : mettre à jour le mot de passe envoyé par SMS. Ok fait dans Dashlane
+=> Videomenthe : tester Videoindexer => pertinence traduction et reconnaissance faciale. Synthèse envoyée à Muriel. A continuer fin Août
+=> Videomenthe : tester pertience et outil https://www.descript.com/. La semaine du 27/08
+=> RGPD: avancement des fichiers PIA à valider. 

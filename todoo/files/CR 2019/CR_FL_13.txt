@@ -1,0 +1,32 @@
+=> GOTV : probleme d'encodage AC3 avec Dash. Fichiers reçus de la part de Gilbert Savona, envoyés à Harmonic. En attente du retour de Harmonic
+
+=> FTV : reconfiguration machine Antibes (reconfiguration Raid et rebuild disk slot1, ré-installation et configuration). Ok.  demander le fichier ConfigAntenne pour finaliser la configuration de la machine spare. Fichiers reçu. appliquer licences WFS, OK et demander l’enlèvement de la machine par Francetelevisions. Ou validation déplacement pour installer la machine. Machine prête, il restera juste à vérifier que la machine remonte bien dans l'Ad chez eux, faire tourner les services sur le bon compte et remettre les fichiers de configuration de Server2splicer  quand elle sera connectée dans leur réseau.
+
+=> NoA : problème sur mapping audio sur 3 pistes mono. et problème de "FTP Retrieval". Ok
+
+=> Pixagility : Remote pour changer de controlleur. Changer IP. Ok. Les recontacter la semaine prochaine pour remettre les licences.
+
+=> Groupe Secom : encoder en x265 leur 3 fichiers. C:\ffmpeg\bin>ffmpeg -i \\10.0.0.121\eolementhe\MyDayDubai_S01E11_DNxHR_HQX.mxf -c:v libx265 -b:v 15M -pix_fmt yuv420p10le -preset fast -c:a aac MyZenDubai_H265_10bits.ts -y
+
+=> FTV Siège : demander à Thierry Brochard pour faire une session Teamviewer pour remplacer les licences. Plusieurs remotes faites avec Amit car le logiciel de license Sentinel était bloqué aussi bien sur la license HL et SL. Après ré-installation de WFS, le logiciel de licensing a permis de ré-éditer le fichier de license. Amit a régénéré une license SL. Ticket a fermer lundi après verification auprès de Thierry Brochard
+
+=> Pixagility : question de Melissa sur encodage audio en CBR. Amit réponds qu'on ne peut pas regler le bitrate audio sur CBR avec l'audio en AAC
+
+=> FTV OM : Migration de licences SL sur 2 nouvelles machines. Clément n'arrive pas à générer les 2 nouvelles licences SL. La version de Carbon coder est 3.20, je lui demande de mettre une version 3.28. Il doit ré-installer les machines Lundi.
+
+=> FDI : Appel de Nicolas Fleury car Baton a crashé. Il demande une license temporaire . Il doit renouveller le SLA qui est se termine fin Mars
+
+=> Videomenthe : astreintes fevrier et mars, HS et NDF. Ok
+
+=> NoA : Appel de Philippe Mutelet car sur certains fichiers la normalisation audio ressort avec un niveau trop bas. En attente de ses fichiers pour vérifier. Il demande aussi est ce qu'on peut synchroniser 2 NAS avec Cambria. Question posée à Capella en attente de leur retour
+
+=> Equipe TV : demande si Cambria encode du XAVC 50i en mp4. OK. En attente  de leurs fichiers pour faire un benchmark sur une demande  de transcodages de 800To. Fichiers reçus. A encoder la semaine prochaine
+
+=> Studio Post'n'Prod : depuis Mardi les fichiers envoyés ne passent pas bien en AS10. BmxtransWrap renvoi une erreur sur les audios. Il s'agit plutôt d'une erreur sur le fichier de métadonnées. Le fichier media est ok. Envoi sur les plateformes .top, .fr et .com, pas d'erreur, cela fonctionne.
+
+=> Tandem : déchargement des cartes Lundi, Mercredi, Jeudi et Vendredi
+
+=> RMC / Nextradio : Problème de connexion de leur nouvelle installation WFS sur une BDD externe. Remote faite mais tous les prérequis et infos issues de la KB n'ont pas permis de faire cette connexion.. Ticket ouvert chez Harmonic. a suivre la semaine prochaine
+
+=> AB : Ok pour POC Lundi. Licenses demandées à Capella. Dernière version de Cambria Live téléchargée pour mise en  place du POC Lundi après-midi
+

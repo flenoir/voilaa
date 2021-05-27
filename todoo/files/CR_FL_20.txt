@@ -1,0 +1,24 @@
+=> Eolementhe Corporate : aide pour une personne (Alice) qui n'arrive pas à uploader son contenu. J'ai récupéré son fichier par wetransfer et je l'ai uploadé pour elle
+
+=> Groupe Secom : donner une taille de ferme approximative. Ok affiner en fonction des retour des Vincent Charley
+
+=> PE : tester workflow avec firefox. Ok on peut désormais peupler les branches. OK
+
+=> AO FTV Cloud : faire le point avec Azure Mardi matin. Ok donc sous NDA envoyés, en attente de leurs retours
+
+=> FTV Siège :  récupération du test plan avec les licences DolbyE et demande d'infos sur l'édition du TC sur BMP. Jozsef joue au chat et à la souris et ne réponds pas vraiment aux question car il semble il y avoir un erreur sur les dates de SLA entre chez eux et Sony
+
+=> Videomenthe: modification des droits du CRM pour Muriel. Ok
+
+=> PE : demande de Delphine de récupérer ses anciens .srt de Février qui sont bloqués sur le .cloud. Je lui ai donné la manipulation pour le faire. En attente de son retour et de ses fichiers
+
+=> La Labo : Demande de rehosting en cours
+
+=> PE: découper les 4 videos de webinaire. La machine A06 est éteinte, je dois passer au bureau pour la rallumer
+
+=> Eolementhe: tests des wf clients sur la .top.Ok
+
+=> Euronews : demande d'assistance sur un workflow. après création du ticket et appel téléphonique de ma part, elle me dit que c'est un problème interne chez eux. je ferme le ticket. Ok
+
+=> NoA Bordeaux : j'essaye de continuer le script Terraform. J'ai dû un peu bosser sur les credentials du dockerhub pour les utiliser dans les "secrets"" de terraform. J'en suis à la mise en place d'un pod mongodb en Statefulset sous Kubertnetes au travers d'une ressource Terraform
+

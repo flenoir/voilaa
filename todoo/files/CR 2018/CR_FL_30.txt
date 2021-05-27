@@ -1,0 +1,13 @@
+=> Cordon Web : license temporaire étendue avant reception du paiement. 
+=> BCE: license permanente Baton appliquée
+=> CTM / DGEN Algerie  : demander les nouvelles licences permanentes. License demandées. Rohan demande pourqoui on a pas appliqué les licences. Répondu Jeudi avec demande de générer les nouvelles licences permanentes.
+=> M6: test plans reçu, à tester sur Baton 7. version temporaire possible et le plugin Vantage est compatible. Les testplans sont ok sur Baton 7.
+=> ARTE: ré-isintallation faite du controlleur et des 2 nodes avec QT 7.7.4. La ferme est en grace period. Les presets et workflow n'ont pas été remontés pour le moment, la DB s'appelle WFSDB. Ils doivent tester les workflows qui posent problème et revenir vers nous. le plugin X-Dream n'est pas installé.
+=> Deluxe: faire le point pour les test plans. réunion planifiée Vendredi à 10h. Ok fait, les tests se feront vers le 20 Août sur ds formats ProRes et MXF AS-10. Par la suite, ils veulent aussi faire un traitement Loudness et la brique Minnetonka correspondrait bien à leur demande.
+=> NRJ: suivre avec Bertrand le RMA. Dernier fichiers .c2v collecté et envoyé pour RMA. En attente retour Harmonic sur les nouvelles licences.
+=> Formations : rédaction des plans de formation Cambria FTC, AWS, Azure et Transcodage. Ok fait avec la version sécurité à revoir avec Bertrand.
+=> Abidjan : répondre sur la possibilité de transcodage WFS et FTC. Envoyer les versions demo au client. Carbon coder et Cambria FTC envoyé.
+=> FTV / harmonic: demande si on a fait des modif sur les machines FTV car il y a une desynchro lipsync. Répondu puis mail de Jean-Christophe Denninger sur vérification de GOP sur fichiers projet Mpeg4. Les fichiers sont bien en gop fixe de 32. Discussion avec les techniciens Harmonic en charge des splicer en cours sur les images IDR. En cours.
+=> Lagardère : demande de communiquer les testplans des chaînes de TV. réponse de prestation à chiffrer. ok
+=> Appel offre services FTV : Faire un retour. ok
+=> INa: demande d'information pour voir si Baton Media Player lit bien le jpeg2000 entrelacé. question envoyée à Interra, en attente de leurs retour. En cours.

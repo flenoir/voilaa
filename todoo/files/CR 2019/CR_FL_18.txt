@@ -1,0 +1,38 @@
+=> IAM : Conf call Jeudi 02/05 à 13h30. Revoir doc dernière réunion. Revue du dernier CR (Atelier2) et prochains dev à planifier. Semaine du 13 au 17 Mai : Vlad en mode "capuche". il faut une machine pour Cambria FTC et 1 machine HW pour le serveur de license. Prévoir qq heures de formation sur le logiciel. Installation et formation le 9 et 10 Mai.  
+
+=> Videomenthe : extension de licences Dev et Videomenthe. redemander license temporaire fin Mai
+
+=> Lagardère : installation Mediashuttle Vendredi à 11 en remote par BC
+
+=> TF1 / Prod Sète : toujours des problèmes de livraison de temps en temps. A suivre la semaine prochaine. 
+
+=> Euronews : refaire le point sur le workflow, la plateforme utilisée, le sous-titrage et le burn les utilisateurs et managers, les formations à faire, etc... Doc formation envoyé à BC. Il nous reste à formaliser la formation du 16 Mai avec Laurent de Rodez. J'ai refais un essai de sous-titrage avec les réglages 180 et 120 et les sous-titres 2 ligne s'affichent bien dans le bon ordre et au-dessus de leur gabarit graphique. Dans la formation, il faut préciser tous les réglages de marge pour les presets de burn de sous-titres.
+
+=> ARTE Strasbourg: problème de license après reboot VMWare ? Grace period tool utilisé, en attente de refournir les licences sur le portail pour remettre les entitlments. Mail renvoyé à Keith pour qu'il remette les licences dans le portail.
+
+=> Empreinte digitale : Reperage pixel mort pas possible dans Baton.
+
+=> VDM : tasks aborted dans Baton. Verification de licence sur machine 242
+
+=> Videomenthe : reunion Lundi. Formation MS ( Ok fait avec Bertrand ce Vendredi matin).  Lister les WF de la .com à migrer sur la .cloud. Bertrand à migré les wf Adstream et Studio post and prod, reste à faire la semaine prochaine FDS / Empreinte et EPC ( penser à les avertir car il faudra recréer leur compte sur la .cloud)
+
+=> MTV : Rehosting  en cours. Baton Service Manager n'est pas démarré mais les services sont ok. Remote à faire à son retour de congés.
+
+=> Hiventy : Baton pour PSE. ils doivent envoyer un fichier , en attente du NDA.
+
+=> NoA : FTP sur les fichiers de plus de 1.5 GB ne semblent pas être pris par FTP Retreival. Infos de david Dong sur les fichiers ttemproaires du FTP Retreival qui sont quand même encodés et demande de Remote à Philippe Mutelet pour voir le fichiers de plus de 1,5 GB
+
+=> GOTV : AC3 on Xpress. relancé par BC Lundi. 
+
+=> Level: duplicate frame, vérifier s'il a envoyé les medias et test plans. Le problème semble plutôt un problème de conversion de frame rate 23 vers 25 qui crée régulièrement des "duplicate frame" . Christophe doit vérifier lundi et revenir vers nous. Le check se fait avec Teleciné réglé sur 2-2
+
+=> France24 : ils doivent déployer la version 2.3.2 pour vérifier la désynchro. Relancé Jeudi, pas encore de retour
+
+=> Pixagility : refaire une passe sur les RMA demandés par Pixagility. 
+
+=> PE : Delphine demande pourquoi son fichier n'est plus disponible. Elle n'avait pas noté que la purge était à 5 jours. 
+
+=> Arte Paris : Jeudi 9 Mai à 10h30, vérifier machine WFS avant venue de Rémi pour installation Eolementhe en standalone chez eux le 16 Mai
+
+=> FTV Antibes : Voir avec Pascal Laffut si on va installer la machine chez eux ou si on l'envoi.
+

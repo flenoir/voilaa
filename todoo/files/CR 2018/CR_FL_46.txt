@@ -1,0 +1,32 @@
+=> Lylo : aide pour configurer Mails pour Baton. OK fait
+
+=> PMU : aide pour la mise en place d'un WFS en version 2.3.2 avant upgrade. Machine Ok
+
+=> Titra TVS : tester fichier pour problème de détection de freeze et black bar. Envoi à Interra car les réglages actuels ne permettent pas de detecter les duplicates frames. Il faut activer le check "Telecine" et surtout "progressive jitter". en attente du retour de Titra_TVS
+
+=> Trace TV : problème de licence ALCR. renvoyer la réponse de Minnetonka. il faut qu'ils mettent à jour la version du plugin sur le controller et le node. Si cela ne marche pas Minnetonka fera une remote. En attente de leur retour.
+
+=> Pixagility : demande de licence temporaire pour WFS 16.1 . demandé à Harmonic, en attente de leur retour. Ok fait
+
+=> Pixagility : probleme de licence Kantar sur le node 3. Le fichier .aud fait 0 kilo. Il doit revoir avec Kantar pour recupèrer la bonne licence et me dire si c'est ok.  Ils ont remise le fichier. OK
+
+=> Pixagility : problème d'écriture sur dossiers de sortie avec WFS. Faire remote. Un dossier de destination était mal nommé.
+
+=> NRJ : des fichiers rapportent une erreur de conformance MXF. Je lui ait dit comment éviter l'erreur en modifiant les "conformances checks " de la ferme. OK
+
+=> L'équipe TV : aide pour mise en place update Carbon en version 3.28. Ils doivent redémarrer le service Nexus et refaire un essai sur leurs fichiers XAVC. J'ai proposé de les aider. En attente de leur retour.
+
+=> NBC : Demande d'informations sur la détection speech to text. J'ai précisé que l'ambiance sonore, la présence de mots anglais dans un contexte français ou certaines prononciation ne sont pas bien détectée en STT. L'interface permet de corriger et ajouter les mots manquants. 
+
+=> FTV Antibes : Les machines sont opérationnels. Il manque les numéro de série Windows et les licences Kantar que Houcine doit nous envoyer pour finir la configuration et remettre en place la machine principale de Antibes. 
+
+=> FTV Montpellier : il n'arrivent pas à finaliser la configuration Kantar pour la machine de spare. Je dois faire une TMA avec eux Lundi pour cela oui éventuellement y aller ca ira plus vite. 
+
+=> FTV Ponant : refaire machine magasin technique. reporté à Mercredi prochain
+
+=> FTV CDE : preparer avec Sony, l'upgrade des Baton du CDE. Faire conf call avec Sony. OK il a été convenu de faire la migration de la pré-prod en semaine 48 et, si cela se passe bien, de finir les 2 autres fermes Baton en semaine 49 ou 50. Cela se fera en remote.
+
+=> Tandem : déchargement des cartes Jeudi et Vendredi
+
+=> Eolementhe : modification script ffmpeg pour sous-titres RFI. Les fichiers .srt se basent sur une résolution 384x288, en les convertissant en .ass, on peut modifier la résolution en 1920x1080. On peut positionner correctement.  J'ai trouvé aussi les valeur pour la transparence. Il subsiste un problème sur la séparation des sous-titres quand il y a 2 lignes.
+
