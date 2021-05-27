@@ -1,0 +1,13 @@
+[Unit]
+Description=Gunicorn instance to serve hello
+After=network.target
+
+[Service]
+User=flask
+Group=www-data
+WorkingDirectory=/home/flenoir/voilaa
+Environment="PATH=/home/flenoir/voilaa/venv/bin"
+ExecStart=/home/flenoir/voilaa/venv/bin/gunicorn --workers 3 --bind unix:hello.sock -m 007 app:app
+
+[Install]
+WantedBy=multi-user.target
